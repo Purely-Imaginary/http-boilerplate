@@ -1,8 +1,6 @@
 package repositories
 
 import (
-	"log"
-
 	"../tools"
 	"github.com/rushteam/gosql"
 )
@@ -28,9 +26,8 @@ func (u *SQLDownloadedUrl) DoesExistsInDB() int64 {
 }
 
 func (u *SQLDownloadedUrl) InsertIntoDB() {
-	ret, err := DBEngine.Insert(u)
-	log.Println(ret)
-	log.Println(err)
+	_, err := DBEngine.Insert(u)
+	tools.Check(err)
 }
 
 /*

@@ -8,7 +8,7 @@ import (
 )
 
 type SQLRawMatch struct {
-	ID                int64  `db:"uid,pk"`
+	ID                int64  `db:"id"`
 	Time              string `db:"time"`
 	RawPositionsAtEnd string `db:"positions"`
 	RedScore          int64  `db:"red_score"`

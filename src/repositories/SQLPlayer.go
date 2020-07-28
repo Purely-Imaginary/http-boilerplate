@@ -1,7 +1,7 @@
 package repositories
 
 type SQLPlayer struct {
-	ID          int64   `db:"uid,pk"`
+	ID          int64   `db:"id"`
 	Name        string  `db:"name"`
 	Wins        int64   `db:"wins"`
 	Losses      int64   `db:"losses"`

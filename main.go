@@ -5,8 +5,10 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"time"
 
 	"./src/controllers"
+	"./src/models"
 	"./src/repositories"
 	"github.com/rushteam/gosql"
 )
@@ -17,15 +19,13 @@ var startingRating float32 = 1000.0
 var DBEngine *gosql.PoolCluster = controllers.InitializeDB()
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
-	counter := 1
 	filepath.Walk(controllers.ParsedReplayFolder, func(path string, info os.FileInfo, err error) error {
 		if info.IsDir() {
 			return nil
 		}
 		if filepath.Ext(path) == ".json" {
-			match := controllers.ReadMatchFromFile(path, false)
-			match.InsertIntoDB(DBEngine, counter)
-			counter++
+			match := controllers.ReadMatchFromFile(path)
+			match.InsertIntoDB(DBEngine)
 		}
 		return nil
 	})
@@ -34,16 +34,14 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 }
 
 func parseReplay(w http.ResponseWriter, r *http.Request) {
-	matchID := controllers.ProcessReplay(r)
+	startTime := time.Now()
+	matchId := controllers.ProcessReplay(r)
 
-	match := controllers.ReadMatchFromFile(replayName, true)
+	match := models.GetMatchByID(matchId)
 
-	outputMessage := controllers.ExportHTML(match)
-
-	fmt.Fprintf(w, outputMessage)
-	// if !matchExists {
-	// calculateMatch(match)
-	// }
+	outputMessage := controllers.ExportHTML(*match)
+	t := time.Now()
+	fmt.Fprintf(w, outputMessage+"\n"+(t.Sub(startTime).String()))
 }
 
 func main() {

@@ -14,16 +14,21 @@ func ProcessReplay(request *http.Request) int64 {
 	if id != 0 {
 		return id
 	}
-
 	replayName := DownloadReplay(downloadPath)
+	id = processReplayFromFile(replayName)
+
+	urlToCheck.MatchID = id
+	urlToCheck.InsertIntoDB()
+
+	return id
+
+}
+
+func processReplayFromFile(replayName string) int64 {
 
 	rawMatch := ReadMatchFromFile(replayName)
 
 	calculatedMatch := calculateMatch(rawMatch)
 
-	urlToCheck.MatchID = calculatedMatch.ID
-	urlToCheck.InsertIntoDB()
-
 	return calculatedMatch.ID
-
 }

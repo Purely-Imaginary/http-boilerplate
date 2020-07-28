@@ -32,7 +32,7 @@ func DownloadReplay(path string) string {
 
 	ParseReplay(replayName)
 
-	return id
+	return replayName
 }
 
 // ExtractURL takes request object and extracts filepath to replay file to download
