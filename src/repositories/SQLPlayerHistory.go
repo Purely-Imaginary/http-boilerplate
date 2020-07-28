@@ -1,9 +1,10 @@
 package repositories
 
 type SQLPlayerHistory struct {
-	ID       int     `db:"uid,pk"`
-	PlayerID int     `db:"player_id"`
-	Time     int     `db:"timestamp"`
+	ID       int64   `db:"uid,pk"`
+	MatchID  int64   `db:"match_id"`
+	PlayerID int64   `db:"player_id"`
+	Time     int64   `db:"timestamp"`
 	Rating   float32 `db:"rating"`
 	IsRed    bool    `db:"is_red"`
 }

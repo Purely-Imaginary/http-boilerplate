@@ -7,13 +7,14 @@ import (
 	"path/filepath"
 
 	"./src/controllers"
+	"./src/repositories"
 	"github.com/rushteam/gosql"
 )
 
 var startingRating float32 = 1000.0
 
 //DBEngine is just what you think it is
-var DBEngine *gosql.PoolCluster
+var DBEngine *gosql.PoolCluster = controllers.InitializeDB()
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
 	counter := 1
@@ -33,9 +34,8 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 }
 
 func parseReplay(w http.ResponseWriter, r *http.Request) {
-	downloadPath := controllers.ExtractURL(r)
-	replayName := controllers.DownloadReplay(downloadPath)
-	controllers.ParseReplay(replayName)
+	matchID := controllers.ProcessReplay(r)
+
 	match := controllers.ReadMatchFromFile(replayName, true)
 
 	outputMessage := controllers.ExportHTML(match)
@@ -47,7 +47,7 @@ func parseReplay(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	DBEngine = controllers.InitializeDB()
+	repositories.DBEngine = controllers.InitializeDB()
 	http.HandleFunc("/", HelloServer)
 	http.HandleFunc("/regenerate", regenerateData)
 	http.HandleFunc("/p", parseReplay)

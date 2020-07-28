@@ -13,6 +13,7 @@ func processPlayersFromTeam(players []string) ([]models.Player, float32) {
 	var parsedPlayers []models.Player
 	var ratingSum float32 = 0
 	for _, rawPlayerName := range players {
+		
 		if _, ok := playersDB[rawPlayerName]; !ok {
 			var newPlayer models.Player
 			newPlayer.ID = len(playersDB) + 1
@@ -32,14 +33,14 @@ func processPlayersFromTeam(players []string) ([]models.Player, float32) {
 	return parsedPlayers, (ratingSum / float32(len(parsedPlayers)))
 }
 
-func processTime(timeString string) int {
+func processTime(timeString string) int64 {
 	layout := "2006-01-02 15:04"
 	t, err := time.Parse(layout, timeString)
 	if err != nil {
 		panic("Can't parse time format")
 	}
 
-	return int(t.Unix())
+	return t.Unix()
 }
 
 func calculateRatingChange(calculatedMatch models.CalculatedMatch) float32 {
@@ -106,7 +107,7 @@ func calculateMatch(rawMatch models.RawMatch) models.CalculatedMatch {
 	processedMatch.Teams.Blue.RatingChange = -processedMatch.Teams.Red.RatingChange
 
 	updatePlayers(processedMatch, rawMatch)
-
+	processedMatch.ID = processedMatch.InsertToDB()
 	return processedMatch
 
 }

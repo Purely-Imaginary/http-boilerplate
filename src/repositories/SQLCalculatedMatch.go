@@ -1,10 +1,10 @@
 package repositories
 
 type SQLCalculatedMatch struct {
-	ID           int     `db:"uid,pk"`
-	Time         int     `db:"timestamp"`
-	RedScore     int     `db:"red_score"`
-	BlueScore    int     `db:"blue_score"`
+	ID           int64   `db:"uid,pk"`
+	Time         int64   `db:"timestamp"`
+	RedScore     int64   `db:"red_score"`
+	BlueScore    int64   `db:"blue_score"`
 	RatingChange float32 `db:"rating_change"`
 }
 
