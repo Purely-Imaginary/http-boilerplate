@@ -49,9 +49,14 @@ func calculateRatingChange(calculatedMatch models.CalculatedMatch) float32 {
 	winChance := float32(1 / (1 + powerPiece))
 	scorePerformance := float32(0.5)
 	if !(calculatedMatch.RedTeam.Score+calculatedMatch.BlueTeam.Score == 0) {
-		// scorePerformance = float32(calculatedMatch.RedTeam.Score) / float32(calculatedMatch.BlueTeam.Score+calculatedMatch.RedTeam.Score)
 		scoreDifference := calculatedMatch.RedTeam.Score - calculatedMatch.BlueTeam.Score
-		scorePerformance = float32(scoreDifference+10) / 20
+		if scoreDifference > 0 {
+			scorePerformance = (((float32(1-winChance) / 10) * float32(scoreDifference)) + winChance)
+		} else {
+			scorePerformance = (((float32(winChance) / 10) * float32(scoreDifference)) + winChance)
+		}
+		// Old calc method:
+		// scorePerformance = float32(scoreDifference+10) / 20
 	}
 	ratingChange := (scorePerformance - winChance) * kCoefficient
 	ratingChangePerPlayer := ratingChange / float32(len(calculatedMatch.RedTeam.Players))
