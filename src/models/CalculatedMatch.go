@@ -2,10 +2,9 @@ package models
 
 import (
 	"../repositories"
-	"../tools"
-	"github.com/rushteam/gosql"
 )
 
+// Team .
 type Team struct {
 	Players       []PlayerSnapshot
 	AvgTeamRating float32
@@ -22,6 +21,7 @@ type CalculatedMatch struct {
 	RawPositions string
 }
 
+//InsertToDB .
 func (cm *CalculatedMatch) InsertToDB() int64 {
 	match := &repositories.SQLCalculatedMatch{
 		Time:         cm.Time,
@@ -33,41 +33,26 @@ func (cm *CalculatedMatch) InsertToDB() int64 {
 		RawPositions: cm.RawPositions,
 	}
 
-	res, err := repositories.DBEngine.Insert(match)
-	tools.Check(err)
-
-	matchID, _ := res.LastInsertId()
-	// for _, player := range append(cm.RedTeam.Players, cm.BlueTeam.Players...) {
-	// 	playerHistory := &PlayerSnapshot{
-	// 		MatchID:  matchID,
-	// 		PlayerID: player.ID,
-	// 		Rating:   player.Rating,
-	// 	}
-	// 	repositories.DBEngine.Insert(playerHistory)
-	// }
-	return matchID
+	repositories.DBEngine.Save(match)
+	return match.ID
 }
 
-func GetMatchByID(id int64) *CalculatedMatch {
-	SQLObject := &repositories.SQLCalculatedMatch{}
-	err := repositories.DBEngine.Fetch(SQLObject,
-		gosql.Where("id", id))
-
-	if err != nil && err.Error() == "sql: no rows in result set" {
-		return nil
+// HydrateMatch ..
+func HydrateMatch(SQLObject repositories.SQLCalculatedMatch) CalculatedMatch {
+	var playersSnaps []PlayerSnapshot
+	repositories.DBEngine.Find(&playersSnaps, "match_id = ?", SQLObject.ID)
+	var redPlayers []PlayerSnapshot
+	var bluePlayers []PlayerSnapshot
+	for _, playerSnap := range playersSnaps {
+		if playerSnap.IsRed {
+			redPlayers = append(redPlayers, playerSnap)
+		} else {
+			bluePlayers = append(bluePlayers, playerSnap)
+		}
 	}
 
-	var redPlayers []PlayerSnapshot
-	err = repositories.DBEngine.FetchAll(&redPlayers,
-		gosql.Where("match_id", id),
-		gosql.Where("is_red", true))
-	var bluePlayers []PlayerSnapshot
-	err = repositories.DBEngine.FetchAll(&bluePlayers,
-		gosql.Where("match_id", id),
-		gosql.Where("is_red", false))
-
 	resultObject := &CalculatedMatch{
-		ID:   id,
+		ID:   SQLObject.ID,
 		Time: SQLObject.Time,
 		RedTeam: Team{
 			Players:       redPlayers,
@@ -81,21 +66,51 @@ func GetMatchByID(id int64) *CalculatedMatch {
 			Score:         SQLObject.BlueScore,
 			RatingChange:  -SQLObject.RatingChange,
 		},
+		RawPositions: SQLObject.RawPositions,
 	}
-	tools.Check(err)
 
-	return resultObject
+	return *resultObject
 }
 
+// GetMatchByID .
+func GetMatchByID(id int64) *CalculatedMatch {
+	SQLObject := &repositories.SQLCalculatedMatch{}
+	err := repositories.DBEngine.First(SQLObject, "id = ?", id)
+
+	if err.Error != nil {
+		return nil
+	}
+	resultData := HydrateMatch(*SQLObject)
+	return &resultData
+}
+
+// CheckForDuplicatePositions .
 func CheckForDuplicatePositions(positions string) int64 {
 	SQLObject := &repositories.SQLCalculatedMatch{}
-	err := repositories.DBEngine.Fetch(SQLObject,
-		gosql.Where("raw_positions", positions))
+	err := repositories.DBEngine.First(SQLObject, "raw_positions = ?", positions)
 
-	if err != nil && err.Error() == "sql: no rows in result set" {
+	if err.Error != nil {
 		return 0
 	}
 	return SQLObject.ID
+}
+
+// GetLastMatches ..
+func GetLastMatches(amount int) []CalculatedMatch {
+	var SQLObjects []repositories.SQLCalculatedMatch
+	err := repositories.DBEngine.Order("id DESC").Limit(amount).Find(&SQLObjects)
+
+	if err.Error != nil {
+		return nil
+	}
+	var returnData []CalculatedMatch
+
+	for _, SQLObject := range SQLObjects {
+		returnMatch := HydrateMatch(SQLObject)
+		returnData = append(returnData, returnMatch)
+	}
+
+	return returnData
 }
 
 /*
