@@ -1,6 +1,8 @@
 package models
 
 import (
+	"strings"
+
 	"../repositories"
 	"../tools"
 	"github.com/jinzhu/gorm"
@@ -16,6 +18,7 @@ type Player struct {
 	GoalsLost   int64
 	WinRate     float32
 	Rating      float32
+	LastMatch   string
 	Matches     []*CalculatedMatch
 }
 
@@ -49,12 +52,20 @@ func getPlayerFromSQLPlayer(SQLPlayer repositories.SQLPlayer, withMatches bool) 
 	tools.Check(err.Error)
 
 	var matches []*CalculatedMatch
+	var lastMatch string
 	if withMatches {
 		for _, playerMatch := range playerSnapshots {
 			match := GetMatchByID(playerMatch.MatchID)
 			matches = append(matches, match)
+			lastMatch = match.Time
 		}
+	} else {
+		match := GetMatchByID(playerSnapshots[SQLPlayer.Wins+SQLPlayer.Losses-1].MatchID)
+		lastMatch = match.Time
 	}
+
+	lastMatch = lastMatch[:len(lastMatch)-1]
+	lastMatch = strings.Replace(lastMatch, "T", " ", 1)
 
 	returnObject := Player{
 		ID:          SQLPlayer.ID,
@@ -65,6 +76,7 @@ func getPlayerFromSQLPlayer(SQLPlayer repositories.SQLPlayer, withMatches bool) 
 		GoalsLost:   SQLPlayer.GoalsLost,
 		WinRate:     SQLPlayer.WinRate,
 		Rating:      SQLPlayer.Rating,
+		LastMatch:   lastMatch,
 		Matches:     matches,
 	}
 
