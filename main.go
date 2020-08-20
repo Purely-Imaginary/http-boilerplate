@@ -129,6 +129,7 @@ func main() {
 	http.HandleFunc("/regenerate", regenerateData)
 	http.HandleFunc("/getLastMatches", controllers.GetLastMatches)
 	http.HandleFunc("/getPlayersTable", controllers.GetPlayersTable)
+	http.HandleFunc("/getPlayersSnapshots", controllers.GetPlayersSnapshots)
 	http.HandleFunc("/p", parseReplay)
 	http.HandleFunc("/findTeams", findTeams)
 	http.ListenAndServe(":7777", nil)

@@ -28,3 +28,9 @@ func GetPlayersTable(w http.ResponseWriter, r *http.Request) {
 	outputMessage := prepareData(models.GetPlayersTable(), w, r)
 	fmt.Fprintf(w, outputMessage)
 }
+
+// GetPlayersSnapshots ..
+func GetPlayersSnapshots(w http.ResponseWriter, r *http.Request) {
+	outputMessage := prepareData(models.GetPlayersSnapshots(), w, r)
+	fmt.Fprintf(w, outputMessage)
+}
