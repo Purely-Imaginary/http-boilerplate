@@ -98,3 +98,11 @@ alter table referee.raw_match
 
 
 ```
+
+### compile 
+`go build main.go`
+
+### execute 
+`./ main`
+
+## Grats! Now server works at `localhost:7777`
