@@ -1,17 +1,19 @@
-### SETUP:
-# get Go from https://golang.org/dl/
+# SETUP:
+### get Go from https://golang.org/dl/
 wget https://golang.org/dl/go1.15.linux-amd64.tar.gz
 sudo tar -C /usr/local -xzf go1.15.linux-amd64.tar.gz
 
-# Add /usr/local/go/bin to the PATH environment variable. You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile:
+### get Python 3 and Node v14.5
+
+### Add /usr/local/go/bin to the PATH environment variable. You can do this by adding this line to your /etc/profile (for a system-wide installation) or $HOME/.profile:
 export PATH=$PATH:/usr/local/go/bin
 export GOPATH=/home/{username}/go
 
-# clone repo
+### clone repo
 cd /home/{username}/go
 git clone https://github.com/Purely-Imaginary/referee-go.git 
 
-# install dependencies
+### install dependencies
 cd referee-go
 go get ./...
 
