@@ -110,4 +110,4 @@ for subdir, dirs, files in os.walk('preprocessed/'):
                 continue
             path = os.path.join(subdir, file)
             threadedAnalysis(path)
-            # os.remove(path)
+            os.remove(path)
