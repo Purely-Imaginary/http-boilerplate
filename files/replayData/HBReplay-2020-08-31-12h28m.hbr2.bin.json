@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 290.633,
+            "goalSide": "Blue",
+            "goalTime": 291.95,
+            "goalTravelTime": 1.317
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 306.8,
+            "goalSide": "Blue",
+            "goalTime": 306.95,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 457.1,
+            "goalSide": "Red",
+            "goalTime": 458.183,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 508.083,
+            "goalSide": "Blue",
+            "goalTime": 508.45,
+            "goalTravelTime": 0.367
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 557.45,
+            "goalSide": "Blue",
+            "goalTime": 557.6,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 579.967,
+            "goalSide": "Red",
+            "goalTime": 580.133,
+            "goalTravelTime": 0.166
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 596.983,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 3.034
+        }
+    ],
+    "rawPositionsAtEnd": "14.147185195752932-138.32718119163124|79.1438266144837-101.08458235198357|91.84285070502276--123.51713945884183|79.86392449191348--0.09593936016052945|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "Toperz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-31 12:28"
+}

@@ -1,0 +1,79 @@
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 33.15,
+            "goalSide": "Blue",
+            "goalTime": 33.833,
+            "goalTravelTime": 0.683
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 80.517,
+            "goalSide": "Blue",
+            "goalTime": 81.083,
+            "goalTravelTime": 0.566
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 82.183,
+            "goalSide": "Red",
+            "goalTime": 83.8,
+            "goalTravelTime": 1.617
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 94.833,
+            "goalSide": "Red",
+            "goalTime": 95.283,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 125.367,
+            "goalSide": "Blue",
+            "goalTime": 127.833,
+            "goalTravelTime": 2.466
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 500.517,
+            "goalSide": "Red",
+            "goalTime": 502.033,
+            "goalTravelTime": 1.516
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 579.85,
+            "goalSide": "Red",
+            "goalTime": 581.683,
+            "goalTravelTime": 1.833
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 598.317,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 1.7
+        }
+    ],
+    "rawPositionsAtEnd": "494.40119986687705-81.01535461124945|86.51446305663026-16.962294344034508|351.4914022882133-209.26926058171398|387.6733808190827-192.5005600650455|396.6794793339191-163.2092352771147|280.8477197218935-88.8527628054881|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "Toperz",
+            "K-rol"
+        ],
+        "Red": [
+            "adamaru",
+            "ToPP",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-28 13:43"
+}
