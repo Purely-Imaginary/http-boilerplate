@@ -3,52 +3,52 @@
     "goalsData": [
         {
             "goalScorerId": 4,
-            "goalShotTime": 98.133,
+            "goalShotTime": 98.167,
             "goalSide": "Blue",
-            "goalTravelTime": 0.183,
-            "time": 98.317
+            "goalTime": 98.317,
+            "goalTravelTime": 0.15
         },
         {
             "goalScorerId": 5,
             "goalShotTime": 253.067,
             "goalSide": "Blue",
-            "goalTravelTime": 0.567,
-            "time": 253.633
+            "goalTime": 253.633,
+            "goalTravelTime": 0.566
         },
         {
-            "goalScorerId": 4,
-            "goalShotTime": 317.033,
+            "goalScorerId": 5,
+            "goalShotTime": 325.567,
             "goalSide": "Blue",
-            "goalTravelTime": 11.9,
-            "time": 328.933
+            "goalTime": 328.933,
+            "goalTravelTime": 3.366
         },
         {
             "goalScorerId": 5,
             "goalShotTime": 395.7,
             "goalSide": "Blue",
-            "goalTravelTime": 2.117,
-            "time": 397.817
+            "goalTime": 397.817,
+            "goalTravelTime": 2.117
         },
         {
             "goalScorerId": 5,
-            "goalShotTime": 444.133,
+            "goalShotTime": 443.55,
             "goalSide": "Blue",
-            "goalTravelTime": 0.033,
-            "time": 444.167
+            "goalTime": 444.167,
+            "goalTravelTime": 0.617
         },
         {
-            "goalScorerId": 3,
-            "goalShotTime": 514.017,
+            "goalScorerId": 4,
+            "goalShotTime": 520.467,
             "goalSide": "Blue",
-            "goalTravelTime": 9.183,
-            "time": 523.2
+            "goalTime": 523.2,
+            "goalTravelTime": 2.733
         },
         {
             "goalScorerId": 5,
-            "goalShotTime": 591.383,
+            "goalShotTime": 592.367,
             "goalSide": "Blue",
-            "goalTravelTime": 8.633,
-            "time": 600.017
+            "goalTime": 600.017,
+            "goalTravelTime": 7.65
         }
     ],
     "rawPositionsAtEnd": "137.8142615532911-118.5428790883676|300.07897762961045-103.18123334993246|436.1979603806229-126.29602399417264|272.51228538178816--71.59984754409636|298.8165338245002-133.91822154380932|355.05812989631005-64.55284661136388|",

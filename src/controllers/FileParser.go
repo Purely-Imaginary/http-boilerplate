@@ -28,7 +28,7 @@ func ParseReplay(replayName string) {
 	_, err := cmd.Output()
 	tools.Check(err)
 
-	cmd = exec.Command("python3", "test.py")
+	cmd = exec.Command("python3", "test.py", "preprocessed/"+replayName+".bin")
 	cmd.Dir = "hb-parser"
 	_, err = cmd.Output()
 	tools.Check(err)
@@ -38,6 +38,7 @@ func ParseReplay(replayName string) {
 // AsyncParseReplay ..
 func AsyncParseReplay(replayName string, wg *sync.WaitGroup) {
 	ParseReplay(replayName)
+	wg.Done()
 }
 
 // ReadMatchFromFile takes converted file and creates RawMatch object from it

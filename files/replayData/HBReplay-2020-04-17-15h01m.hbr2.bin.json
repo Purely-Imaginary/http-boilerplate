@@ -2,46 +2,46 @@
     "gameTime": 308.367,
     "goalsData": [
         {
-            "goalScorerId": 0,
-            "goalShotTime": 20.45,
+            "goalScorerId": 1,
+            "goalShotTime": 23.633,
             "goalSide": "Red",
-            "goalTravelTime": 4.817,
-            "time": 25.267
+            "goalTime": 25.267,
+            "goalTravelTime": 1.634
         },
         {
             "goalScorerId": 3,
-            "goalShotTime": 74.4,
+            "goalShotTime": 78.783,
             "goalSide": "Blue",
-            "goalTravelTime": 4.833,
-            "time": 79.233
+            "goalTime": 79.233,
+            "goalTravelTime": 0.45
         },
         {
             "goalScorerId": 3,
-            "goalShotTime": 145.667,
+            "goalShotTime": 145.683,
             "goalSide": "Blue",
-            "goalTravelTime": 1.5,
-            "time": 147.167
+            "goalTime": 147.167,
+            "goalTravelTime": 1.484
         },
         {
             "goalScorerId": 2,
-            "goalShotTime": 236.317,
+            "goalShotTime": 237.9,
             "goalSide": "Blue",
-            "goalTravelTime": 3.0,
-            "time": 239.317
+            "goalTime": 239.317,
+            "goalTravelTime": 1.417
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 274.45,
             "goalSide": "Red",
-            "goalTravelTime": 5.45,
-            "time": 279.9
+            "goalTime": 279.9,
+            "goalTravelTime": 5.45
         },
         {
-            "goalScorerId": 0,
-            "goalShotTime": 303.517,
+            "goalScorerId": 1,
+            "goalShotTime": 306.05,
             "goalSide": "Red",
-            "goalTravelTime": 4.867,
-            "time": 308.383
+            "goalTime": 308.383,
+            "goalTravelTime": 2.333
         }
     ],
     "rawPositionsAtEnd": "205.36763272191175-86.27673341876176|-12.093189360644928--55.41209190277276|61.23885375113948-156.10408377269601|195.97768327009234-127.6053298049045|",

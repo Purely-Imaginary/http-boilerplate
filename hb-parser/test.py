@@ -1,4 +1,4 @@
-import replay, os, json, math
+import replay, os, json, math, sys
 import threading
 
 matches = {}
@@ -104,10 +104,12 @@ def threadedAnalysis(path):
             with open('../files/replayData/' + path[13:] + '.json', 'w+') as f:
                 f.write(s)
 
-for subdir, dirs, files in os.walk('preprocessed/'):
-        for file in files:
-            if file.split('.')[-1] != "bin":
-                continue
-            path = os.path.join(subdir, file)
-            threadedAnalysis(path)
-            os.remove(path)
+threadedAnalysis(sys.argv[1])
+os.remove(sys.argv[1])
+
+# for subdir, dirs, files in os.walk('preprocessed/'):
+#         for file in files:
+#             if file.split('.')[-1] != "bin":
+#                 continue
+#             path = os.path.join(subdir, file)
+#             threadedAnalysis(path)

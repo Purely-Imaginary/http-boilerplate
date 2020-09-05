@@ -35,21 +35,19 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 		unparsedReplaysFiles, _ := ioutil.ReadDir(controllers.UnparsedReplayFolder)
 		unparsedReplaysTotal := len(unparsedReplaysFiles)
 		var wg sync.WaitGroup
+		wg.Add(2)
 		filepath.Walk(controllers.UnparsedReplayFolder, func(path string, info os.FileInfo, err error) error {
 			if info.IsDir() {
 				return nil
 			}
 			if filepath.Ext(path) == ".hbr2" {
 				log.Print(strconv.Itoa(unparsedReplaysCounter) + "/" + strconv.Itoa(unparsedReplaysTotal))
-				wg.Add(1)
 				go controllers.AsyncParseReplay(info.Name(), &wg)
 				unparsedReplaysCounter++
 			}
-			if unparsedReplaysCounter%5 == 0 {
-				wg.Wait()
-			}
 			return nil
 		})
+		wg.Wait()
 	}
 
 	counter := 1
