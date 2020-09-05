@@ -2,46 +2,46 @@
     "gameTime": 583.183,
     "goalsData": [
         {
-            "goalScorerId": 2,
-            "goalShotTime": 234.117,
+            "goalScorerId": 0,
+            "goalShotTime": 235.867,
             "goalSide": "Red",
-            "goalTravelTime": 2.15,
-            "time": 236.267
+            "goalTime": 236.267,
+            "goalTravelTime": 0.4
         },
         {
             "goalScorerId": 3,
-            "goalShotTime": 276.3,
+            "goalShotTime": 277.283,
             "goalSide": "Blue",
-            "goalTravelTime": 3.433,
-            "time": 279.733
+            "goalTime": 279.733,
+            "goalTravelTime": 2.45
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 459.2,
             "goalSide": "Red",
-            "goalTravelTime": 0.633,
-            "time": 459.833
+            "goalTime": 459.833,
+            "goalTravelTime": 0.633
         },
         {
-            "goalScorerId": 1,
-            "goalShotTime": 505.3,
+            "goalScorerId": 3,
+            "goalShotTime": 507.283,
             "goalSide": "Blue",
-            "goalTravelTime": 4.217,
-            "time": 509.517
+            "goalTime": 509.517,
+            "goalTravelTime": 2.234
         },
         {
-            "goalScorerId": 1,
-            "goalShotTime": 535.05,
+            "goalScorerId": 3,
+            "goalShotTime": 536.8,
             "goalSide": "Blue",
-            "goalTravelTime": 1.983,
-            "time": 537.033
+            "goalTime": 537.033,
+            "goalTravelTime": 0.233
         },
         {
             "goalScorerId": 3,
             "goalShotTime": 580.4,
             "goalSide": "Blue",
-            "goalTravelTime": 2.8,
-            "time": 583.2
+            "goalTime": 583.2,
+            "goalTravelTime": 2.8
         }
     ],
     "rawPositionsAtEnd": "82.35131876014756-85.40401421680733|-410.0737544515495-82.1010167441757|-482.1237225982123--39.478959296250736|-381.80106969283895--84.7588253638897|",

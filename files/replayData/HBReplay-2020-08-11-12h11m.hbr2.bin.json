@@ -3,45 +3,45 @@
     "goalsData": [
         {
             "goalScorerId": 3,
-            "goalShotTime": 24.45,
+            "goalShotTime": 24.533,
             "goalSide": "Red",
-            "goalTravelTime": 0.867,
-            "time": 25.317
+            "goalTime": 25.317,
+            "goalTravelTime": 0.784
         },
         {
             "goalScorerId": 3,
-            "goalShotTime": 29.383,
+            "goalShotTime": 29.433,
             "goalSide": "Red",
-            "goalTravelTime": 1.25,
-            "time": 30.633
+            "goalTime": 30.633,
+            "goalTravelTime": 1.2
         },
         {
-            "goalScorerId": 2,
-            "goalShotTime": 86.567,
+            "goalScorerId": 5,
+            "goalShotTime": 90.15,
             "goalSide": "Blue",
-            "goalTravelTime": 5.383,
-            "time": 91.95
-        },
-        {
-            "goalScorerId": 4,
-            "goalShotTime": 104.75,
-            "goalSide": "Blue",
-            "goalTravelTime": 1.75,
-            "time": 106.5
+            "goalTime": 91.95,
+            "goalTravelTime": 1.8
         },
         {
             "goalScorerId": 4,
-            "goalShotTime": 583.683,
+            "goalShotTime": 104.733,
             "goalSide": "Blue",
-            "goalTravelTime": 2.067,
-            "time": 585.75
+            "goalTime": 106.5,
+            "goalTravelTime": 1.767
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 584.7,
+            "goalSide": "Blue",
+            "goalTime": 585.75,
+            "goalTravelTime": 1.05
         },
         {
             "goalScorerId": 6,
             "goalShotTime": 599.633,
             "goalSide": "Blue",
-            "goalTravelTime": 0.383,
-            "time": 600.017
+            "goalTime": 600.017,
+            "goalTravelTime": 0.384
         }
     ],
     "rawPositionsAtEnd": "290.6530067224541-101.19312953372585|319.09531164316826-41.26341261718958|249.59440458538123--84.34660414171643|394.091560275524--99.27725834280803|163.9167153483178-140.33702010634212|397.81529071775697-41.65292658545785|",

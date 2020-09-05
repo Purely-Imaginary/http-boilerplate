@@ -3,80 +3,80 @@
     "goalsData": [
         {
             "goalScorerId": 4,
-            "goalShotTime": 81.917,
+            "goalShotTime": 82.0,
             "goalSide": "Red",
-            "goalTravelTime": 1.717,
-            "time": 83.633
+            "goalTime": 83.633,
+            "goalTravelTime": 1.633
         },
         {
             "goalScorerId": 3,
             "goalShotTime": 103.517,
             "goalSide": "Blue",
-            "goalTravelTime": 0.883,
-            "time": 104.4
+            "goalTime": 104.4,
+            "goalTravelTime": 0.883
         },
         {
             "goalScorerId": 4,
-            "goalShotTime": 148.533,
+            "goalShotTime": 148.567,
             "goalSide": "Red",
-            "goalTravelTime": 0.7,
-            "time": 149.233
+            "goalTime": 149.233,
+            "goalTravelTime": 0.666
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 175.417,
             "goalSide": "Red",
-            "goalTravelTime": 1.75,
-            "time": 177.167
+            "goalTime": 177.167,
+            "goalTravelTime": 1.75
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 186.95,
             "goalSide": "Red",
-            "goalTravelTime": 1.233,
-            "time": 188.183
+            "goalTime": 188.183,
+            "goalTravelTime": 1.233
         },
         {
             "goalScorerId": 0,
-            "goalShotTime": 248.667,
+            "goalShotTime": 248.683,
             "goalSide": "Red",
-            "goalTravelTime": 1.917,
-            "time": 250.583
+            "goalTime": 250.583,
+            "goalTravelTime": 1.9
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 258.1,
             "goalSide": "Red",
-            "goalTravelTime": 0.217,
-            "time": 258.317
+            "goalTime": 258.317,
+            "goalTravelTime": 0.217
         },
         {
             "goalScorerId": 4,
-            "goalShotTime": 267.017,
+            "goalShotTime": 271.25,
             "goalSide": "Red",
-            "goalTravelTime": 5.667,
-            "time": 272.683
+            "goalTime": 272.683,
+            "goalTravelTime": 1.433
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 302.55,
             "goalSide": "Red",
-            "goalTravelTime": 0.85,
-            "time": 303.4
+            "goalTime": 303.4,
+            "goalTravelTime": 0.85
         },
         {
             "goalScorerId": 0,
-            "goalShotTime": 304.767,
+            "goalShotTime": 304.783,
             "goalSide": "Red",
-            "goalTravelTime": 3.817,
-            "time": 308.583
+            "goalTime": 308.583,
+            "goalTravelTime": 3.8
         },
         {
             "goalScorerId": 4,
-            "goalShotTime": 361.367,
+            "goalShotTime": 361.267,
             "goalSide": "Red",
-            "goalTravelTime": 0.033,
-            "time": 361.4
+            "goalTime": 361.4,
+            "goalTravelTime": 0.133
         }
     ],
     "rawPositionsAtEnd": "365.6181477070763--82.43671894175473|460.0040958855902-97.97498356990998|585.0--91.9929634777132|527.6531744829146--5.655551093632329|",

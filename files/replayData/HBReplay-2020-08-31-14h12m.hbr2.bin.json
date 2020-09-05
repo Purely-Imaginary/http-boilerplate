@@ -1,0 +1,126 @@
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 24.25,
+            "goalSide": "Blue",
+            "goalTime": 24.667,
+            "goalTravelTime": 0.417
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 66.5,
+            "goalSide": "Blue",
+            "goalTime": 67.567,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 77.133,
+            "goalSide": "Red",
+            "goalTime": 78.583,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 94.467,
+            "goalSide": "Red",
+            "goalTime": 96.067,
+            "goalTravelTime": 1.6
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 101.083,
+            "goalSide": "Blue",
+            "goalTime": 101.233,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 239.617,
+            "goalSide": "Blue",
+            "goalTime": 240.367,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 256.467,
+            "goalSide": "Red",
+            "goalTime": 257.1,
+            "goalTravelTime": 0.633
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 284.917,
+            "goalSide": "Red",
+            "goalTime": 286.317,
+            "goalTravelTime": 1.4
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 426.317,
+            "goalSide": "Blue",
+            "goalTime": 426.983,
+            "goalTravelTime": 0.666
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 448.517,
+            "goalSide": "Blue",
+            "goalTime": 449.717,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 473.05,
+            "goalSide": "Blue",
+            "goalTime": 473.267,
+            "goalTravelTime": 0.217
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 543.383,
+            "goalSide": "Red",
+            "goalTime": 543.783,
+            "goalTravelTime": 0.4
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 565.683,
+            "goalSide": "Blue",
+            "goalTime": 568.3,
+            "goalTravelTime": 2.617
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 580.9,
+            "goalSide": "Blue",
+            "goalTime": 581.333,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 597.583,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 2.434
+        }
+    ],
+    "rawPositionsAtEnd": "-517.0620392857911-155.1485018739906|-350.1534283011611-180.74088352671654|-425.04968043444995-171.05801710390165|-353.107942278293-13.476562599349517|",
+    "score": {
+        "Blue": 9,
+        "Red": 5
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "Toperz"
+        ],
+        "Red": [
+            "adamaru",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-31 14:12"
+}

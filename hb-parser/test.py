@@ -41,29 +41,22 @@ def threadedAnalysis(path):
                     # TODO: goalShotSpeed
                     goalSide = "Red"
 
-                    if len(goals) == 8:
-                        a=0
-
                     if (bin[1][tickCounter-1].score[0] == tick.score[0]):
                         goalSide = "Blue"
                     for i in reversed(range(tickCounter-1)):
                         if goalScorerId != -1:
                             break
                         targetTick = bin[1][i]
-                        distances = []
                         for player in targetTick.players:
                             if player.team.name != goalSide:    
                                 continue
-                            distanceFromBall = calculateDistance(targetTick.ball.x, targetTick.ball.y, player.disc.x, player.disc.y)
-                            distances.append({"id": player.id, "dist":distanceFromBall})
 
+                            distanceFromBall = calculateDistance(targetTick.ball.x, targetTick.ball.y, player.disc.x, player.disc.y)
                             if distanceFromBall < 30 and hasVectorChanged(targetTick.ball, bin[1][i+1].ball):
                                 goalScorerId = player.id
                                 goalShotTime = round(targetTick.gameTime, 3)
                                 break
                         
-                        a=0
-
                     goals.append({
                         "goalTime": round(tick.gameTime, 3),
                         "goalScorerId": goalScorerId,
