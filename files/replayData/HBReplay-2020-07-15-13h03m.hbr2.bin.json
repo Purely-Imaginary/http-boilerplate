@@ -1,1 +1,65 @@
-{"time": "2020-07-15 13:03", "teams": {"Red": ["Toperz", "rybak", "hubigz"], "Blue": ["Amman", "MaddoHatto", "adamaru"]}, "score": {"Red": 3, "Blue": 2}, "rawPositionsAtEnd": "-141.15613756059443--212.0672590670736|-159.9727920360812-67.5381207581433|-241.4402139074498--2.3244214002573904|-314.2574487520696--94.24331492124173|-545.0255419710917-3.86372570370085|-14.161701604336802-67.89885253270702|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 258.55,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.467,
+            "time": 261.017
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 356.333,
+            "goalSide": "Red",
+            "goalTravelTime": 1.1,
+            "time": 357.433
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 389.3,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.7,
+            "time": 391.0
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 427.4,
+            "goalSide": "Red",
+            "goalTravelTime": 0.967,
+            "time": 428.367
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 571.617,
+            "goalSide": "Red",
+            "goalTravelTime": 1.367,
+            "time": 572.983
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 596.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.7,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-390.2636731319231--172.28237912604723|-379.02106947813814-78.34638262214045|-517.1808724569586-59.74372136559341|-462.665494613419--78.4101796133829|-569.6052759040346--44.34132064638795|-75.35370671563344-139.96190070825864|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "MaddoHatto",
+            "adamaru"
+        ],
+        "Red": [
+            "Toperz",
+            "rybak",
+            "hubigz"
+        ]
+    },
+    "time": "2020-07-15 13:03"
+}

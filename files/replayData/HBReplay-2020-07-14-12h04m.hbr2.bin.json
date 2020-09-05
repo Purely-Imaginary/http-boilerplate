@@ -1,1 +1,72 @@
-{"time": "2020-07-14 12:04", "teams": {"Red": ["Toperz", "MaddoHatto", "hubigz"], "Blue": ["adamaru", "Amman", "K-rol"]}, "score": {"Red": 3, "Blue": 4}, "rawPositionsAtEnd": "-340.2431302551093-151.59511899589643|21.54348268225363-21.385801642369675|-424.5080928632488-115.91463294565972|-461.90070481091715-54.15170030576015|-585.0-92.94502926468746|-543.6549393165271-27.616806350523706|"}
+{
+    "gameTime": 661.599999999727,
+    "goalsData": [
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 83.55,
+            "goalSide": "Red",
+            "goalTravelTime": 0.1,
+            "time": 83.65
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 103.2,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.867,
+            "time": 106.067
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 204.55,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.183,
+            "time": 208.733
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 268.8,
+            "goalSide": "Red",
+            "goalTravelTime": 3.217,
+            "time": 272.017
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 500.267,
+            "goalSide": "Red",
+            "goalTravelTime": 1.633,
+            "time": 501.9
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 537.533,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.117,
+            "time": 539.65
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 660.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.3,
+            "time": 661.617
+        }
+    ],
+    "rawPositionsAtEnd": "-334.2288960567094-157.63492565546483|23.737333450844442-21.3922483094541|-463.0470659184796-170.29593768153865|-459.4293507688826-135.11894768000624|-557.5183761841353--32.53848189779351|-448.7815265952641-39.983709801693|",
+    "score": {
+        "Blue": 3,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "Amman",
+            "K-rol"
+        ],
+        "Red": [
+            "Toperz",
+            "MaddoHatto",
+            "hubigz"
+        ]
+    },
+    "time": "2020-07-14 12:04"
+}

@@ -1,1 +1,63 @@
-{"time": "2020-08-27 11:20", "teams": {"Red": ["Toperz", "adamaru"], "Blue": ["ToPP", "MaddoHatto"]}, "score": {"Red": 3, "Blue": 10}, "rawPositionsAtEnd": "82.46220604739945-85.40934362183046|-460.5004661397251-73.87782497868301|-496.8934172192329-23.397373951386026|-388.6799708562742--84.72029199989083|"}
+{
+    "gameTime": 583.183,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 234.117,
+            "goalSide": "Red",
+            "goalTravelTime": 2.15,
+            "time": 236.267
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 276.3,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.433,
+            "time": 279.733
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 459.2,
+            "goalSide": "Red",
+            "goalTravelTime": 0.633,
+            "time": 459.833
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 505.3,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.217,
+            "time": 509.517
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 535.05,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.983,
+            "time": 537.033
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 580.4,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.8,
+            "time": 583.2
+        }
+    ],
+    "rawPositionsAtEnd": "82.35131876014756-85.40401421680733|-410.0737544515495-82.1010167441757|-482.1237225982123--39.478959296250736|-381.80106969283895--84.7588253638897|",
+    "score": {
+        "Blue": 9,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Toperz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-27 11:20"
+}

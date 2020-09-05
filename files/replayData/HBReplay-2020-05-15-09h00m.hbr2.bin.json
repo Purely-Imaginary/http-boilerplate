@@ -1,1 +1,154 @@
-{"time": "2020-05-15 09:00", "teams": {"Red": ["adamaru", "K-rol"], "Blue": ["ToPP", "MaddoHatto"]}, "score": {"Red": 9, "Blue": 10}, "rawPositionsAtEnd": "-405.0--43.97559417197498|-370.0933087590263-5.253089839499205|-405.0-2.3876827399166123|-18.936575239842025-0.9793223784540854|"}
+{
+    "gameTime": 484.0666666665551,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 59.266666666664584,
+            "goalSide": "Red",
+            "goalTravelTime": 0.04999999999999716,
+            "time": 59.31666666666458
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 90.36666666666282,
+            "goalSide": "Red",
+            "goalTravelTime": 1.8666666666665606,
+            "time": 92.23333333332938
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 143.2000000000061,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.2166666666668391,
+            "time": 143.41666666667294
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 150.65000000001203,
+            "goalSide": "Red",
+            "goalTravelTime": 1.0000000000007958,
+            "time": 151.65000000001282
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 152.15000000001322,
+            "goalSide": "Red",
+            "goalTravelTime": 3.6833333333362646,
+            "time": 155.8333333333495
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 170.13333333336087,
+            "goalSide": "Red",
+            "goalTravelTime": 2.0166666666682715,
+            "time": 172.15000000002914
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 193.16666666671253,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.5000000000019895,
+            "time": 195.66666666671452
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 227.4000000000731,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.466666666670221,
+            "time": 231.86666666674333
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 247.55000000008914,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.2000000000017508,
+            "time": 249.7500000000909
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 271.66666666674826,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.5666666666661513,
+            "time": 272.2333333334144
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 291.1333333333972,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.2166666666646506,
+            "time": 293.35000000006187
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 304.31666666671856,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.5999999999994543,
+            "time": 304.916666666718
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 336.25000000002285,
+            "goalSide": "Red",
+            "goalTravelTime": 1.6833333333318024,
+            "time": 337.93333333335465
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 351.06666666667604,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.48333333333289374,
+            "time": 351.55000000000894
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 358.83333333333564,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.26666666666642413,
+            "time": 359.10000000000207
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 381.9833333333146,
+            "goalSide": "Red",
+            "goalTravelTime": 4.41666666666265,
+            "time": 386.39999999997724
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 414.19999999995196,
+            "goalSide": "Red",
+            "goalTravelTime": 1.1666666666656056,
+            "time": 415.36666666661756
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 441.76666666659355,
+            "goalSide": "Red",
+            "goalTravelTime": 0.29999999999972715,
+            "time": 442.0666666665933
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 481.21666666655767,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.8666666666640594,
+            "time": 484.08333333322173
+        }
+    ],
+    "rawPositionsAtEnd": "-399.15728611677736--84.78532214083295|-334.25511956407297-7.754310875359799|-349.17696023479596--36.02633622949425|-5.532192234352367--3.6561451013793933|",
+    "score": {
+        "Blue": 9,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "adamaru",
+            "K-rol"
+        ]
+    },
+    "time": "2020-05-15 09:00"
+}

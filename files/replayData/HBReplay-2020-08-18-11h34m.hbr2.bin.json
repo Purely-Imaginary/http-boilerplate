@@ -1,1 +1,70 @@
-{"time": "2020-08-18 11:34", "teams": {"Red": ["ToPP", "K-rol"], "Blue": ["MaddoHatto", "adamaru"]}, "score": {"Red": 4, "Blue": 3}, "rawPositionsAtEnd": "390.89652111634297-186.7571593600832|493.80846461992036-47.417687212869694|493.9571322543696-81.18685800772735|585.0-46.61867872634546|"}
+{
+    "gameTime": 832.05,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 165.15,
+            "goalSide": "Red",
+            "goalTravelTime": 0.567,
+            "time": 165.717
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 299.783,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.817,
+            "time": 301.6
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 305.3,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.967,
+            "time": 306.267
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 376.833,
+            "goalSide": "Red",
+            "goalTravelTime": 3.0,
+            "time": 379.833
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 495.95,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.35,
+            "time": 498.3
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 597.867,
+            "goalSide": "Red",
+            "goalTravelTime": 1.383,
+            "time": 599.25
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 829.883,
+            "goalSide": "Red",
+            "goalTravelTime": 2.183,
+            "time": 832.067
+        }
+    ],
+    "rawPositionsAtEnd": "408.24155749101044-29.385019829269734|554.147261940776--13.88542518821589|481.53209171762694--41.833501920856115|581.6506286919217--48.09059522749262|",
+    "score": {
+        "Blue": 3,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "adamaru"
+        ],
+        "Red": [
+            "ToPP",
+            "K-rol"
+        ]
+    },
+    "time": "2020-08-18 11:34"
+}

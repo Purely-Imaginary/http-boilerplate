@@ -1,1 +1,65 @@
-{"time": "2020-04-10 14:48", "teams": {"Red": ["ToPP", "hubigz", "adamaru"], "Blue": ["K-rol", "rybak", "MaddoHatto"]}, "score": {"Red": 3, "Blue": 2}, "rawPositionsAtEnd": "177.02989982456512--236.42023434922532|-249.47513632644163-89.52641952627765|-171.41028300926178--133.48999722881837|-204.19669557995513--83.7394906906075|99.4596444277674--43.08337831778718|56.63391661122984--200.63877607559937|"}
+{
+    "gameTime": 420.0,
+    "goalsData": [
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 22.867,
+            "goalSide": "Red",
+            "goalTravelTime": 0.417,
+            "time": 23.283
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 44.917,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.383,
+            "time": 47.3
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 111.183,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.95,
+            "time": 112.133
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 366.5,
+            "goalSide": "Red",
+            "goalTravelTime": 1.367,
+            "time": 367.867
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 394.067,
+            "goalSide": "Red",
+            "goalTravelTime": 0.883,
+            "time": 394.95
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 419.217,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.8,
+            "time": 420.017
+        }
+    ],
+    "rawPositionsAtEnd": "156.99367798241477--117.13130524332325|-229.08937760682775-102.61206224943629|-129.99514921435852--222.06874968202726|-145.60602242607925--185.7978568223481|-68.87872351006482--44.15814612943595|-59.84386014467335--174.88719457652792|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "rybak",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "ToPP",
+            "hubigz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-04-10 14:48"
+}

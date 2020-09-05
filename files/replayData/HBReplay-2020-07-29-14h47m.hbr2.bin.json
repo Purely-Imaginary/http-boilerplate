@@ -1,1 +1,65 @@
-{"time": "2020-07-29 14:47", "teams": {"Red": ["MaddoHatto", "Toperz", "ToPP"], "Blue": ["rybak", "Amman", "adamaru"]}, "score": {"Red": 2, "Blue": 3}, "rawPositionsAtEnd": "186.56939269165687-80.23788273231214|440.250396015463-189.34401251182578|100.0734457341975--42.930984053951995|183.9470518982387-19.819676733558552|402.40109554458616-199.9622355803697|480.39856929657884--0.5487779975586248|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 79.75,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.117,
+            "time": 80.867
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 207.6,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.35,
+            "time": 209.95
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 342.55,
+            "goalSide": "Red",
+            "goalTravelTime": 0.417,
+            "time": 342.967
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 379.767,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.033,
+            "time": 382.8
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 508.433,
+            "goalSide": "Red",
+            "goalTravelTime": 0.567,
+            "time": 509.0
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 599.85,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.167,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "219.29196164237635-6.82222656969249|242.67499457542192--35.499323436937736|132.24044200130552--122.97700653259558|189.97640584537046--6.367641826238168|362.28424117846146-80.39387136758656|488.0771342279405-6.426956338078962|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "rybak",
+            "Amman",
+            "adamaru"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Toperz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-07-29 14:47"
+}

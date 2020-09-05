@@ -1,1 +1,112 @@
-{"time": "2020-08-04 11:24", "teams": {"Red": ["hubigz", "adamaru"], "Blue": ["MaddoHatto", "Toperz"]}, "score": {"Red": 3, "Blue": 10}, "rawPositionsAtEnd": "-529.1733298479589-67.61824394490588|-507.6217741391583-235.23772070353243|-277.804697271765-40.97933597335666|-301.28857110938606-2.212263082283976|"}
+{
+    "gameTime": 518.2999999998573,
+    "goalsData": [
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 27.833,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.183,
+            "time": 28.017
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 101.533,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.767,
+            "time": 103.3
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 127.933,
+            "goalSide": "Red",
+            "goalTravelTime": 1.833,
+            "time": 129.767
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 146.083,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.5,
+            "time": 147.583
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 163.65,
+            "goalSide": "Red",
+            "goalTravelTime": 2.817,
+            "time": 166.467
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 210.4,
+            "goalSide": "Red",
+            "goalTravelTime": 2.783,
+            "time": 213.183
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 252.4,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.783,
+            "time": 254.183
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 279.767,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.533,
+            "time": 280.3
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 366.9,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.433,
+            "time": 367.333
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 370.95,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.867,
+            "time": 371.817
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 464.633,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.683,
+            "time": 468.317
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 481.6,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.25,
+            "time": 483.85
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 517.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.0,
+            "time": 518.317
+        }
+    ],
+    "rawPositionsAtEnd": "-447.11947926546566-72.0065029000047|-520.157576309933-52.53754849232955|-293.6133082444237-33.436344241457974|-478.2116763959757-67.50606373198119|",
+    "score": {
+        "Blue": 9,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Toperz"
+        ],
+        "Red": [
+            "hubigz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-04 11:24"
+}

@@ -1,1 +1,70 @@
-{"time": "2020-09-01 15:01", "teams": {"Red": ["Toperz", "MaddoHatto"], "Blue": ["adamaru", "ToPP"]}, "score": {"Red": 10, "Blue": 0}, "rawPositionsAtEnd": "371.59842115492495-31.33608543991146|172.27922059500764-3.223304718916578|585.0-55.70546403201992|"}
+{
+    "gameTime": 267.217,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 111.567,
+            "goalSide": "Red",
+            "goalTravelTime": 2.25,
+            "time": 113.817
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 154.683,
+            "goalSide": "Red",
+            "goalTravelTime": 1.6,
+            "time": 156.283
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 166.183,
+            "goalSide": "Red",
+            "goalTravelTime": 0.8,
+            "time": 166.983
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 220.25,
+            "goalSide": "Red",
+            "goalTravelTime": 3.2,
+            "time": 223.45
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 228.317,
+            "goalSide": "Red",
+            "goalTravelTime": 4.567,
+            "time": 232.883
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 256.25,
+            "goalSide": "Red",
+            "goalTravelTime": 0.617,
+            "time": 256.867
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 261.467,
+            "goalSide": "Red",
+            "goalTravelTime": 5.767,
+            "time": 267.233
+        }
+    ],
+    "rawPositionsAtEnd": "492.11880778294636-68.01349596460874|358.16762239333644-111.28508595351185|170.51419697825548-4.70163217486337|502.12582457324453-39.731706506395696|",
+    "score": {
+        "Blue": 0,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "ToPP"
+        ],
+        "Red": [
+            "Toperz",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-09-01 15:01"
+}

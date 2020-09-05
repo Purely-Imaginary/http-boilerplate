@@ -1,1 +1,133 @@
-{"time": "2020-06-23 10:32", "teams": {"Red": ["Toperz", "hubigz"], "Blue": ["ToPP", "K-rol"]}, "score": {"Red": 10, "Blue": 6}, "rawPositionsAtEnd": "232.94733293792694-50.84237433068621|135.39963281531254-47.080934923804975|444.8319557002726--125.52649535302909|"}
+{
+    "gameTime": 509.25,
+    "goalsData": [
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 30.433,
+            "goalSide": "Red",
+            "goalTravelTime": 2.917,
+            "time": 33.35
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 51.067,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.367,
+            "time": 51.433
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 120.217,
+            "goalSide": "Blue",
+            "goalTravelTime": 9.633,
+            "time": 129.85
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 173.9,
+            "goalSide": "Red",
+            "goalTravelTime": 1.367,
+            "time": 175.267
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 180.383,
+            "goalSide": "Red",
+            "goalTravelTime": 1.433,
+            "time": 181.817
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 197.5,
+            "goalSide": "Red",
+            "goalTravelTime": 1.217,
+            "time": 198.717
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 215.967,
+            "goalSide": "Red",
+            "goalTravelTime": 0.55,
+            "time": 216.517
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 226.567,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.7,
+            "time": 227.267
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 228.15,
+            "goalSide": "Blue",
+            "goalTravelTime": 18.4,
+            "time": 246.55
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 259.433,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.25,
+            "time": 259.683
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 353.767,
+            "goalSide": "Red",
+            "goalTravelTime": 1.5,
+            "time": 355.267
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 394.083,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.0,
+            "time": 395.083
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 418.2,
+            "goalSide": "Red",
+            "goalTravelTime": 1.883,
+            "time": 420.083
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 450.65,
+            "goalSide": "Red",
+            "goalTravelTime": 0.15,
+            "time": 450.8
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 484.883,
+            "goalSide": "Red",
+            "goalTravelTime": 2.967,
+            "time": 487.85
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 508.583,
+            "goalSide": "Red",
+            "goalTravelTime": 0.683,
+            "time": 509.267
+        }
+    ],
+    "rawPositionsAtEnd": "235.2313538498275-19.85617040788051|491.40166366387285--135.20174392086037|352.62184302727337--114.83597965353319|434.38278453866985--102.36921371235073|",
+    "score": {
+        "Blue": 6,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "K-rol"
+        ],
+        "Red": [
+            "Toperz",
+            "hubigz"
+        ]
+    },
+    "time": "2020-06-23 10:32"
+}

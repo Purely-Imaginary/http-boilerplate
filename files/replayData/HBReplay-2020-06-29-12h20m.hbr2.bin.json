@@ -1,1 +1,112 @@
-{"time": "2020-06-29 12:20", "teams": {"Red": ["ToPP", "adamaru"], "Blue": ["K-rol", "MaddoHatto"]}, "score": {"Red": 3, "Blue": 9}, "rawPositionsAtEnd": "-408.1013463532407--141.47564650884055|-249.47806435189474-5.88740920858369|-436.1245840266414--99.50600928285056|-269.524503819633--252.04230255003918|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 126.283,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.967,
+            "time": 129.25
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 151.267,
+            "goalSide": "Red",
+            "goalTravelTime": 1.133,
+            "time": 152.4
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 161.25,
+            "goalSide": "Red",
+            "goalTravelTime": 3.15,
+            "time": 164.4
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 221.833,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.233,
+            "time": 224.067
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 232.3,
+            "goalSide": "Blue",
+            "goalTravelTime": 5.233,
+            "time": 237.533
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 380.733,
+            "goalSide": "Red",
+            "goalTravelTime": 1.083,
+            "time": 381.817
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 408.333,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.833,
+            "time": 409.167
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 479.233,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.317,
+            "time": 479.55
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 487.383,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.05,
+            "time": 490.433
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 524.55,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.967,
+            "time": 525.517
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 546.683,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.15,
+            "time": 546.833
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 584.017,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.583,
+            "time": 584.6
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 598.1,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.917,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-380.6068842967316--171.55558052053607|-300.4666478188476-4.81485652908103|-371.49024727953304--79.24167213019027|-470.7569760958475--185.39941086739086|",
+    "score": {
+        "Blue": 9,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "ToPP",
+            "adamaru"
+        ]
+    },
+    "time": "2020-06-29 12:20"
+}

@@ -1,1 +1,191 @@
-{"time": "2020-08-13 09:39", "teams": {"Red": ["Amman", "hubigz", "ToPP"], "Blue": ["rybak", "K-rol", "Toperz"]}, "score": {"Red": 9, "Blue": 4}, "rawPositionsAtEnd": "-244.27732986908546--165.13599585450595|-101.9667474561571-157.60407686844087|-345.43877709769043-147.974954272146|135.02543910541286--138.8087933722013|481.9514291682412-24.22641146124966|-319.4541102702807--79.97517642505152|"}
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 16.267,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.6,
+            "time": 17.867
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 31.267,
+            "goalSide": "Red",
+            "goalTravelTime": 0.35,
+            "time": 31.617
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 48.167,
+            "goalSide": "Red",
+            "goalTravelTime": 1.8,
+            "time": 49.967
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 62.567,
+            "goalSide": "Red",
+            "goalTravelTime": 2.8,
+            "time": 65.367
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 105.783,
+            "goalSide": "Red",
+            "goalTravelTime": 2.6,
+            "time": 108.383
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 124.067,
+            "goalSide": "Red",
+            "goalTravelTime": 0.333,
+            "time": 124.4
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 182.467,
+            "goalSide": "Red",
+            "goalTravelTime": 1.6,
+            "time": 184.067
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 188.033,
+            "goalSide": "Red",
+            "goalTravelTime": 2.933,
+            "time": 190.967
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 205.033,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.8,
+            "time": 206.833
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 223.767,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.833,
+            "time": 225.6
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 39.283,
+            "goalSide": "Red",
+            "goalTravelTime": 2.467,
+            "time": 41.75
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 132.417,
+            "goalSide": "Blue",
+            "goalTravelTime": 5.35,
+            "time": 137.767
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 145.65,
+            "goalSide": "Red",
+            "goalTravelTime": 3.55,
+            "time": 149.2
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 183.3,
+            "goalSide": "Red",
+            "goalTravelTime": 0.65,
+            "time": 183.95
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 215.883,
+            "goalSide": "Red",
+            "goalTravelTime": 3.683,
+            "time": 219.567
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 289.3,
+            "goalSide": "Red",
+            "goalTravelTime": 0.483,
+            "time": 289.783
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 328.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.583,
+            "time": 328.9
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 341.583,
+            "goalSide": "Red",
+            "goalTravelTime": 1.117,
+            "time": 342.7
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 361.45,
+            "goalSide": "Red",
+            "goalTravelTime": 0.1,
+            "time": 361.55
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 370.683,
+            "goalSide": "Red",
+            "goalTravelTime": 2.367,
+            "time": 373.05
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 560.467,
+            "goalSide": "Red",
+            "goalTravelTime": 0.483,
+            "time": 560.95
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 579.033,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.833,
+            "time": 580.867
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 592.967,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.0,
+            "time": 594.967
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 598.233,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.783,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-39.37557900052211--141.35966764907755|-51.15812010237183-157.7014610531406|-18.72338908645616--99.51459138048354|55.15535729115864--140.986449100475|481.9241077198623-24.246865103592988|-49.104072647718226--109.57196955236417|",
+    "score": {
+        "Blue": 4,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "rybak",
+            "K-rol",
+            "Toperz"
+        ],
+        "Red": [
+            "Amman",
+            "hubigz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-08-13 09:39"
+}

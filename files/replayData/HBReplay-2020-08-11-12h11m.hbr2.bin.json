@@ -1,1 +1,65 @@
-{"time": "2020-08-11 12:11", "teams": {"Red": ["ToPP", "Amman", "MaddoHatto"], "Blue": ["Toperz", "K-rol", "adamaru"]}, "score": {"Red": 2, "Blue": 3}, "rawPositionsAtEnd": "246.94421512506744--88.22635352243583|371.93885413061156--198.2852895137649|406.34766672876356--178.80981098053334|27.692007064282706--61.63379825206076|150.97628052932308-79.80053983035538|"}
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 24.45,
+            "goalSide": "Red",
+            "goalTravelTime": 0.867,
+            "time": 25.317
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 29.383,
+            "goalSide": "Red",
+            "goalTravelTime": 1.25,
+            "time": 30.633
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 86.567,
+            "goalSide": "Blue",
+            "goalTravelTime": 5.383,
+            "time": 91.95
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 104.75,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.75,
+            "time": 106.5
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 583.683,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.067,
+            "time": 585.75
+        },
+        {
+            "goalScorerId": 6,
+            "goalShotTime": 599.633,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.383,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "290.6530067224541-101.19312953372585|319.09531164316826-41.26341261718958|249.59440458538123--84.34660414171643|394.091560275524--99.27725834280803|163.9167153483178-140.33702010634212|397.81529071775697-41.65292658545785|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "Toperz",
+            "K-rol",
+            "adamaru"
+        ],
+        "Red": [
+            "ToPP",
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-11 12:11"
+}

@@ -1,1 +1,72 @@
-{"time": "2020-06-25 10:56", "teams": {"Red": ["K-rol", "hubigz", "Toperz"], "Blue": ["adamaru", "ToPP", "MaddoHatto"]}, "score": {"Red": 4, "Blue": 2}, "rawPositionsAtEnd": "-532.4271185252229--95.00029263275906|86.15549780647581--23.536612424371704|-524.5306831546626--51.803879615820996|-376.9841861554994-30.504509372827243|-323.6379403151634--110.62330035958583|-442.24818439917914--154.72335092383912|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 124.43333333332755,
+            "goalSide": "Red",
+            "goalTravelTime": 1.8499999999998948,
+            "time": 126.28333333332745
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 181.70000000003674,
+            "goalSide": "Red",
+            "goalTravelTime": 3.383333333336026,
+            "time": 185.08333333337276
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 233.8833333334116,
+            "goalSide": "Red",
+            "goalTravelTime": 0.8500000000006764,
+            "time": 234.73333333341228
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 337.83333333335474,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.0833333333314386,
+            "time": 339.9166666666862
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 429.49999999993804,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.9166666666649235,
+            "time": 431.41666666660296
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 526.8499999998495,
+            "goalSide": "Red",
+            "goalTravelTime": 2.199999999997999,
+            "time": 529.0499999998475
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 599.949999999783,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.06666666666660603,
+            "time": 600.0166666664496
+        }
+    ],
+    "rawPositionsAtEnd": "-385.626917033752--167.946869613934|86.16229809058761--23.536670073142204|-478.45284472473713--77.9154180703539|-377.96150251831943-31.359855610327063|-189.22859812457745--120.82648310430042|-368.0904948028079--216.90647835474027|",
+    "score": {
+        "Blue": 2,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "ToPP",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "K-rol",
+            "hubigz",
+            "Toperz"
+        ]
+    },
+    "time": "2020-06-25 10:56"
+}

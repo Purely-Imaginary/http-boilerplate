@@ -1,1 +1,84 @@
-{"time": "2020-08-05 13:28", "teams": {"Red": ["MaddoHatto", "adamaru"], "Blue": ["K-rol", "hubigz"]}, "score": {"Red": 3, "Blue": 5}, "rawPositionsAtEnd": "42.45729151160345--45.395683721493164|-78.02187036442548-29.20013824860974|7.2429668009157275--173.20163713998497|-18.64756368843923--10.584869633682139|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 106.933,
+            "goalSide": "Red",
+            "goalTravelTime": 3.917,
+            "time": 110.85
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 270.7,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.15,
+            "time": 272.85
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 308.417,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.75,
+            "time": 310.167
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 444.733,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.55,
+            "time": 447.283
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 466.8,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.417,
+            "time": 467.217
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 523.0,
+            "goalSide": "Red",
+            "goalTravelTime": 1.367,
+            "time": 524.367
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 542.417,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.683,
+            "time": 546.1
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 592.3,
+            "goalSide": "Red",
+            "goalTravelTime": 1.317,
+            "time": 593.617
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 598.05,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.967,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-186.38125536005575-65.60083134385793|-100.77644291268845--38.45483892891243|-265.3341918771842-102.89070442270969|-89.49271133232882-210.8517661413832|",
+    "score": {
+        "Blue": 5,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "hubigz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-05 13:28"
+}

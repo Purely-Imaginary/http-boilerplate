@@ -1,1 +1,105 @@
-{"time": "2020-08-21 14:24", "teams": {"Red": ["rybak", "ToPP"], "Blue": ["adamaru", "K-rol"]}, "score": {"Red": 2, "Blue": 9}, "rawPositionsAtEnd": "90.19993251820752--22.509703061227746|465.1881060623838-64.17584055039721|226.21006834781875--222.33383586380253|191.14935064301187--63.879084314448264|"}
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 323.45,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.467,
+            "time": 325.917
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 354.633,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.183,
+            "time": 354.817
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 394.85,
+            "goalSide": "Red",
+            "goalTravelTime": 0.733,
+            "time": 395.583
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 408.333,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.55,
+            "time": 408.883
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 413.067,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.583,
+            "time": 413.65
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 428.817,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.633,
+            "time": 430.45
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 460.133,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.683,
+            "time": 460.817
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 460.833,
+            "goalSide": "Red",
+            "goalTravelTime": 4.833,
+            "time": 465.667
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 507.35,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.183,
+            "time": 508.533
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 532.467,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.95,
+            "time": 534.417
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 556.533,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.083,
+            "time": 556.617
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 598.233,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.783,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "124.99389417344644--94.33755874515901|503.4096780886049-121.28415189380301|282.9661630546465--170.13441715815947|291.27372713207404--199.36812620976767|",
+    "score": {
+        "Blue": 9,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "K-rol"
+        ],
+        "Red": [
+            "rybak",
+            "ToPP"
+        ]
+    },
+    "time": "2020-08-21 14:24"
+}

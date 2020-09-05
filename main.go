@@ -3,12 +3,15 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"math"
 	"net/http"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
+	"sync"
 	"time"
 
 	"./src/controllers"
@@ -24,38 +27,43 @@ var startingRating float32 = 1000.0
 var DBEngine *gorm.DB = controllers.InitializeDB()
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
-	fullRegenerate := false
+	fullRegenerate := true
 	startTime := time.Now()
 	controllers.TruncateAll()
 	if fullRegenerate {
-
-		// unparsedReplaysCounter := 1
-		// unparsedReplaysFiles, _ := ioutil.ReadDir(controllers.UnparsedReplayFolder)
-		// unparsedReplaysTotal := len(unparsedReplaysFiles)
+		unparsedReplaysCounter := 1
+		unparsedReplaysFiles, _ := ioutil.ReadDir(controllers.UnparsedReplayFolder)
+		unparsedReplaysTotal := len(unparsedReplaysFiles)
+		var wg sync.WaitGroup
 		filepath.Walk(controllers.UnparsedReplayFolder, func(path string, info os.FileInfo, err error) error {
 			if info.IsDir() {
 				return nil
 			}
 			if filepath.Ext(path) == ".hbr2" {
-				controllers.ParseReplay(info.Name())
+				log.Print(strconv.Itoa(unparsedReplaysCounter) + "/" + strconv.Itoa(unparsedReplaysTotal))
+				wg.Add(1)
+				go controllers.AsyncParseReplay(info.Name(), &wg)
+				unparsedReplaysCounter++
+			}
+			if unparsedReplaysCounter%5 == 0 {
+				wg.Wait()
 			}
 			return nil
 		})
 	}
 
-	// counter := 1
-	// files, _ := ioutil.ReadDir(controllers.ParsedReplayFolder)
-	// total := len(files)
+	counter := 1
+	files, _ := ioutil.ReadDir(controllers.ParsedReplayFolder)
+	total := len(files)
 
 	filepath.Walk(controllers.ParsedReplayFolder, func(path string, info os.FileInfo, err error) error {
 		if info.IsDir() {
 			return nil
 		}
 		if filepath.Ext(path) == ".json" {
-			log.Print(info.Name())
+			log.Print(info.Name() + " (" + strconv.Itoa(counter) + "/" + strconv.Itoa(total) + ")")
 			controllers.ProcessReplayFromFile(strings.Trim(info.Name(), ".bin.json"))
-
-			// log.Print(info.Name() + counter + "/" + total)
+			counter++
 		}
 		return nil
 	})

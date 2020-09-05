@@ -1,1 +1,77 @@
-{"time": "2020-07-16 12:14", "teams": {"Red": ["K-rol", "Amman"], "Blue": ["adamaru", "MaddoHatto"]}, "score": {"Red": 1, "Blue": 6}, "rawPositionsAtEnd": "164.2454321594406--219.88283956230086|389.2047887567252-54.00145167198469|-332.5278092678956--51.849019550356964|11.508838897497842--185.43617466114995|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 190.583,
+            "goalSide": "Red",
+            "goalTravelTime": 0.867,
+            "time": 191.45
+        },
+        {
+            "goalScorerId": 7,
+            "goalShotTime": 340.167,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.083,
+            "time": 340.25
+        },
+        {
+            "goalScorerId": 7,
+            "goalShotTime": 419.9,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.317,
+            "time": 422.217
+        },
+        {
+            "goalScorerId": 7,
+            "goalShotTime": 449.417,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.067,
+            "time": 450.483
+        },
+        {
+            "goalScorerId": 6,
+            "goalShotTime": 460.783,
+            "goalSide": "Blue",
+            "goalTravelTime": 9.033,
+            "time": 469.817
+        },
+        {
+            "goalScorerId": 6,
+            "goalShotTime": 499.117,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.017,
+            "time": 501.133
+        },
+        {
+            "goalScorerId": 6,
+            "goalShotTime": 537.2,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.433,
+            "time": 537.633
+        },
+        {
+            "goalScorerId": 7,
+            "goalShotTime": 596.733,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.283,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-174.82921071359922--183.93207109425617|-266.5143036836532--53.51426374641857|-339.93958824383515--51.97781868489749|-87.33739375085217--132.35636577821907|",
+    "score": {
+        "Blue": 6,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "K-rol",
+            "Amman"
+        ]
+    },
+    "time": "2020-07-16 12:14"
+}

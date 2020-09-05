@@ -1,1 +1,42 @@
-{"time": "2020-08-14 09:11", "teams": {"Red": ["adamaru", "MaddoHatto"], "Blue": ["ToPP", "hubigz"]}, "score": {"Red": 0, "Blue": 2}, "rawPositionsAtEnd": "-496.99485150927626--45.0732993871837|-527.3836680980536--63.59473057907955|-553.6343573921989--42.505243099577015|-313.7567421339091-51.545141949926|"}
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 409.2,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.683,
+            "time": 409.883
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 505.833,
+            "goalSide": "Blue",
+            "goalTravelTime": 5.983,
+            "time": 511.817
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 597.083,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.933,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-271.8898937149936--57.932174564272984|-321.6226048676952--14.283845295282394|-359.2432035146328--19.801257971741574|-388.97346975032207--164.35315035894985|",
+    "score": {
+        "Blue": 2,
+        "Red": 0
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "hubigz"
+        ],
+        "Red": [
+            "adamaru",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-14 09:11"
+}

@@ -1,1 +1,72 @@
-{"time": "2020-07-21 12:51", "teams": {"Red": ["MaddoHatto", "rybak", "Amman"], "Blue": ["adamaru", "hubigz", "Toperz"]}, "score": {"Red": 0, "Blue": 6}, "rawPositionsAtEnd": "-114.50572137722256--134.0462954301171|-560.7436215722502--126.74170970230634|320.9537725493595--107.04632915197693|-499.5865682458771-67.35079805663236|-427.2572927744883--59.50637553054989|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 126.817,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.133,
+            "time": 127.95
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 236.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.383,
+            "time": 236.7
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 326.3,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.867,
+            "time": 327.167
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 397.55,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.6,
+            "time": 399.15
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 500.117,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.65,
+            "time": 501.767
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 583.65,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.383,
+            "time": 586.033
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 595.283,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.733,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-84.10118479939769-58.62768367044029|-21.45615781158374--38.81261420789955|-353.10085260417935--120.76056247023587|302.85864603123093--87.84340628235614|-394.2492213141107-153.82616893768227|-413.32594834866427-78.41733844458024|",
+    "score": {
+        "Blue": 6,
+        "Red": 0
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "hubigz",
+            "Toperz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak",
+            "Amman"
+        ]
+    },
+    "time": "2020-07-21 12:51"
+}

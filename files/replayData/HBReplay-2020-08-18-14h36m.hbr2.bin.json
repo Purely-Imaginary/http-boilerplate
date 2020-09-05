@@ -1,1 +1,98 @@
-{"time": "2020-08-18 14:36", "teams": {"Red": ["K-rol", "hubigz"], "Blue": ["MaddoHatto", "rybak"]}, "score": {"Red": 10, "Blue": 1}, "rawPositionsAtEnd": "366.90462660829246--81.97091953318768|520.7880563536457-112.6472212827576|585.0--42.13573312733111|346.7207127090726-63.619058385153714|"}
+{
+    "gameTime": 361.383,
+    "goalsData": [
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 81.917,
+            "goalSide": "Red",
+            "goalTravelTime": 1.717,
+            "time": 83.633
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 103.517,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.883,
+            "time": 104.4
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 148.533,
+            "goalSide": "Red",
+            "goalTravelTime": 0.7,
+            "time": 149.233
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 175.417,
+            "goalSide": "Red",
+            "goalTravelTime": 1.75,
+            "time": 177.167
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 186.95,
+            "goalSide": "Red",
+            "goalTravelTime": 1.233,
+            "time": 188.183
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 248.667,
+            "goalSide": "Red",
+            "goalTravelTime": 1.917,
+            "time": 250.583
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 258.1,
+            "goalSide": "Red",
+            "goalTravelTime": 0.217,
+            "time": 258.317
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 267.017,
+            "goalSide": "Red",
+            "goalTravelTime": 5.667,
+            "time": 272.683
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 302.55,
+            "goalSide": "Red",
+            "goalTravelTime": 0.85,
+            "time": 303.4
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 304.767,
+            "goalSide": "Red",
+            "goalTravelTime": 3.817,
+            "time": 308.583
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 361.367,
+            "goalSide": "Red",
+            "goalTravelTime": 0.033,
+            "time": 361.4
+        }
+    ],
+    "rawPositionsAtEnd": "365.6181477070763--82.43671894175473|460.0040958855902-97.97498356990998|585.0--91.9929634777132|527.6531744829146--5.655551093632329|",
+    "score": {
+        "Blue": 1,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "K-rol",
+            "hubigz"
+        ]
+    },
+    "time": "2020-08-18 14:36"
+}

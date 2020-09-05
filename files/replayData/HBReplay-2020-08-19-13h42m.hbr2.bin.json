@@ -1,1 +1,86 @@
-{"time": "2020-08-19 13:42", "teams": {"Red": ["K-rol", "Amman", "Toperz"], "Blue": ["adamaru", "ToPP", "MaddoHatto"]}, "score": {"Red": 5, "Blue": 4}, "rawPositionsAtEnd": "407.04026128593165--6.945300685321976|-360.05712111190616-33.6758697711505|369.2543206137616-70.26163971298303|452.1695508775884-92.26248047189367|543.7314148067817-4.126168280513814|198.5290313329311--223.44204210602592|"}
+{
+    "gameTime": 679.983,
+    "goalsData": [
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 58.883,
+            "goalSide": "Red",
+            "goalTravelTime": 0.817,
+            "time": 59.7
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 130.733,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.467,
+            "time": 132.2
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 164.85,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.5,
+            "time": 165.35
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 265.133,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.333,
+            "time": 268.467
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 300.6,
+            "goalSide": "Red",
+            "goalTravelTime": 1.1,
+            "time": 301.7
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 338.317,
+            "goalSide": "Red",
+            "goalTravelTime": 0.917,
+            "time": 339.233
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 361.017,
+            "goalSide": "Red",
+            "goalTravelTime": 1.667,
+            "time": 362.683
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 580.4,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.917,
+            "time": 584.317
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 678.433,
+            "goalSide": "Red",
+            "goalTravelTime": 1.567,
+            "time": 680.0
+        }
+    ],
+    "rawPositionsAtEnd": "381.92842618522417-11.415191649062931|482.7192900527266-70.31108981323044|416.0734184716249-101.7096954709977|421.97321763834645-72.17825355097905|516.2034259390091--10.590845696324713|143.0994012136003--197.43506074284713|",
+    "score": {
+        "Blue": 4,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "ToPP",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "K-rol",
+            "Amman",
+            "Toperz"
+        ]
+    },
+    "time": "2020-08-19 13:42"
+}

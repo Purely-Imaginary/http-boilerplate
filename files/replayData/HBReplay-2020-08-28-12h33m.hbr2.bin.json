@@ -1,1 +1,70 @@
-{"time": "2020-08-28 12:33", "teams": {"Red": ["Toperz", "MaddoHatto"], "Blue": ["K-rol", "ToPP"]}, "score": {"Red": 10, "Blue": 0}, "rawPositionsAtEnd": "369.08164681067933-13.841954403745877|565.7379888893449-22.260533325635937|257.2238289226461--10.633547967280267|508.06796653828206--105.20441562628554|"}
+{
+    "gameTime": 486.067,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 172.45,
+            "goalSide": "Red",
+            "goalTravelTime": 0.267,
+            "time": 172.717
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 250.35,
+            "goalSide": "Red",
+            "goalTravelTime": 2.2,
+            "time": 252.55
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 294.767,
+            "goalSide": "Red",
+            "goalTravelTime": 2.45,
+            "time": 297.217
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 368.517,
+            "goalSide": "Red",
+            "goalTravelTime": 1.95,
+            "time": 370.467
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 429.95,
+            "goalSide": "Red",
+            "goalTravelTime": 1.7,
+            "time": 431.65
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 441.567,
+            "goalSide": "Red",
+            "goalTravelTime": 2.183,
+            "time": 443.75
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 483.35,
+            "goalSide": "Red",
+            "goalTravelTime": 2.733,
+            "time": 486.083
+        }
+    ],
+    "rawPositionsAtEnd": "488.8476576314322-52.338652828910675|495.1966697872848-23.036199039504204|250.33896217288097-1.2601662745923303|498.47216800513394-80.75288869874373|",
+    "score": {
+        "Blue": 0,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "Toperz",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-28 12:33"
+}

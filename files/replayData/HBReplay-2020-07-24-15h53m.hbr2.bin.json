@@ -1,1 +1,77 @@
-{"time": "2020-07-24 15:53", "teams": {"Red": ["Amman", "K-rol"], "Blue": ["MaddoHatto", "kjubn"]}, "score": {"Red": 3, "Blue": 4}, "rawPositionsAtEnd": "162.87772127189146--211.74515325067517|16.996167136107587-87.95112564539701|399.29049702975107--97.65479572366435|44.715142245234624-76.47687539104072|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 114.733,
+            "goalSide": "Blue",
+            "goalTravelTime": 5.45,
+            "time": 120.183
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 149.217,
+            "goalSide": "Red",
+            "goalTravelTime": 0.733,
+            "time": 149.95
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 246.783,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.533,
+            "time": 249.317
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 305.483,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.917,
+            "time": 306.4
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 341.817,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.133,
+            "time": 342.95
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 478.233,
+            "goalSide": "Red",
+            "goalTravelTime": 2.733,
+            "time": 480.967
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 484.35,
+            "goalSide": "Red",
+            "goalTravelTime": 4.45,
+            "time": 488.8
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 599.683,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.333,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-255.55480540648887--222.24428761075632|-168.58835720054745-19.27483097031002|-47.020982361807164--85.4070502677308|-196.3852147785634--205.8094433650685|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "kjubn"
+        ],
+        "Red": [
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2020-07-24 15:53"
+}

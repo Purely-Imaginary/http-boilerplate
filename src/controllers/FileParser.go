@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os/exec"
+	"sync"
 
 	"../models"
 	"../tools"
@@ -32,6 +33,11 @@ func ParseReplay(replayName string) {
 	_, err = cmd.Output()
 	tools.Check(err)
 	log.Println(replayName + " parsed")
+}
+
+// AsyncParseReplay ..
+func AsyncParseReplay(replayName string, wg *sync.WaitGroup) {
+	ParseReplay(replayName)
 }
 
 // ReadMatchFromFile takes converted file and creates RawMatch object from it

@@ -1,1 +1,112 @@
-{"time": "2020-06-08 13:47", "teams": {"Red": ["hubigz", "K-rol"], "Blue": ["ToPP", "adamaru"]}, "score": {"Red": 10, "Blue": 3}, "rawPositionsAtEnd": "369.2154824616559--21.050913640006964|-42.2042774893014--129.2246567923792|119.16208475473097-120.10779370563047|17.14881338240958-126.8532531628128|"}
+{
+    "gameTime": 477.3166666665612,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 50.2166666666651,
+            "goalSide": "Red",
+            "goalTravelTime": 0.833333333333286,
+            "time": 51.049999999998384
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 74.4333333333304,
+            "goalSide": "Red",
+            "goalTravelTime": 0.4333333333333087,
+            "time": 74.8666666666637
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 129.26666666666168,
+            "goalSide": "Red",
+            "goalTravelTime": 0.9166666666673962,
+            "time": 130.18333333332907
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 170.83333333336142,
+            "goalSide": "Red",
+            "goalTravelTime": 0.2166666666668391,
+            "time": 171.05000000002826
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 230.8166666667425,
+            "goalSide": "Red",
+            "goalTravelTime": 1.5000000000011937,
+            "time": 232.31666666674369
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 259.5833333334259,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.98333333333062,
+            "time": 262.56666666675653
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 276.0833333334109,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.06666666666660603,
+            "time": 276.1500000000775
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 284.21666666673684,
+            "goalSide": "Red",
+            "goalTravelTime": 2.0166666666648325,
+            "time": 286.2333333334017
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 296.2166666667259,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.3166666666645597,
+            "time": 298.5333333333905
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 308.5000000000481,
+            "goalSide": "Red",
+            "goalTravelTime": 0.3666666666663332,
+            "time": 308.8666666667144
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 322.46666666670205,
+            "goalSide": "Red",
+            "goalTravelTime": 0.4166666666662877,
+            "time": 322.88333333336834
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 346.8166666666799,
+            "goalSide": "Red",
+            "goalTravelTime": 0.7166666666660149,
+            "time": 347.5333333333459
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 475.8499999998959,
+            "goalSide": "Red",
+            "goalTravelTime": 1.4833333333319842,
+            "time": 477.33333333322787
+        }
+    ],
+    "rawPositionsAtEnd": "153.1347158285735-48.92969650705885|-68.66035900282729--100.3461465055228|101.49279628947058-121.17035846229359|15.135593205316907-131.57966311959123|",
+    "score": {
+        "Blue": 3,
+        "Red": 9
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "adamaru"
+        ],
+        "Red": [
+            "hubigz",
+            "K-rol"
+        ]
+    },
+    "time": "2020-06-08 13:47"
+}

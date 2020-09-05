@@ -1,1 +1,98 @@
-{"time": "2020-07-28 11:11", "teams": {"Red": ["Amman", "adamaru"], "Blue": ["K-rol", "MaddoHatto"]}, "score": {"Red": 1, "Blue": 10}, "rawPositionsAtEnd": "-407.2354589227326-29.791513954285975|-546.0322179923229--36.16798071540678|-230.66494272850417-0.02874708045802127|-334.4163854050033-103.4096271612903|"}
+{
+    "gameTime": 473.04999999989843,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 24.167,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.05,
+            "time": 26.217
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 38.217,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.3,
+            "time": 39.517
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 44.933,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.95,
+            "time": 45.883
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 49.1,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.65,
+            "time": 53.75
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 62.983,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.283,
+            "time": 63.267
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 113.733,
+            "goalSide": "Red",
+            "goalTravelTime": 3.2,
+            "time": 116.933
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 212.983,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.95,
+            "time": 213.933
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 334.75,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.083,
+            "time": 335.833
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 437.933,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.417,
+            "time": 438.35
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 441.067,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.567,
+            "time": 442.633
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 473.033,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.033,
+            "time": 473.067
+        }
+    ],
+    "rawPositionsAtEnd": "-405.00858793002703-29.796091870697126|-525.8011539701088--5.176211456147391|-240.22104485902605-48.80556966253747|-334.9025834428017-105.26715696160855|",
+    "score": {
+        "Blue": 9,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Amman",
+            "adamaru"
+        ]
+    },
+    "time": "2020-07-28 11:11"
+}

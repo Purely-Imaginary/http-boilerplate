@@ -1,1 +1,65 @@
-{"time": "2020-08-06 12:45", "teams": {"Red": ["K-rol", "hubigz", "Amman"], "Blue": ["ToPP", "MaddoHatto", "adamaru"]}, "score": {"Red": 2, "Blue": 3}, "rawPositionsAtEnd": "151.49447571359698--10.767252878906667|277.1927454675369--100.41682878588053|109.60979358112071--41.99726413041577|395.36863164767806-39.142310498821054|-95.56675858396976-41.57362272127832|517.6284979886237--2.585644236150496|"}
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 82.467,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.933,
+            "time": 83.4
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 203.217,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.9,
+            "time": 208.117
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 324.683,
+            "goalSide": "Red",
+            "goalTravelTime": 1.583,
+            "time": 326.267
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 413.033,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.75,
+            "time": 416.783
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 420.65,
+            "goalSide": "Red",
+            "goalTravelTime": 1.033,
+            "time": 421.683
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 599.267,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.75,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "159.6593821045955--171.04656173742993|272.77297521668373-56.682028827629594|275.70475967900796--64.44695930338615|374.5740006863877-99.9526155556482|3.83767292987171-40.1572124626839|461.0512750617237--38.584796903981406|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "MaddoHatto",
+            "adamaru"
+        ],
+        "Red": [
+            "K-rol",
+            "hubigz",
+            "Amman"
+        ]
+    },
+    "time": "2020-08-06 12:45"
+}

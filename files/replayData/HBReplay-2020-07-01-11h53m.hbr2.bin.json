@@ -1,1 +1,72 @@
-{"time": "2020-07-01 11:53", "teams": {"Red": ["K-rol", "MaddoHatto", "adamaru"], "Blue": ["hubigz", "Toperz", "ToPP"]}, "score": {"Red": 4, "Blue": 3}, "rawPositionsAtEnd": "162.07138165693715--13.070995971986317|70.21228183869323-210.92045427461557|212.47194461122368-186.06383830950176|-38.157810066992745-108.49096771251146|41.81346483049294--75.94272760551847|172.15835776991293-60.89759288415971|"}
+{
+    "gameTime": 419.9999999999467,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 108.033,
+            "goalSide": "Red",
+            "goalTravelTime": 2.3,
+            "time": 110.333
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 206.617,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.583,
+            "time": 208.2
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 222.5,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.667,
+            "time": 224.167
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 266.783,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.9,
+            "time": 267.683
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 287.683,
+            "goalSide": "Red",
+            "goalTravelTime": 0.817,
+            "time": 288.5
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 351.5,
+            "goalSide": "Red",
+            "goalTravelTime": 0.05,
+            "time": 351.55
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 417.267,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.75,
+            "time": 420.017
+        }
+    ],
+    "rawPositionsAtEnd": "67.12354288527055--24.11724038910386|66.05344164497906-126.78413079764516|41.06236013759916-144.2124284409895|8.924701262038338-0.30079577953897263|8.313688455339026--168.7109045075063|216.30136643175226-84.05298613819745|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "Toperz",
+            "ToPP"
+        ],
+        "Red": [
+            "K-rol",
+            "MaddoHatto",
+            "adamaru"
+        ]
+    },
+    "time": "2020-07-01 11:53"
+}

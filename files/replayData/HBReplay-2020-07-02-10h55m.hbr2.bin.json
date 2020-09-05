@@ -1,1 +1,112 @@
-{"time": "2020-07-02 10:55", "teams": {"Red": ["K-rol", "Toperz"], "Blue": ["ToPP", "rybak"]}, "score": {"Red": 8, "Blue": 4}, "rawPositionsAtEnd": "-401.30391912312683-42.068824099943186|-337.85824178014656-121.99205146135142|-398.9725292079637--18.47492723883772|-434.7038031811665--11.374264609884968|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 13.233,
+            "goalSide": "Red",
+            "goalTravelTime": 1.583,
+            "time": 14.817
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 88.417,
+            "goalSide": "Blue",
+            "goalTravelTime": 3.367,
+            "time": 91.783
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 117.633,
+            "goalSide": "Red",
+            "goalTravelTime": 1.617,
+            "time": 119.25
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 146.867,
+            "goalSide": "Red",
+            "goalTravelTime": 1.667,
+            "time": 148.533
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 184.217,
+            "goalSide": "Red",
+            "goalTravelTime": 3.35,
+            "time": 187.567
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 279.667,
+            "goalSide": "Red",
+            "goalTravelTime": 0.283,
+            "time": 279.95
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 297.983,
+            "goalSide": "Red",
+            "goalTravelTime": 0.2,
+            "time": 298.183
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 310.683,
+            "goalSide": "Red",
+            "goalTravelTime": 1.05,
+            "time": 311.733
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 330.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.117,
+            "time": 331.433
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 423.633,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.017,
+            "time": 425.65
+        },
+        {
+            "goalScorerId": 0,
+            "goalShotTime": 507.6,
+            "goalSide": "Red",
+            "goalTravelTime": 2.083,
+            "time": 509.683
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 544.417,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.583,
+            "time": 546.0
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 595.633,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.383,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-204.5247272781331-21.45269916417096|-201.56747881472938-93.76919206961514|-235.4839911262657-42.592572294345096|-248.72958890690515-12.931586511203365|",
+    "score": {
+        "Blue": 4,
+        "Red": 8
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "rybak"
+        ],
+        "Red": [
+            "K-rol",
+            "Toperz"
+        ]
+    },
+    "time": "2020-07-02 10:55"
+}

@@ -1,1 +1,58 @@
-{"time": "2020-07-21 14:48", "teams": {"Red": ["MaddoHatto", "hubigz", "kjubn"], "Blue": ["K-rol", "adamaru", "Amman"]}, "score": {"Red": 3, "Blue": 1}, "rawPositionsAtEnd": "-124.01211680555255--110.2540923024681|-189.2553274832273-62.39182094822138|-133.7475994525556--204.70238015293788|400.0-55.0|-153.56861346904367--164.08838328739319|-112.42333550631442--70.63862516152214|"}
+{
+    "gameTime": 599.999999999783,
+    "goalsData": [
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 104.933,
+            "goalSide": "Red",
+            "goalTravelTime": 3.567,
+            "time": 108.5
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 141.733,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.3,
+            "time": 143.033
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 151.383,
+            "goalSide": "Red",
+            "goalTravelTime": 5.883,
+            "time": 157.267
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 590.717,
+            "goalSide": "Red",
+            "goalTravelTime": 0.067,
+            "time": 590.783
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 598.6,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.417,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-309.766773072225-25.347953624351412|-309.3972895618278-115.44630397594743|-433.5381968751386--79.12324907487935|400.0-55.0|-317.24193685436825-162.45253969565547|-277.99071005215944-47.99173943432371|",
+    "score": {
+        "Blue": 1,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "adamaru",
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "hubigz",
+            "kjubn"
+        ]
+    },
+    "time": "2020-07-21 14:48"
+}

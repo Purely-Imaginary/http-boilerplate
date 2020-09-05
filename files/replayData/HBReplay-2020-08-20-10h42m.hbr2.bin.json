@@ -1,1 +1,91 @@
-{"time": "2020-08-20 10:42", "teams": {"Red": ["Toperz", "adamaru"], "Blue": ["ToPP", "K-rol"]}, "score": {"Red": 4, "Blue": 5}, "rawPositionsAtEnd": "-319.51106297203273--209.58681977998395|-378.035605962186-29.958032537229485|-338.73212390674337-101.09524928526803|-501.85106705037157--105.24762322248431|"}
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 6.483,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.883,
+            "time": 9.367
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 74.7,
+            "goalSide": "Red",
+            "goalTravelTime": 0.767,
+            "time": 75.467
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 91.517,
+            "goalSide": "Red",
+            "goalTravelTime": 1.417,
+            "time": 92.933
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 108.317,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.383,
+            "time": 110.7
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 305.667,
+            "goalSide": "Red",
+            "goalTravelTime": 0.483,
+            "time": 306.15
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 374.4,
+            "goalSide": "Blue",
+            "goalTravelTime": 4.717,
+            "time": 379.117
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 451.833,
+            "goalSide": "Blue",
+            "goalTravelTime": 0.367,
+            "time": 452.2
+        },
+        {
+            "goalScorerId": 2,
+            "goalShotTime": 485.0,
+            "goalSide": "Red",
+            "goalTravelTime": 1.45,
+            "time": 486.45
+        },
+        {
+            "goalScorerId": 4,
+            "goalShotTime": 539.617,
+            "goalSide": "Blue",
+            "goalTravelTime": 2.05,
+            "time": 541.667
+        },
+        {
+            "goalScorerId": 3,
+            "goalShotTime": 598.75,
+            "goalSide": "Blue",
+            "goalTravelTime": 1.267,
+            "time": 600.017
+        }
+    ],
+    "rawPositionsAtEnd": "-182.2180130066733--207.5065259920943|-344.98889797472316--140.35038754368043|-176.46711940311462--149.72788948663094|-327.68889154899796--210.5739244015164|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "K-rol"
+        ],
+        "Red": [
+            "Toperz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-20 10:42"
+}
