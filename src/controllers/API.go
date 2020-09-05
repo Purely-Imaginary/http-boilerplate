@@ -19,7 +19,7 @@ func prepareData(data interface{}, w http.ResponseWriter, r *http.Request) strin
 
 // GetLastMatches ..
 func GetLastMatches(w http.ResponseWriter, r *http.Request) {
-	outputMessage := prepareData(models.GetLastMatches(15), w, r)
+	outputMessage := prepareData(models.GetLastMatches(200), w, r)
 	fmt.Fprintf(w, outputMessage)
 }
 

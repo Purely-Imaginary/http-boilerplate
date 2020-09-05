@@ -24,18 +24,38 @@ var startingRating float32 = 1000.0
 var DBEngine *gorm.DB = controllers.InitializeDB()
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
+	fullRegenerate := false
 	startTime := time.Now()
 	controllers.TruncateAll()
+	if fullRegenerate {
+
+		// unparsedReplaysCounter := 1
+		// unparsedReplaysFiles, _ := ioutil.ReadDir(controllers.UnparsedReplayFolder)
+		// unparsedReplaysTotal := len(unparsedReplaysFiles)
+		filepath.Walk(controllers.UnparsedReplayFolder, func(path string, info os.FileInfo, err error) error {
+			if info.IsDir() {
+				return nil
+			}
+			if filepath.Ext(path) == ".hbr2" {
+				controllers.ParseReplay(info.Name())
+			}
+			return nil
+		})
+	}
+
+	// counter := 1
+	// files, _ := ioutil.ReadDir(controllers.ParsedReplayFolder)
+	// total := len(files)
+
 	filepath.Walk(controllers.ParsedReplayFolder, func(path string, info os.FileInfo, err error) error {
 		if info.IsDir() {
 			return nil
 		}
 		if filepath.Ext(path) == ".json" {
-			// repositories.DBEngine = controllers.InitializeDB()
+			log.Print(info.Name())
 			controllers.ProcessReplayFromFile(strings.Trim(info.Name(), ".bin.json"))
-			log.Print(".")
-			// repositories.DBEngine.Close()
-			// time.Sleep(2 * time.Second)
+
+			// log.Print(info.Name() + counter + "/" + total)
 		}
 		return nil
 	})

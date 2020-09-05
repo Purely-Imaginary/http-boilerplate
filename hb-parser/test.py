@@ -11,8 +11,16 @@ def threadedAnalysis(path):
             time = path[-26:-10].replace('h',':')
             time = time[:10] + ' ' + time[11:]
             meaningfulStates = []
+            actualPlayers = {}
+            matchLengthInTicks = 0
             for tick in bin[1]:
                 if tick.state.value > 2:
+                    for player in tick.players:
+                        if player.id not in actualPlayers:
+                            actualPlayers[player.id] = {'team': player.team.name, 'ticks': 0}
+                        actualPlayers[player.id]['team'] = player.team.name
+                        actualPlayers[player.id]['ticks'] = actualPlayers[player.id]['ticks'] + 1
+                    matchLengthInTicks += 1
                     meaningfulStates.append(tick)
 
             if meaningfulStates.__len__() == 0:
@@ -23,8 +31,11 @@ def threadedAnalysis(path):
             rawPositions = ""
             teams = {'Red': [], 'Blue': []}
             for player in lastState[0].players:
-                teams[player.team.name].append(bin[0][player.id])
                 rawPositions += str(player.disc.x) + "-" + str(player.disc.y) + "|"
+
+            for playerId in actualPlayers:
+                if (actualPlayers[playerId]['ticks'] / matchLengthInTicks > 0.6):
+                    teams[actualPlayers[playerId]['team']].append(bin[0][playerId])                
              
             saveData = {
                 'time': time,
