@@ -10,22 +10,22 @@ import (
 
 // Player - person who plays
 type Player struct {
-	ID          int64
-	Name        string
-	Wins        int64
-	Losses      int64
-	GoalsScored int64
-	GoalsLost   int64
-	WinRate     float32
-	Rating      float32
-	LastMatch   string
-	Matches     []*CalculatedMatch
+	ID          int64             `db:"id"`
+	Name        string            `db:"name"`
+	Wins        int64             `db:"wins"`
+	Losses      int64             `db:"losses"`
+	GoalsShot   int64             `db:"goals_shot"`
+	GoalsScored int64             `db:"goals_scored"`
+	GoalsLost   int64             `db:"goals_lost"`
+	WinRate     float32           `db:"win_rate"`
+	Rating      float32           `db:"rating"`
+	Matches     []CalculatedMatch `gorm:"many2many:player_matches"`
 }
 
 // GetPlayerByName .
 func GetPlayerByName(name string) *Player {
-	SQLPlayer := &repositories.SQLPlayer{}
-	err := repositories.DBEngine.First(SQLPlayer, "name = ?", name)
+	player := &Player{}
+	err := repositories.DBEngine.First(player, "name = ?", name)
 	if gorm.IsRecordNotFoundError(err.Error) {
 		return nil
 	}

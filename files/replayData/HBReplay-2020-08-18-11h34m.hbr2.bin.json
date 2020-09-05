@@ -5,50 +5,50 @@
             "goalScorerId": 2,
             "goalShotTime": 165.15,
             "goalSide": "Red",
-            "goalTravelTime": 0.567,
-            "time": 165.717
+            "goalTime": 165.717,
+            "goalTravelTime": 0.567
         },
         {
             "goalScorerId": 1,
-            "goalShotTime": 299.783,
+            "goalShotTime": 300.417,
             "goalSide": "Blue",
-            "goalTravelTime": 1.817,
-            "time": 301.6
+            "goalTime": 301.6,
+            "goalTravelTime": 1.183
         },
         {
             "goalScorerId": 1,
             "goalShotTime": 305.3,
             "goalSide": "Blue",
-            "goalTravelTime": 0.967,
-            "time": 306.267
+            "goalTime": 306.267,
+            "goalTravelTime": 0.967
         },
         {
             "goalScorerId": 0,
-            "goalShotTime": 376.833,
+            "goalShotTime": 376.867,
             "goalSide": "Red",
-            "goalTravelTime": 3.0,
-            "time": 379.833
+            "goalTime": 379.833,
+            "goalTravelTime": 2.966
         },
         {
             "goalScorerId": 3,
             "goalShotTime": 495.95,
             "goalSide": "Blue",
-            "goalTravelTime": 2.35,
-            "time": 498.3
+            "goalTime": 498.3,
+            "goalTravelTime": 2.35
         },
         {
             "goalScorerId": 0,
             "goalShotTime": 597.867,
             "goalSide": "Red",
-            "goalTravelTime": 1.383,
-            "time": 599.25
+            "goalTime": 599.25,
+            "goalTravelTime": 1.383
         },
         {
             "goalScorerId": 0,
-            "goalShotTime": 829.883,
+            "goalShotTime": 829.933,
             "goalSide": "Red",
-            "goalTravelTime": 2.183,
-            "time": 832.067
+            "goalTime": 832.067,
+            "goalTravelTime": 2.134
         }
     ],
     "rawPositionsAtEnd": "408.24155749101044-29.385019829269734|554.147261940776--13.88542518821589|481.53209171762694--41.833501920856115|581.6506286919217--48.09059522749262|",

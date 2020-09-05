@@ -19,6 +19,15 @@ func InitializeDB() *gorm.DB {
 	return db
 }
 
+// Migrate ..
+func Migrate() {
+	repositories.DBEngine.AutoMigrate(
+		&models.CalculatedMatch{},
+		&models.Player{},
+		&models.PlayerSnapshot{}
+	)
+}
+
 // TruncateAll .
 func TruncateAll() {
 	repositories.DBEngine.Exec("truncate table referee.downloaded_url;")

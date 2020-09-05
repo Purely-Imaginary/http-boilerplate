@@ -17,6 +17,7 @@ func processPlayersFromTeam(players []string, isRed bool) ([]models.PlayerSnapsh
 			newPlayer.Name = rawPlayerName
 			newPlayer.Wins = 0
 			newPlayer.Losses = 0
+			newPlayer.GoalsShot = 0
 			newPlayer.GoalsScored = 0
 			newPlayer.GoalsLost = 0
 			newPlayer.WinRate = 0

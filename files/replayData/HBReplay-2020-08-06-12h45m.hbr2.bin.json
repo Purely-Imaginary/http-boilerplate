@@ -5,43 +5,43 @@
             "goalScorerId": 4,
             "goalShotTime": 82.467,
             "goalSide": "Blue",
-            "goalTravelTime": 0.933,
-            "time": 83.4
+            "goalTime": 83.4,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerId": 5,
+            "goalShotTime": 205.533,
+            "goalSide": "Blue",
+            "goalTime": 208.117,
+            "goalTravelTime": 2.584
+        },
+        {
+            "goalScorerId": 1,
+            "goalShotTime": 325.483,
+            "goalSide": "Red",
+            "goalTime": 326.267,
+            "goalTravelTime": 0.784
         },
         {
             "goalScorerId": 4,
-            "goalShotTime": 203.217,
+            "goalShotTime": 414.15,
             "goalSide": "Blue",
-            "goalTravelTime": 4.9,
-            "time": 208.117
+            "goalTime": 416.783,
+            "goalTravelTime": 2.633
         },
         {
             "goalScorerId": 3,
-            "goalShotTime": 324.683,
+            "goalShotTime": 420.667,
             "goalSide": "Red",
-            "goalTravelTime": 1.583,
-            "time": 326.267
-        },
-        {
-            "goalScorerId": 4,
-            "goalShotTime": 413.033,
-            "goalSide": "Blue",
-            "goalTravelTime": 3.75,
-            "time": 416.783
-        },
-        {
-            "goalScorerId": 3,
-            "goalShotTime": 420.65,
-            "goalSide": "Red",
-            "goalTravelTime": 1.033,
-            "time": 421.683
+            "goalTime": 421.683,
+            "goalTravelTime": 1.016
         },
         {
             "goalScorerId": 2,
-            "goalShotTime": 599.267,
+            "goalShotTime": 599.3,
             "goalSide": "Blue",
-            "goalTravelTime": 0.75,
-            "time": 600.017
+            "goalTime": 600.017,
+            "goalTravelTime": 0.717
         }
     ],
     "rawPositionsAtEnd": "159.6593821045955--171.04656173742993|272.77297521668373-56.682028827629594|275.70475967900796--64.44695930338615|374.5740006863877-99.9526155556482|3.83767292987171-40.1572124626839|461.0512750617237--38.584796903981406|",

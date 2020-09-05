@@ -27,7 +27,7 @@ var startingRating float32 = 1000.0
 var DBEngine *gorm.DB = controllers.InitializeDB()
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
-	fullRegenerate := true
+	fullRegenerate := false
 	startTime := time.Now()
 	controllers.TruncateAll()
 	if fullRegenerate {
@@ -41,15 +41,16 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 			}
 			if filepath.Ext(path) == ".hbr2" {
 				log.Print(strconv.Itoa(unparsedReplaysCounter) + "/" + strconv.Itoa(unparsedReplaysTotal))
-				wg.Add(1)
 				go controllers.AsyncParseReplay(info.Name(), &wg)
 				unparsedReplaysCounter++
+				wg.Add(1)
 			}
-			if unparsedReplaysCounter%5 == 0 {
+			if unparsedReplaysCounter%15 == 0 {
 				wg.Wait()
 			}
 			return nil
 		})
+		wg.Wait()
 	}
 
 	counter := 1
@@ -68,7 +69,6 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 		return nil
 	})
 	log.Println("\n" + time.Now().Sub(startTime).String())
-	// TODO: calculate everything from unparsed replays
 
 }
 
