@@ -1,21 +1,21 @@
-package repositories
+package models
 
 import "github.com/jinzhu/gorm"
 
-// SQLDownloadedURL .
-type SQLDownloadedURL struct {
+// DownloadedURL ..
+type DownloadedURL struct {
 	URL     string `db:"url"`
 	MatchID int64  `db:"match_id"`
 }
 
 // TableName .
-func (u *SQLDownloadedURL) TableName() string {
+func (u *PlayerSnapshot) TableName() string {
 	return "downloaded_url"
 }
 
 // DoesExistsInDB .
-func (u *SQLDownloadedURL) DoesExistsInDB() int64 {
-	url := &SQLDownloadedURL{}
+func (u *DownloadedURL) DoesExistsInDB() int64 {
+	url := &DownloadedURL{}
 	err := DBEngine.First(url, "url = ?", u.URL)
 
 	if gorm.IsRecordNotFoundError(err.Error) {
@@ -26,14 +26,6 @@ func (u *SQLDownloadedURL) DoesExistsInDB() int64 {
 }
 
 // InsertIntoDB .
-func (u *SQLDownloadedURL) InsertIntoDB() {
+func (u *DownloadedURL) InsertIntoDB() {
 	DBEngine.Save(u)
 }
-
-/*
-create table player_match
-(
-	player_id int null,
-	match_id int null
-);
-*/

@@ -2,6 +2,7 @@ package models
 
 import (
 	"../repositories"
+	"../tools"
 )
 
 // Team .
@@ -14,27 +15,24 @@ type Team struct {
 
 //CalculatedMatch - match filled with full match and player data
 type CalculatedMatch struct {
-	ID           int64
-	Time         string
-	RedTeam      Team
-	BlueTeam     Team
-	RawPositions string
+	ID           int64        `db:"id"`
+	Time         string       `db:"time"`
+	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot`
+	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot`
+	RedScore     int64        `db:"red_score"`
+	BlueScore    int64        `db:"blue_score"`
+	RedAvg       float32      `db:"red_avg_rating"`
+	BlueAvg      float32      `db:"blue_avg_rating"`
+	RawPositions string       `db:"raw_positions"`
+	Goals        Goal         `gorm:"foreignkey:goal_id`
 }
 
 //InsertToDB .
 func (cm *CalculatedMatch) InsertToDB() int64 {
-	match := &repositories.SQLCalculatedMatch{
-		Time:         cm.Time,
-		RedScore:     cm.RedTeam.Score,
-		BlueScore:    cm.BlueTeam.Score,
-		RedAvg:       cm.RedTeam.AvgTeamRating,
-		BlueAvg:      cm.BlueTeam.AvgTeamRating,
-		RatingChange: cm.RedTeam.RatingChange,
-		RawPositions: cm.RawPositions,
-	}
+	err = repositories.DBEngine.Save(cm)
+	tools.Check(err.Error)
 
-	repositories.DBEngine.Save(match)
-	return match.ID
+	return cm.ID
 }
 
 // HydrateMatch ..
