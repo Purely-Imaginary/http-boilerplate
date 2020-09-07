@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"../tools"
+	"github.com/purely-imaginary/referee-go/src/tools"
 )
 
 // DownloadReplay takes path and downloads file to app for further processing

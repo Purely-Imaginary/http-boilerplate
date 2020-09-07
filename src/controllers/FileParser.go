@@ -7,8 +7,8 @@ import (
 	"os/exec"
 	"sync"
 
-	"../models"
-	"../tools"
+	"github.com/purely-imaginary/referee-go/src/models"
+	"github.com/purely-imaginary/referee-go/src/tools"
 )
 
 //UnparsedReplayFolder comment

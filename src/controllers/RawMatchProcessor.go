@@ -2,15 +2,14 @@ package controllers
 
 import (
 	"net/http"
-
-	"../repositories"
+	"referee-go/src/models"
 )
 
 // ProcessReplay .
 func ProcessReplay(request *http.Request) int64 {
 	downloadPath := ExtractURL(request)
 
-	urlToCheck := repositories.SQLDownloadedURL{URL: downloadPath}
+	urlToCheck := models.DownloadedURL{URL: downloadPath}
 	id := urlToCheck.DoesExistsInDB()
 	if id != 0 {
 		return id

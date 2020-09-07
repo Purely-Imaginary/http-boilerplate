@@ -1,6 +1,9 @@
 package models
 
-import "github.com/jinzhu/gorm"
+import (
+	"github.com/jinzhu/gorm"
+	"github.com/purely-imaginary/referee-go/src/controllers"
+)
 
 // DownloadedURL ..
 type DownloadedURL struct {
@@ -9,14 +12,14 @@ type DownloadedURL struct {
 }
 
 // TableName .
-func (u *PlayerSnapshot) TableName() string {
+func (u *DownloadedURL) TableName() string {
 	return "downloaded_url"
 }
 
 // DoesExistsInDB .
 func (u *DownloadedURL) DoesExistsInDB() int64 {
 	url := &DownloadedURL{}
-	err := DBEngine.First(url, "url = ?", u.URL)
+	err := controllers.DBEngine.First(url, "url = ?", u.URL)
 
 	if gorm.IsRecordNotFoundError(err.Error) {
 		return 0
@@ -27,5 +30,5 @@ func (u *DownloadedURL) DoesExistsInDB() int64 {
 
 // InsertIntoDB .
 func (u *DownloadedURL) InsertIntoDB() {
-	DBEngine.Save(u)
+	controllers.DBEngine.Save(u)
 }

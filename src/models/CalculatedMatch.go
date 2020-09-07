@@ -1,8 +1,8 @@
 package models
 
 import (
-	"../repositories"
-	"../tools"
+	"github.com/purely-imaginary/referee-go/src/controllers"
+	"github.com/purely-imaginary/referee-go/src/tools"
 )
 
 // Team .
@@ -19,96 +19,51 @@ type CalculatedMatch struct {
 	Time         string       `db:"time"`
 	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot`
 	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot`
-	RedScore     int64        `db:"red_score"`
-	BlueScore    int64        `db:"blue_score"`
-	RedAvg       float32      `db:"red_avg_rating"`
-	BlueAvg      float32      `db:"blue_avg_rating"`
 	RawPositions string       `db:"raw_positions"`
-	Goals        Goal         `gorm:"foreignkey:goal_id`
+	Goals        []Goal       `gorm:"foreignkey:goal_id`
 }
 
 //InsertToDB .
 func (cm *CalculatedMatch) InsertToDB() int64 {
-	err = repositories.DBEngine.Save(cm)
+	err := controllers.DBEngine.Save(cm)
 	tools.Check(err.Error)
 
 	return cm.ID
 }
 
-// HydrateMatch ..
-func HydrateMatch(SQLObject repositories.SQLCalculatedMatch) CalculatedMatch {
-	var playersSnaps []PlayerSnapshot
-	repositories.DBEngine.Find(&playersSnaps, "match_id = ?", SQLObject.ID)
-	var redPlayers []PlayerSnapshot
-	var bluePlayers []PlayerSnapshot
-	for _, playerSnap := range playersSnaps {
-		if playerSnap.IsRed {
-			redPlayers = append(redPlayers, playerSnap)
-		} else {
-			bluePlayers = append(bluePlayers, playerSnap)
-		}
-	}
-
-	resultObject := &CalculatedMatch{
-		ID:   SQLObject.ID,
-		Time: SQLObject.Time,
-		RedTeam: Team{
-			Players:       redPlayers,
-			AvgTeamRating: SQLObject.RedAvg,
-			Score:         SQLObject.RedScore,
-			RatingChange:  SQLObject.RatingChange,
-		},
-		BlueTeam: Team{
-			Players:       bluePlayers,
-			AvgTeamRating: SQLObject.BlueAvg,
-			Score:         SQLObject.BlueScore,
-			RatingChange:  -SQLObject.RatingChange,
-		},
-		RawPositions: SQLObject.RawPositions,
-	}
-
-	return *resultObject
-}
-
 // GetMatchByID .
 func GetMatchByID(id int64) *CalculatedMatch {
-	SQLObject := &repositories.SQLCalculatedMatch{}
-	err := repositories.DBEngine.First(SQLObject, "id = ?", id)
+	cm := &CalculatedMatch{}
+	err := controllers.DBEngine.First(cm, "id = ?", id)
 
 	if err.Error != nil {
 		return nil
 	}
-	resultData := HydrateMatch(*SQLObject)
-	return &resultData
+
+	return cm
 }
 
 // CheckForDuplicatePositions .
 func CheckForDuplicatePositions(positions string) int64 {
-	SQLObject := &repositories.SQLCalculatedMatch{}
-	err := repositories.DBEngine.First(SQLObject, "raw_positions = ?", positions)
+	cm := &CalculatedMatch{}
+	err := controllers.DBEngine.First(cm, "raw_positions = ?", positions)
 
 	if err.Error != nil {
 		return 0
 	}
-	return SQLObject.ID
+	return cm.ID
 }
 
 // GetLastMatches ..
 func GetLastMatches(amount int) []CalculatedMatch {
-	var SQLObjects []repositories.SQLCalculatedMatch
-	err := repositories.DBEngine.Order("id DESC").Limit(amount).Find(&SQLObjects)
+	var cms []CalculatedMatch
+	err := controllers.DBEngine.Order("id DESC").Limit(amount).Find(&cms)
 
 	if err.Error != nil {
 		return nil
 	}
-	var returnData []CalculatedMatch
 
-	for _, SQLObject := range SQLObjects {
-		returnMatch := HydrateMatch(SQLObject)
-		returnData = append(returnData, returnMatch)
-	}
-
-	return returnData
+	return cms
 }
 
 /*

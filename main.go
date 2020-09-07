@@ -14,11 +14,10 @@ import (
 	"sync"
 	"time"
 
-	"./src/controllers"
-	"./src/models"
-	"./src/repositories"
-	"./src/tools"
 	"github.com/jinzhu/gorm"
+	"github.com/purely-imaginary/referee-go/src/controllers"
+	"github.com/purely-imaginary/referee-go/src/models"
+	"github.com/purely-imaginary/referee-go/src/tools"
 )
 
 var startingRating float32 = 1000.0

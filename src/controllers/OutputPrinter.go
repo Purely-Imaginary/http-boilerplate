@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"../models"
-	"../tools"
+	"github.com/purely-imaginary/referee-go/src/models"
+	"github.com/purely-imaginary/referee-go/src/tools"
 )
 
 // ExportHTML creates html code for unfurling and basic shows. Will be redirecting to React app in future

@@ -1,10 +1,7 @@
 package models
 
 import (
-	"encoding/json"
-
-	"../repositories"
-	"../tools"
+	"github.com/purely-imaginary/referee-go/src/tools"
 	"github.com/rushteam/gosql"
 )
 
@@ -29,20 +26,4 @@ func (rm RawMatch) InsertIntoDB(DBEngine *gosql.PoolCluster) int64 {
 	tools.Check(err)
 	insertID, _ := result.LastInsertId()
 	return insertID
-}
-
-// CreateSQLEntity .
-func (rm RawMatch) CreateSQLEntity() repositories.SQLRawMatch {
-	SQLRawMatch := &repositories.SQLRawMatch{}
-	SQLRawMatch.Time = rm.Time
-	SQLRawMatch.RawPositionsAtEnd = rm.RawPositionsAtEnd
-	SQLRawMatch.RedScore = rm.Score.Red
-	SQLRawMatch.BlueScore = rm.Score.Blue
-	redPlayers, _ := json.Marshal(rm.Teams.Red)
-	SQLRawMatch.RedPlayers = string(redPlayers)
-
-	bluePlayers, _ := json.Marshal(rm.Teams.Blue)
-	SQLRawMatch.BluePlayers = string(bluePlayers)
-
-	return *SQLRawMatch
 }

@@ -4,7 +4,7 @@ import (
 	"math"
 	"time"
 
-	"../models"
+	"github.com/purely-imaginary/referee-go/src/models"
 )
 
 func processPlayersFromTeam(players []string, isRed bool) ([]models.PlayerSnapshot, float32) {
@@ -22,7 +22,7 @@ func processPlayersFromTeam(players []string, isRed bool) ([]models.PlayerSnapsh
 			newPlayer.GoalsLost = 0
 			newPlayer.WinRate = 0
 			newPlayer.Rating = 1000
-			newPlayer.Matches = []*models.CalculatedMatch{}
+			newPlayer.Matches = []models.CalculatedMatch{}
 			newPlayer.ID = newPlayer.InsertIntoDB()
 			player = &newPlayer
 		}

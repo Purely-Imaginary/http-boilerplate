@@ -1,15 +1,16 @@
 package controllers
 
 import (
-	"../models"
-	"../repositories"
-	"../tools"
 	"github.com/jinzhu/gorm"
+	"github.com/purely-imaginary/referee-go/src/models"
+	"github.com/purely-imaginary/referee-go/src/tools"
 
 	//mysql
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/rushteam/gosql"
 )
+
+// DBEngine .
+var DBEngine *gorm.DB
 
 //InitializeDB initializes DB if not already existing
 func InitializeDB() *gorm.DB {
@@ -21,42 +22,19 @@ func InitializeDB() *gorm.DB {
 
 // Migrate ..
 func Migrate() {
-	repositories.DBEngine.AutoMigrate(
+	DBEngine.AutoMigrate(
 		&models.CalculatedMatch{},
 		&models.Player{},
-		&models.PlayerSnapshot{}
+		&models.PlayerSnapshot{},
 	)
 }
 
 // TruncateAll .
 func TruncateAll() {
-	repositories.DBEngine.Exec("truncate table referee.downloaded_url;")
-	repositories.DBEngine.Exec("truncate table referee.match_calculated;")
-	repositories.DBEngine.Exec("truncate table referee.player;")
-	repositories.DBEngine.Exec("truncate table referee.player_snapshot;")
-	repositories.DBEngine.Exec("truncate table referee.raw_match;")
+	DBEngine.Exec("truncate table referee.downloaded_url;")
+	DBEngine.Exec("truncate table referee.match_calculated;")
+	DBEngine.Exec("truncate table referee.player;")
+	DBEngine.Exec("truncate table referee.player_snapshot;")
+	DBEngine.Exec("truncate table referee.raw_match;")
 
-	/* +
-		"truncate table referee.match_calculated; " +
-		"truncate table referee.player; " +
-		"truncate table referee.player_snapshot; " +
-		"truncate table referee.raw_match; ")
-
-	/*
-				truncate table downloaded_url;
-
-		truncate table match_calculated;
-
-		truncate table player;
-
-		truncate table player_snapshot;
-
-		truncate table raw_match;
-
-
-	*/
-}
-
-func insertPlayer(DBEngine *gosql.PoolCluster, player models.Player) {
-	DBEngine.Insert(player)
 }

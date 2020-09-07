@@ -1,11 +1,9 @@
 package models
 
 import (
-	"strings"
-
-	"../repositories"
-	"../tools"
 	"github.com/jinzhu/gorm"
+	"github.com/purely-imaginary/referee-go/src/controllers"
+	"github.com/purely-imaginary/referee-go/src/tools"
 )
 
 // Player - person who plays
@@ -25,79 +23,35 @@ type Player struct {
 // GetPlayerByName .
 func GetPlayerByName(name string) *Player {
 	player := &Player{}
-	err := repositories.DBEngine.First(player, "name = ?", name)
+	err := controllers.DBEngine.First(player, "name = ?", name)
 	if gorm.IsRecordNotFoundError(err.Error) {
 		return nil
 	}
 	tools.Check(err.Error)
 
-	return getPlayerFromSQLPlayer(*SQLPlayer, true)
+	return player
 }
 
 // GetPlayerByID .
 func GetPlayerByID(id int) *Player {
-	SQLPlayer := &repositories.SQLPlayer{}
-	err := repositories.DBEngine.First(SQLPlayer, "id = ?", id)
+	player := &Player{}
+
+	err := controllers.DBEngine.First(player, "id = ?", id)
+
 	if gorm.IsRecordNotFoundError(err.Error) {
 		return nil
 	}
 	tools.Check(err.Error)
 
-	return getPlayerFromSQLPlayer(*SQLPlayer, true)
-}
-
-func getPlayerFromSQLPlayer(SQLPlayer repositories.SQLPlayer, withMatches bool) *Player {
-	var playerSnapshots []PlayerSnapshot
-	err := repositories.DBEngine.Find(&playerSnapshots, "player_id = ?", SQLPlayer.ID)
-	tools.Check(err.Error)
-
-	var matches []*CalculatedMatch
-	var lastMatch string
-	if withMatches {
-		for _, playerMatch := range playerSnapshots {
-			match := GetMatchByID(playerMatch.MatchID)
-			matches = append(matches, match)
-			lastMatch = match.Time
-		}
-	} else {
-		match := GetMatchByID(playerSnapshots[SQLPlayer.Wins+SQLPlayer.Losses-1].MatchID)
-		lastMatch = match.Time
-	}
-
-	lastMatch = lastMatch[:len(lastMatch)-1]
-	lastMatch = strings.Replace(lastMatch, "T", " ", 1)
-
-	returnObject := Player{
-		ID:          SQLPlayer.ID,
-		Name:        SQLPlayer.Name,
-		Wins:        SQLPlayer.Wins,
-		Losses:      SQLPlayer.Losses,
-		GoalsScored: SQLPlayer.GoalsScored,
-		GoalsLost:   SQLPlayer.GoalsLost,
-		WinRate:     SQLPlayer.WinRate,
-		Rating:      SQLPlayer.Rating,
-		LastMatch:   lastMatch,
-		Matches:     matches,
-	}
-
-	return &returnObject
+	return player
 }
 
 // InsertIntoDB .
 func (p *Player) InsertIntoDB() int64 {
-	SQLObject := &repositories.SQLPlayer{
-		Name:        p.Name,
-		Wins:        p.Wins,
-		Losses:      p.Losses,
-		GoalsScored: p.GoalsScored,
-		GoalsLost:   p.GoalsLost,
-		WinRate:     p.WinRate,
-		Rating:      p.Rating,
-	}
-	err := repositories.DBEngine.Save(SQLObject)
+	err := controllers.DBEngine.Save(p)
 	tools.Check(err.Error)
 
-	return SQLObject.ID
+	return p.ID
 }
 
 // CreateSnapshot .
@@ -108,15 +62,15 @@ func (p *Player) CreateSnapshot(isRed bool) *PlayerSnapshot {
 		Rating:     p.Rating,
 		IsRed:      isRed,
 	}
-	err := repositories.DBEngine.Save(snapshot)
+	err := controllers.DBEngine.Save(snapshot)
 	tools.Check(err.Error)
 	return snapshot
 }
 
 // UpdatePlayer .
 func UpdatePlayer(PlayerID int64, win bool, goalsScored int64, goalsLost int64, ratingChange float32) {
-	player := &repositories.SQLPlayer{}
-	err := repositories.DBEngine.First(player, "id = ?", PlayerID)
+	player := &Player{}
+	err := controllers.DBEngine.First(player, "id = ?", PlayerID)
 	tools.Check(err.Error)
 	if win {
 		player.Wins = player.Wins + 1
@@ -128,25 +82,19 @@ func UpdatePlayer(PlayerID int64, win bool, goalsScored int64, goalsLost int64, 
 	player.GoalsLost += goalsLost
 	player.Rating += ratingChange
 
-	err = repositories.DBEngine.Save(player)
+	err = controllers.DBEngine.Save(player)
 	tools.Check(err.Error)
 
 }
 
 // GetPlayersTable ..
 func GetPlayersTable() []Player {
-	var SQLObjects []repositories.SQLPlayer
-	err := repositories.DBEngine.Order("rating DESC").Find(&SQLObjects)
+	var players []Player
+	err := controllers.DBEngine.Order("rating DESC").Find(&players)
 
 	if err.Error != nil {
 		return nil
 	}
-	var returnData []Player
 
-	for _, SQLObject := range SQLObjects {
-		returnPlayer := getPlayerFromSQLPlayer(SQLObject, false)
-		returnData = append(returnData, *returnPlayer)
-	}
-
-	return returnData
+	return players
 }
