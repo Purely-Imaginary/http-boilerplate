@@ -12,10 +12,10 @@ type Team struct {
 type CalculatedMatch struct {
 	ID           int64        `db:"id"`
 	Time         string       `db:"time"`
-	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot`
-	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot`
+	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot"`
+	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot"`
 	RawPositions string       `db:"raw_positions"`
-	Goals        []Goal       `gorm:"foreignkey:goal_id`
+	Goals        []Goal       `gorm:"foreignkey:goal_id"`
 }
 
 //InsertToDB .
