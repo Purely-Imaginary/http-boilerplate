@@ -14,7 +14,7 @@ type CalculatedMatch struct {
 	Time         string       `db:"time"`
 	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot"`
 	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot"`
-	RawPositions string       `db:"raw_positions"`
+	RawPositions string       `gorm:"size:1000"`
 	Goals        []Goal       `gorm:"foreignkey:goal_id"`
 }
 

@@ -30,18 +30,18 @@ func Migrate() {
 
 // DeleteAll .
 func DeleteAll() {
-	DBEngine.Exec("drop table referee.downloaded_url;")
-	DBEngine.Exec("drop table referee.match_calculated;")
-	DBEngine.Exec("drop table referee.player;")
-	DBEngine.Exec("drop table referee.player_snapshot;")
-	DBEngine.Exec("drop table referee.raw_match;")
+	DBEngine.Exec("drop table downloaded_url;")
+	DBEngine.Exec("drop table match_calculated;")
+	DBEngine.Exec("drop table player;")
+	DBEngine.Exec("drop table player_snapshot;")
+	DBEngine.Exec("drop table raw_match;")
 }
 
 // TruncateAll .
 func TruncateAll() {
-	DBEngine.Exec("truncate table referee.downloaded_url;")
-	DBEngine.Exec("truncate table referee.match_calculated;")
-	DBEngine.Exec("truncate table referee.player;")
-	DBEngine.Exec("truncate table referee.player_snapshot;")
-	DBEngine.Exec("truncate table referee.raw_match;")
+	DBEngine.Exec("truncate table downloaded_url;")
+	DBEngine.Exec("truncate table match_calculated;")
+	DBEngine.Exec("truncate table player;")
+	DBEngine.Exec("truncate table player_snapshot;")
+	DBEngine.Exec("truncate table raw_match;")
 }

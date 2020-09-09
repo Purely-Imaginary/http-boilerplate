@@ -18,7 +18,7 @@ import (
 var startingRating float32 = 1000.0
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
-	fullRegenerate := false
+	fullRegenerate := true
 	startTime := time.Now()
 	TruncateAll()
 	if fullRegenerate {
@@ -38,7 +38,7 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 				unparsedReplaysCounter++
 				wg.Add(1)
 			}
-			if unparsedReplaysCounter%15 == 0 {
+			if unparsedReplaysCounter%1 == 0 {
 				wg.Wait()
 			}
 			return nil
@@ -145,6 +145,7 @@ func findTeams(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+	log.Println("K2")
 	DBEngine = InitializeDB()
 	http.HandleFunc("/", HelloServer)
 	http.HandleFunc("/regenerate", regenerateData)
@@ -154,6 +155,7 @@ func main() {
 	http.HandleFunc("/p", parseReplay)
 	http.HandleFunc("/findTeams", findTeams)
 	http.ListenAndServe(":7777", nil)
+	log.Println("KK")
 }
 
 //HelloServer - testing function
