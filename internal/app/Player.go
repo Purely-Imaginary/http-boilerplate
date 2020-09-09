@@ -1,4 +1,4 @@
-package models
+package main
 
 import (
 	"github.com/jinzhu/gorm"
@@ -85,8 +85,8 @@ func UpdatePlayer(PlayerID int64, win bool, goalsScored int64, goalsLost int64, 
 
 }
 
-// GetPlayersTable ..
-func GetPlayersTable() []Player {
+// GetPlayersTableFromDB ..
+func GetPlayersTableFromDB() []Player {
 	var players []Player
 	err := DBEngine.Order("rating DESC").Find(&players)
 

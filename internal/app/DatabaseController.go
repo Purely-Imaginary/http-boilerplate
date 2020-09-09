@@ -1,4 +1,4 @@
-package controllers
+package main
 
 import (
 	"github.com/jinzhu/gorm"
@@ -24,7 +24,17 @@ func Migrate() {
 		&CalculatedMatch{},
 		&Player{},
 		&PlayerSnapshot{},
+		&DownloadedURL{},
 	)
+}
+
+// DeleteAll .
+func DeleteAll() {
+	DBEngine.Exec("drop table referee.downloaded_url;")
+	DBEngine.Exec("drop table referee.match_calculated;")
+	DBEngine.Exec("drop table referee.player;")
+	DBEngine.Exec("drop table referee.player_snapshot;")
+	DBEngine.Exec("drop table referee.raw_match;")
 }
 
 // TruncateAll .
@@ -34,5 +44,4 @@ func TruncateAll() {
 	DBEngine.Exec("truncate table referee.player;")
 	DBEngine.Exec("truncate table referee.player_snapshot;")
 	DBEngine.Exec("truncate table referee.raw_match;")
-
 }

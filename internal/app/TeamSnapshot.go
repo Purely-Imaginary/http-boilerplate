@@ -1,4 +1,4 @@
-package models
+package main
 
 // TeamSnapshot ..
 type TeamSnapshot struct {

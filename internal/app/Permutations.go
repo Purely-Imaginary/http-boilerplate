@@ -1,4 +1,4 @@
-package tools
+package main
 
 // Permutations ..
 func Permutations(arr []int) [][]int {

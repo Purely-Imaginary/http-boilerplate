@@ -1,4 +1,4 @@
-package tools
+package main
 
 //Check - checks for errors and panics if found any
 func Check(e error) {

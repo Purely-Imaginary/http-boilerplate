@@ -1,11 +1,11 @@
-package controllers
+package main
 
 import (
 	"math"
 	"time"
 )
 
-func processPlayersFromTeam(players []string, isRed bool) ([]models.PlayerSnapshot, float32) {
+func processPlayersFromTeam(players []string, isRed bool) ([]PlayerSnapshot, float32) {
 	var parsedPlayers []PlayerSnapshot
 	var ratingSum float32 = 0
 	for _, rawPlayerName := range players {

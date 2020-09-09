@@ -1,6 +1,4 @@
-package models
-
-import "purely-imaginary/referee-go/src/controllers"
+package main
 
 // Team .
 type Team struct {
@@ -22,7 +20,7 @@ type CalculatedMatch struct {
 
 //InsertToDB .
 func (cm *CalculatedMatch) InsertToDB() int64 {
-	err := controllers.DBEngine.Save(cm)
+	err := DBEngine.Save(cm)
 	Check(err.Error)
 
 	return cm.ID
@@ -51,8 +49,8 @@ func CheckForDuplicatePositions(positions string) int64 {
 	return cm.ID
 }
 
-// GetLastMatches ..
-func GetLastMatches(amount int) []CalculatedMatch {
+// GetLastMatchesFromDB ..
+func GetLastMatchesFromDB(amount int) []CalculatedMatch {
 	var cms []CalculatedMatch
 	err := DBEngine.Order("id DESC").Limit(amount).Find(&cms)
 

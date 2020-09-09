@@ -1,14 +1,14 @@
-package models
+package main
 
 // PlayerSnapshot - snapshot of player in history
 type PlayerSnapshot struct {
-	ID         int64              `db:"id"`
-	PlayerID   int64              `db:"player_id"`
-	PlayerName string             `db:"player_name"`
-	MatchID    int64              `db:"match_id"`
-	MatchRef   SQLCalculatedMatch `gorm:"foreignkey:match_id"`
-	Rating     float32            `db:"rating"`
-	IsRed      bool               `db:"is_red"`
+	ID         int64           `db:"id"`
+	PlayerID   int64           `db:"player_id"`
+	PlayerName string          `db:"player_name"`
+	MatchID    int64           `db:"match_id"`
+	MatchRef   CalculatedMatch `gorm:"foreignkey:match_id"`
+	Rating     float32         `db:"rating"`
+	IsRed      bool            `db:"is_red"`
 }
 
 // TableName .
@@ -27,8 +27,8 @@ func (u *PlayerSnapshot) UpdateMatchID(matchID int64) {
 	Check(err.Error)
 }
 
-// GetPlayersSnapshots ..
-func GetPlayersSnapshots() []PlayerSnapshot {
+// GetPlayersSnapshotsFromDB ..
+func GetPlayersSnapshotsFromDB() []PlayerSnapshot {
 	var playerSnaps []PlayerSnapshot
 	err := DBEngine.Preload("MatchRef").Order("player_snapshot.match_id ASC").Find(&playerSnaps)
 

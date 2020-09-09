@@ -13,20 +13,17 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	"github.com/jinzhu/gorm"
 )
 
 var startingRating float32 = 1000.0
-
-//DBEngine is just what you think it is
-var DBEngine *gorm.DB = InitializeDB()
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
 	fullRegenerate := false
 	startTime := time.Now()
 	TruncateAll()
 	if fullRegenerate {
+		DeleteAll()
+		Migrate()
 		unparsedReplaysCounter := 1
 		unparsedReplaysFiles, _ := ioutil.ReadDir(UnparsedReplayFolder)
 		unparsedReplaysTotal := len(unparsedReplaysFiles)
@@ -148,7 +145,7 @@ func findTeams(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	repositories.DBEngine = InitializeDB()
+	DBEngine = InitializeDB()
 	http.HandleFunc("/", HelloServer)
 	http.HandleFunc("/regenerate", regenerateData)
 	http.HandleFunc("/getLastMatches", GetLastMatches)
