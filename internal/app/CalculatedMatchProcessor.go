@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func processPlayersFromTeam(players []string, isRed bool) ([]PlayerSnapshot, float32) {
+func processPlayersFromTeam(players []string, isRed bool) TeamSnapshot {
 	var parsedPlayers []PlayerSnapshot
 	var ratingSum float32 = 0
 	for _, rawPlayerName := range players {
@@ -27,7 +27,11 @@ func processPlayersFromTeam(players []string, isRed bool) ([]PlayerSnapshot, flo
 		parsedPlayers = append(parsedPlayers, *player.CreateSnapshot(isRed))
 		ratingSum += player.Rating
 	}
-	return parsedPlayers, (ratingSum / float32(len(parsedPlayers)))
+	var parsedTeam TeamSnapshot
+	parsedTeam.Players = parsedPlayers
+	parsedTeam.AvgTeamRating = ratingSum / float32(len(parsedPlayers))
+	parsedTeam.IsRed = isRed
+	return parsedTeam
 }
 
 func processGoals(goals []RawGoal) []Goal {
@@ -116,8 +120,8 @@ func calculateMatch(rawMatch RawMatch) CalculatedMatch {
 	var processedMatch CalculatedMatch
 	processedMatch.RawPositions = rawMatch.RawPositionsAtEnd
 
-	processedMatch.RedTeam.Players, processedMatch.RedTeam.AvgTeamRating = processPlayersFromTeam(rawMatch.Teams.Red, true)
-	processedMatch.BlueTeam.Players, processedMatch.BlueTeam.AvgTeamRating = processPlayersFromTeam(rawMatch.Teams.Blue, false)
+	processedMatch.RedTeam = processPlayersFromTeam(rawMatch.Teams.Red, true)
+	processedMatch.BlueTeam = processPlayersFromTeam(rawMatch.Teams.Blue, false)
 
 	processedMatch.Goals = processGoals(rawMatch.GoalsData)
 	processedMatch.Time = rawMatch.Time

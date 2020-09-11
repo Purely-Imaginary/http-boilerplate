@@ -69,6 +69,9 @@ func (p *Player) CreateSnapshot(isRed bool) *PlayerSnapshot {
 func UpdatePlayer(PlayerID int64, win bool, goalsScored int64, goalsLost int64, ratingChange float32) {
 	player := &Player{}
 	err := DBEngine.First(player, "id = ?", PlayerID)
+	if player.Name == "" {
+		player = nil
+	}
 	Check(err.Error)
 	if win {
 		player.Wins = player.Wins + 1

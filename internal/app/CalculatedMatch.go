@@ -36,6 +36,8 @@ func (cm *CalculatedMatch) InsertToDB() uint {
 		player.GoalsShot++
 		DBEngine.Save(&player)
 	}
+	DBEngine.Save(&cm.RedTeam)
+	DBEngine.Save(&cm.BlueTeam)
 
 	return cm.ID
 }

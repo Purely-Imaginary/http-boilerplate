@@ -3,7 +3,7 @@ package main
 // TeamSnapshot ..
 type TeamSnapshot struct {
 	ID            uint             `db:"id"`
-	Players       []PlayerSnapshot `gorm:"foreignkey:player_id"`
+	Players       []PlayerSnapshot `gorm:"foreignkey:team_snapshot_id"`
 	AvgTeamRating float32
 	Score         int64
 	RatingChange  float32

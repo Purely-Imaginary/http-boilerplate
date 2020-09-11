@@ -1,16 +1,15 @@
 package main
 
-import "github.com/jinzhu/gorm"
-
 // PlayerSnapshot - snapshot of player in history
 type PlayerSnapshot struct {
-	gorm.Model
-	PlayerID   int64           `db:"player_id"`
-	PlayerName string          `db:"player_name"`
-	MatchID    uint            `db:"match_id"`
-	MatchRef   CalculatedMatch `gorm:"foreignkey:match_id"`
-	Rating     float32         `db:"rating"`
-	IsRed      bool            `db:"is_red"`
+	ID             uint            `db:"id"`
+	PlayerID       int64           `db:"player_id"`
+	PlayerName     string          `db:"player_name"`
+	TeamSnapshotID uint            `db:"team_snapshot_id"`
+	MatchID        uint            `db:"match_id"`
+	MatchRef       CalculatedMatch `gorm:"foreignkey:match_id"`
+	Rating         float32         `db:"rating"`
+	IsRed          bool            `db:"is_red"`
 }
 
 // TableName .
