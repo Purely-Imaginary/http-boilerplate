@@ -2,28 +2,28 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 149.983,
             "goalSide": "Red",
             "goalTime": 150.35,
             "goalTravelTime": 0.367
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "Toperz",
             "goalShotTime": 294.433,
             "goalSide": "Blue",
             "goalTime": 296.667,
             "goalTravelTime": 2.234
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "Toperz",
             "goalShotTime": 477.917,
             "goalSide": "Blue",
             "goalTime": 478.267,
             "goalTravelTime": 0.35
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 595.183,
             "goalSide": "Blue",
             "goalTime": 600.017,

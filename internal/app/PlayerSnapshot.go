@@ -1,11 +1,13 @@
 package main
 
+import "github.com/jinzhu/gorm"
+
 // PlayerSnapshot - snapshot of player in history
 type PlayerSnapshot struct {
-	ID         int64           `db:"id"`
+	gorm.Model
 	PlayerID   int64           `db:"player_id"`
 	PlayerName string          `db:"player_name"`
-	MatchID    int64           `db:"match_id"`
+	MatchID    uint            `db:"match_id"`
 	MatchRef   CalculatedMatch `gorm:"foreignkey:match_id"`
 	Rating     float32         `db:"rating"`
 	IsRed      bool            `db:"is_red"`
@@ -17,7 +19,7 @@ func (u *PlayerSnapshot) TableName() string {
 }
 
 // UpdateMatchID .
-func (u *PlayerSnapshot) UpdateMatchID(matchID int64) {
+func (u *PlayerSnapshot) UpdateMatchID(matchID uint) {
 	snap := &PlayerSnapshot{}
 	err := DBEngine.First(snap, "id = ?", u.ID)
 	Check(err.Error)

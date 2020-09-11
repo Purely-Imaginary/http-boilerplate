@@ -6,6 +6,7 @@ import (
 	"log"
 	"os/exec"
 	"sync"
+	"time"
 )
 
 //UnparsedReplayFolder comment
@@ -21,15 +22,20 @@ func ParseReplay(replayName string) {
 	nodeCoverterPath := "hb-parser/haxball/replay.js"
 	targetPath := "hb-parser/preprocessed/" + replayName + ".bin"
 
+	nodeTimeStart := time.Now()
 	cmd := exec.Command("node", nodeCoverterPath, "convert", filepath, targetPath)
 	_, err := cmd.Output()
 	Check(err)
+	nodeTimeElapsed := time.Now().Sub(nodeTimeStart).String()
 
+	pythonTimeStart := time.Now()
 	cmd = exec.Command("python3", "test.py", "preprocessed/"+replayName+".bin")
 	cmd.Dir = "hb-parser"
 	_, err = cmd.Output()
 	Check(err)
-	log.Println(replayName + " parsed")
+	pythonTimeElapsed := time.Now().Sub(pythonTimeStart).String()
+
+	log.Println(replayName + " parsed. Node: " + nodeTimeElapsed + " - Python: " + pythonTimeElapsed)
 }
 
 // AsyncParseReplay ..

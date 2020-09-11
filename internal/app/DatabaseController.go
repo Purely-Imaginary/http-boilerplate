@@ -20,28 +20,29 @@ func InitializeDB() *gorm.DB {
 
 // Migrate ..
 func Migrate() {
-	DBEngine.AutoMigrate(
-		&CalculatedMatch{},
-		&Player{},
-		&PlayerSnapshot{},
-		&DownloadedURL{},
-	)
+	DBEngine.AutoMigrate(&CalculatedMatch{})
+	DBEngine.AutoMigrate(&Player{})
+	DBEngine.AutoMigrate(&PlayerSnapshot{})
+	DBEngine.AutoMigrate(&DownloadedURL{})
+	DBEngine.AutoMigrate(&TeamSnapshot{})
+	DBEngine.AutoMigrate(&Goal{})
+
 }
 
 // DeleteAll .
 func DeleteAll() {
 	DBEngine.Exec("drop table downloaded_url;")
-	DBEngine.Exec("drop table match_calculated;")
-	DBEngine.Exec("drop table player;")
+	DBEngine.Exec("drop table calculated_matches;")
+	DBEngine.Exec("drop table players;")
 	DBEngine.Exec("drop table player_snapshot;")
-	DBEngine.Exec("drop table raw_match;")
+	DBEngine.Exec("drop table goal;")
+	DBEngine.Exec("drop table team_snapshot;")
 }
 
 // TruncateAll .
 func TruncateAll() {
 	DBEngine.Exec("truncate table downloaded_url;")
-	DBEngine.Exec("truncate table match_calculated;")
-	DBEngine.Exec("truncate table player;")
+	DBEngine.Exec("truncate table calculated_matches;")
+	DBEngine.Exec("truncate table players;")
 	DBEngine.Exec("truncate table player_snapshot;")
-	DBEngine.Exec("truncate table raw_match;")
 }

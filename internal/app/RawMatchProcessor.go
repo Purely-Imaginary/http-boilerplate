@@ -5,7 +5,7 @@ import (
 )
 
 // ProcessReplay .
-func ProcessReplay(request *http.Request) int64 {
+func ProcessReplay(request *http.Request) uint {
 	downloadPath := ExtractURL(request)
 
 	urlToCheck := DownloadedURL{URL: downloadPath}
@@ -24,7 +24,7 @@ func ProcessReplay(request *http.Request) int64 {
 }
 
 // ProcessReplayFromFile .
-func ProcessReplayFromFile(replayName string) int64 {
+func ProcessReplayFromFile(replayName string) uint {
 
 	rawMatch := ReadMatchFromFile(replayName)
 

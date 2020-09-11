@@ -2,84 +2,84 @@
     "gameTime": 504.267,
     "goalsData": [
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 32.517,
             "goalSide": "Red",
             "goalTime": 34.45,
             "goalTravelTime": 1.933
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 70.017,
             "goalSide": "Blue",
             "goalTime": 71.0,
             "goalTravelTime": 0.983
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 97.4,
             "goalSide": "Blue",
             "goalTime": 97.583,
             "goalTravelTime": 0.183
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 107.233,
             "goalSide": "Blue",
             "goalTime": 108.9,
             "goalTravelTime": 1.667
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 162.617,
             "goalSide": "Blue",
             "goalTime": 163.4,
             "goalTravelTime": 0.783
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 176.567,
             "goalSide": "Blue",
             "goalTime": 177.433,
             "goalTravelTime": 0.866
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 218.717,
             "goalSide": "Blue",
             "goalTime": 220.383,
             "goalTravelTime": 1.666
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 296.4,
             "goalSide": "Blue",
             "goalTime": 297.1,
             "goalTravelTime": 0.7
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 323.267,
             "goalSide": "Blue",
             "goalTime": 324.317,
             "goalTravelTime": 1.05
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "adamaru",
             "goalShotTime": 410.917,
             "goalSide": "Red",
             "goalTime": 411.083,
             "goalTravelTime": 0.166
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 481.1,
             "goalSide": "Blue",
             "goalTime": 482.65,
             "goalTravelTime": 1.55
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 504.0,
             "goalSide": "Blue",
             "goalTime": 504.283,

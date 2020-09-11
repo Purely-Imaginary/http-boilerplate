@@ -2,49 +2,49 @@
     "gameTime": 637.6,
     "goalsData": [
         {
-            "goalScorerId": 5,
+            "goalScorerName": "Toperz",
             "goalShotTime": 33.65,
             "goalSide": "Red",
             "goalTime": 35.95,
             "goalTravelTime": 2.3
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "ToPP",
             "goalShotTime": 133.183,
             "goalSide": "Red",
             "goalTime": 134.8,
             "goalTravelTime": 1.617
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 223.067,
             "goalSide": "Red",
             "goalTime": 223.4,
             "goalTravelTime": 0.333
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 376.5,
             "goalSide": "Blue",
             "goalTime": 378.25,
             "goalTravelTime": 1.75
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 423.483,
             "goalSide": "Blue",
             "goalTime": 424.667,
             "goalTravelTime": 1.184
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 538.483,
             "goalSide": "Blue",
             "goalTime": 539.483,
             "goalTravelTime": 1.0
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 637.517,
             "goalSide": "Red",
             "goalTime": 637.617,

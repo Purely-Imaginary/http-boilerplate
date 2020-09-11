@@ -2,49 +2,49 @@
     "gameTime": 695.817,
     "goalsData": [
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 19.633,
             "goalSide": "Blue",
             "goalTime": 20.533,
             "goalTravelTime": 0.9
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 163.967,
             "goalSide": "Blue",
             "goalTime": 164.917,
             "goalTravelTime": 0.95
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 233.75,
             "goalSide": "Red",
             "goalTime": 235.833,
             "goalTravelTime": 2.083
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 287.383,
             "goalSide": "Red",
             "goalTime": 290.617,
             "goalTravelTime": 3.234
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 376.15,
             "goalSide": "Blue",
             "goalTime": 376.933,
             "goalTravelTime": 0.783
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 573.35,
             "goalSide": "Red",
             "goalTime": 573.55,
             "goalTravelTime": 0.2
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "Amman",
             "goalShotTime": 692.717,
             "goalSide": "Red",
             "goalTime": 695.833,

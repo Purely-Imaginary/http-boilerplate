@@ -2,49 +2,49 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 4,
+            "goalScorerName": "Toperz",
             "goalShotTime": 98.167,
             "goalSide": "Blue",
             "goalTime": 98.317,
             "goalTravelTime": 0.15
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 253.067,
             "goalSide": "Blue",
             "goalTime": 253.633,
             "goalTravelTime": 0.566
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 325.567,
             "goalSide": "Blue",
             "goalTime": 328.933,
             "goalTravelTime": 3.366
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 395.7,
             "goalSide": "Blue",
             "goalTime": 397.817,
             "goalTravelTime": 2.117
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 443.55,
             "goalSide": "Blue",
             "goalTime": 444.167,
             "goalTravelTime": 0.617
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "Toperz",
             "goalShotTime": 520.467,
             "goalSide": "Blue",
             "goalTime": 523.2,
             "goalTravelTime": 2.733
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 592.367,
             "goalSide": "Blue",
             "goalTime": 600.017,

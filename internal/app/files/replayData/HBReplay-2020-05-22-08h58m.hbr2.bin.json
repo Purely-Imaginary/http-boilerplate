@@ -2,42 +2,42 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 71.033,
             "goalSide": "Blue",
             "goalTime": 73.333,
             "goalTravelTime": 2.3
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "hubigz",
             "goalShotTime": 183.917,
             "goalSide": "Blue",
             "goalTime": 185.117,
             "goalTravelTime": 1.2
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 247.0,
             "goalSide": "Blue",
             "goalTime": 247.533,
             "goalTravelTime": 0.533
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 304.717,
             "goalSide": "Blue",
             "goalTime": 305.4,
             "goalTravelTime": 0.683
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 427.167,
             "goalSide": "Blue",
             "goalTime": 427.767,
             "goalTravelTime": 0.6
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 599.367,
             "goalSide": "Blue",
             "goalTime": 600.017,

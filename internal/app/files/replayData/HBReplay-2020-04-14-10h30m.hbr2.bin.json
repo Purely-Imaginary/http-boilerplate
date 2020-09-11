@@ -2,14 +2,14 @@
     "gameTime": 420.0,
     "goalsData": [
         {
-            "goalScorerId": 0,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 205.783,
             "goalSide": "Blue",
             "goalTime": 206.65,
             "goalTravelTime": 0.867
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "rybak",
             "goalShotTime": 419.833,
             "goalSide": "Blue",
             "goalTime": 420.017,

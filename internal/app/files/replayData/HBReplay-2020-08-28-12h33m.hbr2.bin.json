@@ -2,49 +2,49 @@
     "gameTime": 486.067,
     "goalsData": [
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 172.483,
             "goalSide": "Red",
             "goalTime": 172.717,
             "goalTravelTime": 0.234
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 251.717,
             "goalSide": "Red",
             "goalTime": 252.55,
             "goalTravelTime": 0.833
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 294.733,
             "goalSide": "Red",
             "goalTime": 297.217,
             "goalTravelTime": 2.484
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 368.583,
             "goalSide": "Red",
             "goalTime": 370.467,
             "goalTravelTime": 1.884
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 429.95,
             "goalSide": "Red",
             "goalTime": 431.65,
             "goalTravelTime": 1.7
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 441.567,
             "goalSide": "Red",
             "goalTime": 443.75,
             "goalTravelTime": 2.183
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 485.733,
             "goalSide": "Red",
             "goalTime": 486.083,

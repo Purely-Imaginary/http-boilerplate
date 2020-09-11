@@ -1,8 +1,18 @@
 package main
 
 import (
+	"github.com/jinzhu/gorm"
 	"github.com/rushteam/gosql"
 )
+
+type RawGoal struct {
+	gorm.Model
+	GoalScorerName string
+	GoalShotTime   float32
+	GoalSide       string
+	GoalTime       float32
+	GoalTravelTime float32
+}
 
 // RawMatch - data parsed from replay
 type RawMatch struct {
@@ -17,6 +27,7 @@ type RawMatch struct {
 		Red  int64
 		Blue int64
 	}
+	GoalsData []RawGoal
 }
 
 // InsertIntoDB .

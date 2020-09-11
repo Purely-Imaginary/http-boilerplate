@@ -2,11 +2,12 @@ package main
 
 // TeamSnapshot ..
 type TeamSnapshot struct {
-	ID            int64            `db:"id"`
+	ID            uint             `db:"id"`
 	Players       []PlayerSnapshot `gorm:"foreignkey:player_id"`
 	AvgTeamRating float32
 	Score         int64
 	RatingChange  float32
+	IsRed         bool
 }
 
 // TableName .

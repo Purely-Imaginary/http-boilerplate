@@ -30,6 +30,30 @@ func processPlayersFromTeam(players []string, isRed bool) ([]PlayerSnapshot, flo
 	return parsedPlayers, (ratingSum / float32(len(parsedPlayers)))
 }
 
+func processGoals(goals []RawGoal) []Goal {
+	var parsedGoals []Goal
+	for _, goal := range goals {
+		player := &Player{}
+		DBEngine.First(player, "name = ?", goal.GoalScorerName)
+
+		var parsedGoal Goal
+		parsedGoal.PlayerID = player.ID
+		parsedGoal.PlayerName = goal.GoalScorerName
+		parsedGoal.Time = goal.GoalTime
+		parsedGoal.TravelTime = goal.GoalTravelTime
+		parsedGoal.ShotTime = goal.GoalShotTime
+
+		isRed := true
+		if goal.GoalSide != "Red" {
+			isRed = false
+		}
+
+		parsedGoal.IsRed = isRed
+		parsedGoals = append(parsedGoals, parsedGoal)
+	}
+	return parsedGoals
+}
+
 func processTime(timeString string) int64 {
 	layout := "2006-01-02 15:04"
 	t, err := time.Parse(layout, timeString)
@@ -95,6 +119,7 @@ func calculateMatch(rawMatch RawMatch) CalculatedMatch {
 	processedMatch.RedTeam.Players, processedMatch.RedTeam.AvgTeamRating = processPlayersFromTeam(rawMatch.Teams.Red, true)
 	processedMatch.BlueTeam.Players, processedMatch.BlueTeam.AvgTeamRating = processPlayersFromTeam(rawMatch.Teams.Blue, false)
 
+	processedMatch.Goals = processGoals(rawMatch.GoalsData)
 	processedMatch.Time = rawMatch.Time
 	processedMatch.RedTeam.Score = rawMatch.Score.Red
 	processedMatch.BlueTeam.Score = rawMatch.Score.Blue

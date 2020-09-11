@@ -2,42 +2,42 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 5,
+            "goalScorerName": "ToPP",
             "goalShotTime": 45.0,
             "goalSide": "Blue",
             "goalTime": 45.467,
             "goalTravelTime": 0.467
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 164.15,
             "goalSide": "Red",
             "goalTime": 168.633,
             "goalTravelTime": 4.483
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 411.717,
             "goalSide": "Red",
             "goalTime": 412.417,
             "goalTravelTime": 0.7
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "K-rol",
             "goalShotTime": 445.783,
             "goalSide": "Blue",
             "goalTime": 447.15,
             "goalTravelTime": 1.367
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 467.1,
             "goalSide": "Red",
             "goalTime": 467.85,
             "goalTravelTime": 0.75
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "K-rol",
             "goalShotTime": 599.483,
             "goalSide": "Blue",
             "goalTime": 600.017,

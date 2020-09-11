@@ -1,5 +1,7 @@
 package main
 
+import "github.com/jinzhu/gorm"
+
 // Team .
 type Team struct {
 	Players       []PlayerSnapshot
@@ -10,24 +12,36 @@ type Team struct {
 
 //CalculatedMatch - match filled with full match and player data
 type CalculatedMatch struct {
-	ID           int64        `db:"id"`
+	gorm.Model
 	Time         string       `db:"time"`
-	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot"`
-	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot"`
+	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot_id"`
+	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot_id"`
 	RawPositions string       `gorm:"size:1000"`
-	Goals        []Goal       `gorm:"foreignkey:goal_id"`
+	Goals        []Goal       `gorm:"foreignkey:match_id"`
 }
 
 //InsertToDB .
-func (cm *CalculatedMatch) InsertToDB() int64 {
+func (cm *CalculatedMatch) InsertToDB() uint {
 	err := DBEngine.Save(cm)
 	Check(err.Error)
+
+	for _, goal := range cm.Goals {
+		goal.MatchID = cm.ID
+		goal.MatchRef = *cm
+
+		DBEngine.Save(&goal)
+
+		player := &Player{}
+		DBEngine.First(player, "id = ?", goal.PlayerID)
+		player.GoalsShot++
+		DBEngine.Save(&player)
+	}
 
 	return cm.ID
 }
 
 // GetMatchByID .
-func GetMatchByID(id int64) *CalculatedMatch {
+func GetMatchByID(id uint) *CalculatedMatch {
 	cm := &CalculatedMatch{}
 	err := DBEngine.First(cm, "id = ?", id)
 
@@ -39,7 +53,7 @@ func GetMatchByID(id int64) *CalculatedMatch {
 }
 
 // CheckForDuplicatePositions .
-func CheckForDuplicatePositions(positions string) int64 {
+func CheckForDuplicatePositions(positions string) uint {
 	cm := &CalculatedMatch{}
 	err := DBEngine.First(cm, "raw_positions = ?", positions)
 
@@ -52,7 +66,7 @@ func CheckForDuplicatePositions(positions string) int64 {
 // GetLastMatchesFromDB ..
 func GetLastMatchesFromDB(amount int) []CalculatedMatch {
 	var cms []CalculatedMatch
-	err := DBEngine.Order("id DESC").Limit(amount).Find(&cms)
+	err := DBEngine.Order("id DESC").Limit(amount).Preload("Goals").Find(&cms)
 
 	if err.Error != nil {
 		return nil

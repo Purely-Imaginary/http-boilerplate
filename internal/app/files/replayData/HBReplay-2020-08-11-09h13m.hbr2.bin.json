@@ -2,42 +2,42 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 99.1,
             "goalSide": "Blue",
             "goalTime": 100.717,
             "goalTravelTime": 1.617
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 172.7,
             "goalSide": "Blue",
             "goalTime": 174.167,
             "goalTravelTime": 1.467
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 346.3,
             "goalSide": "Red",
             "goalTime": 346.383,
             "goalTravelTime": 0.083
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 389.167,
             "goalSide": "Red",
             "goalTime": 390.317,
             "goalTravelTime": 1.15
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 446.633,
             "goalSide": "Blue",
             "goalTime": 447.817,
             "goalTravelTime": 1.184
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 599.4,
             "goalSide": "Blue",
             "goalTime": 600.017,

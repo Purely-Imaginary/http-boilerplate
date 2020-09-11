@@ -2,70 +2,70 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 6.517,
             "goalSide": "Blue",
             "goalTime": 9.367,
             "goalTravelTime": 2.85
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 74.7,
             "goalSide": "Red",
             "goalTime": 75.467,
             "goalTravelTime": 0.767
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 91.517,
             "goalSide": "Red",
             "goalTime": 92.933,
             "goalTravelTime": 1.416
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "K-rol",
             "goalShotTime": 110.067,
             "goalSide": "Blue",
             "goalTime": 110.7,
             "goalTravelTime": 0.633
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 305.717,
             "goalSide": "Red",
             "goalTime": 306.15,
             "goalTravelTime": 0.433
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 374.4,
             "goalSide": "Blue",
             "goalTime": 379.117,
             "goalTravelTime": 4.717
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 451.85,
             "goalSide": "Blue",
             "goalTime": 452.2,
             "goalTravelTime": 0.35
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 485.0,
             "goalSide": "Red",
             "goalTime": 486.45,
             "goalTravelTime": 1.45
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 541.267,
             "goalSide": "Blue",
             "goalTime": 541.667,
             "goalTravelTime": 0.4
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "ToPP",
             "goalShotTime": 598.983,
             "goalSide": "Blue",
             "goalTime": 600.017,

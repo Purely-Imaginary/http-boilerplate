@@ -18,12 +18,11 @@ import (
 var startingRating float32 = 1000.0
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
-	fullRegenerate := true
+	fullRegenerate := false
 	startTime := time.Now()
-	TruncateAll()
+	DeleteAll()
+	Migrate()
 	if fullRegenerate {
-		DeleteAll()
-		Migrate()
 		unparsedReplaysCounter := 1
 		unparsedReplaysFiles, _ := ioutil.ReadDir(UnparsedReplayFolder)
 		unparsedReplaysTotal := len(unparsedReplaysFiles)
@@ -38,7 +37,7 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 				unparsedReplaysCounter++
 				wg.Add(1)
 			}
-			if unparsedReplaysCounter%1 == 0 {
+			if unparsedReplaysCounter%2 == 0 {
 				wg.Wait()
 			}
 			return nil
@@ -145,7 +144,6 @@ func findTeams(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	log.Println("K2")
 	DBEngine = InitializeDB()
 	http.HandleFunc("/", HelloServer)
 	http.HandleFunc("/regenerate", regenerateData)
@@ -155,13 +153,14 @@ func main() {
 	http.HandleFunc("/p", parseReplay)
 	http.HandleFunc("/findTeams", findTeams)
 	http.ListenAndServe(":7777", nil)
-	log.Println("KK")
+	log.Println("Ready to serve")
 }
 
 //HelloServer - testing function
 func HelloServer(w http.ResponseWriter, r *http.Request) {
 	InitializeDB()
-	outputMessage := "<html><head><meta name=\"description\" content=\"" + "123456" + "\"></head><body>" + "456789" + "</body></html>"
-
+	outputMessage := "<html><head><meta name=\"description\" content=\"" + "123456" + "\"></head><body>"
+	outputMessage += "<form action=\"/regenerate\"><input type=\"submit\" value=\"Regenerate\" /></form>"
+	outputMessage += "</body></html>"
 	fmt.Fprintf(w, outputMessage)
 }

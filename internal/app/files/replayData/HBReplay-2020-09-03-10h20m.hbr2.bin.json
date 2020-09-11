@@ -2,84 +2,84 @@
     "gameTime": 491.6,
     "goalsData": [
         {
-            "goalScorerId": 3,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 19.433,
             "goalSide": "Blue",
             "goalTime": 21.183,
             "goalTravelTime": 1.75
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Toperz",
             "goalShotTime": 36.233,
             "goalSide": "Red",
             "goalTime": 39.883,
             "goalTravelTime": 3.65
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 55.617,
             "goalSide": "Blue",
             "goalTime": 56.467,
             "goalTravelTime": 0.85
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 103.617,
             "goalSide": "Blue",
             "goalTime": 109.4,
             "goalTravelTime": 5.783
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 139.933,
             "goalSide": "Blue",
             "goalTime": 141.167,
             "goalTravelTime": 1.234
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 182.683,
             "goalSide": "Blue",
             "goalTime": 183.167,
             "goalTravelTime": 0.484
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 215.533,
             "goalSide": "Blue",
             "goalTime": 216.483,
             "goalTravelTime": 0.95
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 236.2,
             "goalSide": "Blue",
             "goalTime": 240.283,
             "goalTravelTime": 4.083
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Amman",
             "goalShotTime": 263.95,
             "goalSide": "Red",
             "goalTime": 264.0,
             "goalTravelTime": 0.05
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 272.667,
             "goalSide": "Blue",
             "goalTime": 273.017,
             "goalTravelTime": 0.35
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 443.133,
             "goalSide": "Blue",
             "goalTime": 443.317,
             "goalTravelTime": 0.184
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 489.4,
             "goalSide": "Blue",
             "goalTime": 491.617,

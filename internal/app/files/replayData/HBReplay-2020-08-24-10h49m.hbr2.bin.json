@@ -2,77 +2,77 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 11.567,
             "goalSide": "Blue",
             "goalTime": 13.6,
             "goalTravelTime": 2.033
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Amman",
             "goalShotTime": 62.45,
             "goalSide": "Blue",
             "goalTime": 66.417,
             "goalTravelTime": 3.967
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Amman",
             "goalShotTime": 81.567,
             "goalSide": "Blue",
             "goalTime": 84.15,
             "goalTravelTime": 2.583
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "ToPP",
             "goalShotTime": 274.017,
             "goalSide": "Red",
             "goalTime": 274.533,
             "goalTravelTime": 0.516
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 314.067,
             "goalSide": "Blue",
             "goalTime": 314.967,
             "goalTravelTime": 0.9
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 402.633,
             "goalSide": "Blue",
             "goalTime": 404.5,
             "goalTravelTime": 1.867
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 426.183,
             "goalSide": "Blue",
             "goalTime": 426.633,
             "goalTravelTime": 0.45
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "adamaru",
             "goalShotTime": 499.583,
             "goalSide": "Blue",
             "goalTime": 499.85,
             "goalTravelTime": 0.267
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 517.883,
             "goalSide": "Red",
             "goalTime": 518.667,
             "goalTravelTime": 0.784
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Amman",
             "goalShotTime": 587.5,
             "goalSide": "Blue",
             "goalTime": 587.55,
             "goalTravelTime": 0.05
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Amman",
             "goalShotTime": 598.2,
             "goalSide": "Blue",
             "goalTime": 600.017,

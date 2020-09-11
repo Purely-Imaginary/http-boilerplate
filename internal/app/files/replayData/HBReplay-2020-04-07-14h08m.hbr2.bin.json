@@ -1,43 +1,42 @@
 {
     "gameTime": 332.867,
-    "goalsData": [
-        {
-            "goalScorerId": 3,
+    "goalsData": [{
+            "goalScorerName": "rybak",
             "goalShotTime": 136.383,
             "goalSide": "Blue",
             "goalTime": 137.15,
             "goalTravelTime": 0.767
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "rybak",
             "goalShotTime": 155.65,
             "goalSide": "Blue",
             "goalTime": 157.65,
             "goalTravelTime": 2.0
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "rybak",
             "goalShotTime": 214.683,
             "goalSide": "Blue",
             "goalTime": 215.4,
             "goalTravelTime": 0.717
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "ToPP",
             "goalShotTime": 274.867,
             "goalSide": "Red",
             "goalTime": 275.667,
             "goalTravelTime": 0.8
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "Amman",
             "goalShotTime": 289.417,
             "goalSide": "Blue",
             "goalTime": 290.483,
             "goalTravelTime": 1.066
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "rybak",
             "goalShotTime": 331.6,
             "goalSide": "Blue",
             "goalTime": 332.883,

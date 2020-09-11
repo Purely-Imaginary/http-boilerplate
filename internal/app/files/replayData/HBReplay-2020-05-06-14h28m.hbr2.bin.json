@@ -2,42 +2,42 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 4,
+            "goalScorerName": "rybak",
             "goalShotTime": 114.9,
             "goalSide": "Blue",
             "goalTime": 116.15,
             "goalTravelTime": 1.25
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 199.45,
             "goalSide": "Blue",
             "goalTime": 200.183,
             "goalTravelTime": 0.733
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "hubigz",
             "goalShotTime": 244.817,
             "goalSide": "Red",
             "goalTime": 245.933,
             "goalTravelTime": 1.116
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "rybak",
             "goalShotTime": 369.517,
             "goalSide": "Blue",
             "goalTime": 369.85,
             "goalTravelTime": 0.333
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "rybak",
             "goalShotTime": 430.7,
             "goalSide": "Blue",
             "goalTime": 431.067,
             "goalTravelTime": 0.367
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 599.6,
             "goalSide": "Blue",
             "goalTime": 600.017,

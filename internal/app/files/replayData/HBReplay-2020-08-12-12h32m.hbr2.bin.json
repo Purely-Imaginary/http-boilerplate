@@ -2,35 +2,35 @@
     "gameTime": 643.917,
     "goalsData": [
         {
-            "goalScorerId": 2,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 47.017,
             "goalSide": "Blue",
             "goalTime": 47.183,
             "goalTravelTime": 0.166
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "K-rol",
             "goalShotTime": 64.217,
             "goalSide": "Red",
             "goalTime": 65.05,
             "goalTravelTime": 0.833
         },
         {
-            "goalScorerId": 6,
+            "goalScorerName": "rybak",
             "goalShotTime": 200.15,
             "goalSide": "Blue",
             "goalTime": 202.2,
             "goalTravelTime": 2.05
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "K-rol",
             "goalShotTime": 428.15,
             "goalSide": "Red",
             "goalTime": 428.5,
             "goalTravelTime": 0.35
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "hubigz",
             "goalShotTime": 642.617,
             "goalSide": "Red",
             "goalTime": 643.933,

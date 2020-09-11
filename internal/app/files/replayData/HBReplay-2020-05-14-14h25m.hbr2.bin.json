@@ -2,21 +2,21 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 2,
+            "goalScorerName": "adamaru",
             "goalShotTime": 236.883,
             "goalSide": "Red",
             "goalTime": 238.0,
             "goalTravelTime": 1.117
         },
         {
-            "goalScorerId": 6,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 494.567,
             "goalSide": "Red",
             "goalTime": 495.317,
             "goalTravelTime": 0.75
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "Toperz",
             "goalShotTime": 597.1,
             "goalSide": "Blue",
             "goalTime": 600.017,

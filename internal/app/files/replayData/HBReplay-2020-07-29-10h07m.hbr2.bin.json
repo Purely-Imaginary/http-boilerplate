@@ -2,21 +2,21 @@
     "gameTime": 678.183,
     "goalsData": [
         {
-            "goalScorerId": 2,
+            "goalScorerName": "K-rol",
             "goalShotTime": 538.45,
             "goalSide": "Red",
             "goalTime": 540.717,
             "goalTravelTime": 2.267
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 552.717,
             "goalSide": "Blue",
             "goalTime": 553.6,
             "goalTravelTime": 0.883
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "K-rol",
             "goalShotTime": 674.133,
             "goalSide": "Red",
             "goalTime": 678.2,

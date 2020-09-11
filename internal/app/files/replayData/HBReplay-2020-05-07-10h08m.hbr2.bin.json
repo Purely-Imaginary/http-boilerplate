@@ -2,63 +2,63 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 3,
+            "goalScorerName": "hubigz",
             "goalShotTime": 196.467,
             "goalSide": "Red",
             "goalTime": 196.85,
             "goalTravelTime": 0.383
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "hubigz",
             "goalShotTime": 225.65,
             "goalSide": "Red",
             "goalTime": 227.867,
             "goalTravelTime": 2.217
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "hubigz",
             "goalShotTime": 239.117,
             "goalSide": "Red",
             "goalTime": 241.033,
             "goalTravelTime": 1.916
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 259.4,
             "goalSide": "Blue",
             "goalTime": 260.283,
             "goalTravelTime": 0.883
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 294.983,
             "goalSide": "Blue",
             "goalTime": 296.4,
             "goalTravelTime": 1.417
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "hubigz",
             "goalShotTime": 370.267,
             "goalSide": "Red",
             "goalTime": 371.467,
             "goalTravelTime": 1.2
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "hubigz",
             "goalShotTime": 475.3,
             "goalSide": "Red",
             "goalTime": 475.35,
             "goalTravelTime": 0.05
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 559.883,
             "goalSide": "Red",
             "goalTime": 560.1,
             "goalTravelTime": 0.217
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 599.35,
             "goalSide": "Blue",
             "goalTime": 600.017,

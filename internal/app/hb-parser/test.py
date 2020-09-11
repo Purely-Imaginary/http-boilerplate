@@ -59,7 +59,7 @@ def threadedAnalysis(path):
                         
                     goals.append({
                         "goalTime": round(tick.gameTime, 3),
-                        "goalScorerId": goalScorerId,
+                        "goalScorerName": bin[0][goalScorerId],
                         "goalShotTime": goalShotTime,
                         "goalSide": goalSide,
                         "goalTravelTime": round(tick.gameTime - goalShotTime, 3)

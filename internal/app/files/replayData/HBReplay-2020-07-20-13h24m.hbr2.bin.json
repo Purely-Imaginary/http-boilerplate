@@ -2,63 +2,63 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 2,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 64.467,
             "goalSide": "Blue",
             "goalTime": 65.033,
             "goalTravelTime": 0.566
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 91.95,
             "goalSide": "Blue",
             "goalTime": 92.3,
             "goalTravelTime": 0.35
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 168.883,
             "goalSide": "Red",
             "goalTime": 170.233,
             "goalTravelTime": 1.35
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 238.85,
             "goalSide": "Red",
             "goalTime": 239.2,
             "goalTravelTime": 0.35
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 400.617,
             "goalSide": "Blue",
             "goalTime": 401.8,
             "goalTravelTime": 1.183
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "K-rol",
             "goalShotTime": 449.483,
             "goalSide": "Blue",
             "goalTime": 453.85,
             "goalTravelTime": 4.367
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "K-rol",
             "goalShotTime": 473.117,
             "goalSide": "Blue",
             "goalTime": 473.333,
             "goalTravelTime": 0.216
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "K-rol",
             "goalShotTime": 479.283,
             "goalSide": "Blue",
             "goalTime": 480.3,
             "goalTravelTime": 1.017
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "K-rol",
             "goalShotTime": 597.933,
             "goalSide": "Blue",
             "goalTime": 600.017,

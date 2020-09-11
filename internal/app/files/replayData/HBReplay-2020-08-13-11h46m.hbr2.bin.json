@@ -2,63 +2,63 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 47.967,
             "goalSide": "Blue",
             "goalTime": 48.183,
             "goalTravelTime": 0.216
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 64.867,
             "goalSide": "Blue",
             "goalTime": 66.483,
             "goalTravelTime": 1.616
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 161.783,
             "goalSide": "Blue",
             "goalTime": 163.533,
             "goalTravelTime": 1.75
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 266.15,
             "goalSide": "Red",
             "goalTime": 267.7,
             "goalTravelTime": 1.55
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 273.667,
             "goalSide": "Red",
             "goalTime": 274.633,
             "goalTravelTime": 0.966
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 386.317,
             "goalSide": "Blue",
             "goalTime": 386.867,
             "goalTravelTime": 0.55
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 495.733,
             "goalSide": "Red",
             "goalTime": 497.733,
             "goalTravelTime": 2.0
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 581.717,
             "goalSide": "Blue",
             "goalTime": 585.35,
             "goalTravelTime": 3.633
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "K-rol",
             "goalShotTime": 599.3,
             "goalSide": "Blue",
             "goalTime": 600.017,

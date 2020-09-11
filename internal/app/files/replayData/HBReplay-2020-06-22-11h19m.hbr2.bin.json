@@ -2,77 +2,77 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 59.033,
             "goalSide": "Red",
             "goalTime": 60.5,
             "goalTravelTime": 1.467
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 75.683,
             "goalSide": "Red",
             "goalTime": 76.75,
             "goalTravelTime": 1.067
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "hubigz",
             "goalShotTime": 262.7,
             "goalSide": "Blue",
             "goalTime": 263.117,
             "goalTravelTime": 0.417
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "hubigz",
             "goalShotTime": 286.683,
             "goalSide": "Blue",
             "goalTime": 288.417,
             "goalTravelTime": 1.734
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 368.05,
             "goalSide": "Red",
             "goalTime": 368.6,
             "goalTravelTime": 0.55
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 439.75,
             "goalSide": "Red",
             "goalTime": 442.7,
             "goalTravelTime": 2.95
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 476.683,
             "goalSide": "Red",
             "goalTime": 476.95,
             "goalTravelTime": 0.267
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "hubigz",
             "goalShotTime": 483.083,
             "goalSide": "Blue",
             "goalTime": 483.6,
             "goalTravelTime": 0.517
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 565.717,
             "goalSide": "Red",
             "goalTime": 566.417,
             "goalTravelTime": 0.7
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 594.133,
             "goalSide": "Red",
             "goalTime": 594.717,
             "goalTravelTime": 0.584
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "XD",
             "goalShotTime": 599.983,
             "goalSide": "Blue",
             "goalTime": 600.017,

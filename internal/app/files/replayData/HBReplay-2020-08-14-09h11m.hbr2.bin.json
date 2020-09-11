@@ -2,21 +2,21 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 409.25,
             "goalSide": "Blue",
             "goalTime": 409.883,
             "goalTravelTime": 0.633
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 511.45,
             "goalSide": "Blue",
             "goalTime": 511.817,
             "goalTravelTime": 0.367
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 597.083,
             "goalSide": "Blue",
             "goalTime": 600.017,

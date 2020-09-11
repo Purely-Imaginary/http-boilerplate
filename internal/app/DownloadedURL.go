@@ -7,7 +7,7 @@ import (
 // DownloadedURL ..
 type DownloadedURL struct {
 	URL     string `db:"url"`
-	MatchID int64  `db:"match_id"`
+	MatchID uint   `db:"match_id"`
 }
 
 // TableName .
@@ -16,7 +16,7 @@ func (u *DownloadedURL) TableName() string {
 }
 
 // DoesExistsInDB .
-func (u *DownloadedURL) DoesExistsInDB() int64 {
+func (u *DownloadedURL) DoesExistsInDB() uint {
 	url := &DownloadedURL{}
 	err := DBEngine.First(url, "url = ?", u.URL)
 

@@ -2,42 +2,42 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 3,
+            "goalScorerName": "adamaru",
             "goalShotTime": 10.817,
             "goalSide": "Red",
             "goalTime": 12.467,
             "goalTravelTime": 1.65
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 33.5,
             "goalSide": "Blue",
             "goalTime": 34.85,
             "goalTravelTime": 1.35
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "adamaru",
             "goalShotTime": 264.367,
             "goalSide": "Red",
             "goalTime": 264.967,
             "goalTravelTime": 0.6
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "ToPP",
             "goalShotTime": 449.1,
             "goalSide": "Red",
             "goalTime": 449.233,
             "goalTravelTime": 0.133
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 537.283,
             "goalSide": "Blue",
             "goalTime": 537.533,
             "goalTravelTime": 0.25
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 598.633,
             "goalSide": "Blue",
             "goalTime": 600.017,

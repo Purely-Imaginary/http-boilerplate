@@ -2,70 +2,70 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 123.5,
             "goalSide": "Red",
             "goalTime": 123.733,
             "goalTravelTime": 0.233
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 143.933,
             "goalSide": "Blue",
             "goalTime": 145.517,
             "goalTravelTime": 1.584
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 162.0,
             "goalSide": "Red",
             "goalTime": 162.8,
             "goalTravelTime": 0.8
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 173.7,
             "goalSide": "Red",
             "goalTime": 174.283,
             "goalTravelTime": 0.583
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 215.067,
             "goalSide": "Red",
             "goalTime": 216.25,
             "goalTravelTime": 1.183
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "adamaru",
             "goalShotTime": 256.35,
             "goalSide": "Blue",
             "goalTime": 257.767,
             "goalTravelTime": 1.417
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 323.9,
             "goalSide": "Red",
             "goalTime": 324.233,
             "goalTravelTime": 0.333
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 334.533,
             "goalSide": "Blue",
             "goalTime": 335.017,
             "goalTravelTime": 0.484
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 444.8,
             "goalSide": "Red",
             "goalTime": 445.117,
             "goalTravelTime": 0.317
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 597.617,
             "goalSide": "Blue",
             "goalTime": 600.017,

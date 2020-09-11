@@ -2,35 +2,35 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 5,
+            "goalScorerName": "rybak",
             "goalShotTime": 359.417,
             "goalSide": "Blue",
             "goalTime": 359.833,
             "goalTravelTime": 0.416
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "hubigz",
             "goalShotTime": 420.517,
             "goalSide": "Blue",
             "goalTime": 422.95,
             "goalTravelTime": 2.433
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "rybak",
             "goalShotTime": 467.033,
             "goalSide": "Blue",
             "goalTime": 469.817,
             "goalTravelTime": 2.784
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "rybak",
             "goalShotTime": 555.017,
             "goalSide": "Blue",
             "goalTime": 556.933,
             "goalTravelTime": 1.916
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 599.467,
             "goalSide": "Blue",
             "goalTime": 600.017,

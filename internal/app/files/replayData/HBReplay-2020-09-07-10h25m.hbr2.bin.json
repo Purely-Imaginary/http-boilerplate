@@ -2,63 +2,63 @@
     "gameTime": 710.683,
     "goalsData": [
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 215.983,
             "goalSide": "Red",
             "goalTime": 216.8,
             "goalTravelTime": 0.817
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 256.367,
             "goalSide": "Red",
             "goalTime": 257.65,
             "goalTravelTime": 1.283
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 282.833,
             "goalSide": "Blue",
             "goalTime": 283.067,
             "goalTravelTime": 0.234
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 298.367,
             "goalSide": "Blue",
             "goalTime": 299.167,
             "goalTravelTime": 0.8
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "MaddoHatto",
             "goalShotTime": 478.6,
             "goalSide": "Blue",
             "goalTime": 479.85,
             "goalTravelTime": 1.25
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "Amman",
             "goalShotTime": 482.967,
             "goalSide": "Red",
             "goalTime": 483.883,
             "goalTravelTime": 0.916
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 513.367,
             "goalSide": "Blue",
             "goalTime": 514.483,
             "goalTravelTime": 1.116
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "Toperz",
             "goalShotTime": 535.267,
             "goalSide": "Red",
             "goalTime": 535.5,
             "goalTravelTime": 0.233
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "ToPP",
             "goalShotTime": 709.867,
             "goalSide": "Blue",
             "goalTime": 710.7,

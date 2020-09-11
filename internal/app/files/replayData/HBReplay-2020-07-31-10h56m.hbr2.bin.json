@@ -2,84 +2,84 @@
     "gameTime": 600.0,
     "goalsData": [
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 52.55,
             "goalSide": "Red",
             "goalTime": 54.9,
             "goalTravelTime": 2.35
         },
         {
-            "goalScorerId": 5,
+            "goalScorerName": "adamaru",
             "goalShotTime": 133.05,
             "goalSide": "Blue",
             "goalTime": 133.367,
             "goalTravelTime": 0.317
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 272.817,
             "goalSide": "Red",
             "goalTime": 273.367,
             "goalTravelTime": 0.55
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "rybak",
             "goalShotTime": 358.083,
             "goalSide": "Blue",
             "goalTime": 359.033,
             "goalTravelTime": 0.95
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 413.733,
             "goalSide": "Red",
             "goalTime": 414.117,
             "goalTravelTime": 0.384
         },
         {
-            "goalScorerId": 0,
+            "goalScorerName": "K-rol",
             "goalShotTime": 420.467,
             "goalSide": "Red",
             "goalTime": 421.75,
             "goalTravelTime": 1.283
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "rybak",
             "goalShotTime": 430.2,
             "goalSide": "Blue",
             "goalTime": 430.7,
             "goalTravelTime": 0.5
         },
         {
-            "goalScorerId": 4,
+            "goalScorerName": "ToPP",
             "goalShotTime": 434.867,
             "goalSide": "Red",
             "goalTime": 435.967,
             "goalTravelTime": 1.1
         },
         {
-            "goalScorerId": 1,
+            "goalScorerName": "Toperz",
             "goalShotTime": 519.55,
             "goalSide": "Red",
             "goalTime": 520.167,
             "goalTravelTime": 0.617
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Amman",
             "goalShotTime": 552.467,
             "goalSide": "Blue",
             "goalTime": 556.167,
             "goalTravelTime": 3.7
         },
         {
-            "goalScorerId": 3,
+            "goalScorerName": "rybak",
             "goalShotTime": 563.033,
             "goalSide": "Blue",
             "goalTime": 563.433,
             "goalTravelTime": 0.4
         },
         {
-            "goalScorerId": 2,
+            "goalScorerName": "Amman",
             "goalShotTime": 599.217,
             "goalSide": "Blue",
             "goalTime": 600.017,
