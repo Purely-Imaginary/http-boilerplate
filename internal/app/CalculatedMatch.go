@@ -14,8 +14,8 @@ type Team struct {
 type CalculatedMatch struct {
 	gorm.Model
 	Time         string       `db:"time"`
-	RedTeam      TeamSnapshot `gorm:"foreignkey:red_team_snapshot_id"`
-	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_team_snapshot_id"`
+	RedTeam      TeamSnapshot `gorm:"foreignkey:red_calculated_match_id"`
+	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_calculated_match_id"`
 	RawPositions string       `gorm:"size:1000"`
 	Goals        []Goal       `gorm:"foreignkey:match_id"`
 }
@@ -39,6 +39,14 @@ func (cm *CalculatedMatch) InsertToDB() uint {
 	DBEngine.Save(&cm.RedTeam)
 	DBEngine.Save(&cm.BlueTeam)
 
+	for _, playerSnapshot := range append(cm.RedTeam.Players, cm.BlueTeam.Players...) {
+		player := &Player{}
+		DBEngine.First(player, "id = ?", playerSnapshot.PlayerID)
+		var playerMatch PlayerToMatch
+		playerMatch.PlayerID = (*player).ID
+		playerMatch.CalculatedMatchID = cm.ID
+		DBEngine.Save(&playerMatch)
+	}
 	return cm.ID
 }
 
@@ -68,7 +76,14 @@ func CheckForDuplicatePositions(positions string) uint {
 // GetLastMatchesFromDB ..
 func GetLastMatchesFromDB(amount int) []CalculatedMatch {
 	var cms []CalculatedMatch
-	err := DBEngine.Order("id DESC").Limit(amount).Preload("Goals").Find(&cms)
+	err := DBEngine.Order("id DESC").
+		Limit(amount).
+		Preload("Goals").
+		Preload("RedTeam").
+		Preload("BlueTeam").
+		Preload("RedTeam.Players").
+		Preload("BlueTeam.Players").
+		Find(&cms)
 
 	if err.Error != nil {
 		return nil

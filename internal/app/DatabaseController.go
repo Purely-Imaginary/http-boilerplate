@@ -26,6 +26,7 @@ func Migrate() {
 	DBEngine.AutoMigrate(&DownloadedURL{})
 	DBEngine.AutoMigrate(&TeamSnapshot{})
 	DBEngine.AutoMigrate(&Goal{})
+	DBEngine.AutoMigrate(&PlayerToMatch{})
 
 }
 
@@ -36,6 +37,7 @@ func DeleteAll() {
 	DBEngine.Exec("drop table players;")
 	DBEngine.Exec("drop table player_snapshot;")
 	DBEngine.Exec("drop table goal;")
+	DBEngine.Exec("drop table player_match;")
 	DBEngine.Exec("drop table team_snapshot;")
 }
 

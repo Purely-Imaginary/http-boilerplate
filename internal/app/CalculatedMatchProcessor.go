@@ -30,7 +30,6 @@ func processPlayersFromTeam(players []string, isRed bool) TeamSnapshot {
 	var parsedTeam TeamSnapshot
 	parsedTeam.Players = parsedPlayers
 	parsedTeam.AvgTeamRating = ratingSum / float32(len(parsedPlayers))
-	parsedTeam.IsRed = isRed
 	return parsedTeam
 }
 

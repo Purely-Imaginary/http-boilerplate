@@ -6,7 +6,7 @@ import (
 
 // Player - person who plays
 type Player struct {
-	ID          int64             `db:"id"`
+	ID          uint              `db:"id"`
 	Name        string            `db:"name"`
 	Wins        int64             `db:"wins"`
 	Losses      int64             `db:"losses"`
@@ -15,7 +15,7 @@ type Player struct {
 	GoalsLost   int64             `db:"goals_lost"`
 	WinRate     float32           `db:"win_rate"`
 	Rating      float32           `db:"rating"`
-	Matches     []CalculatedMatch `gorm:"many2many:player_matches"`
+	Matches     []CalculatedMatch `gorm:"many2many:player_match"`
 }
 
 // GetPlayerByName .
@@ -45,7 +45,7 @@ func GetPlayerByID(id int) *Player {
 }
 
 // InsertIntoDB .
-func (p *Player) InsertIntoDB() int64 {
+func (p *Player) InsertIntoDB() uint {
 	err := DBEngine.Save(p)
 	Check(err.Error)
 
@@ -66,7 +66,7 @@ func (p *Player) CreateSnapshot(isRed bool) *PlayerSnapshot {
 }
 
 // UpdatePlayer .
-func UpdatePlayer(PlayerID int64, win bool, goalsScored int64, goalsLost int64, ratingChange float32) {
+func UpdatePlayer(PlayerID uint, win bool, goalsScored int64, goalsLost int64, ratingChange float32) {
 	player := &Player{}
 	err := DBEngine.First(player, "id = ?", PlayerID)
 	if player.Name == "" {
@@ -91,7 +91,7 @@ func UpdatePlayer(PlayerID int64, win bool, goalsScored int64, goalsLost int64, 
 // GetPlayersTableFromDB ..
 func GetPlayersTableFromDB() []Player {
 	var players []Player
-	err := DBEngine.Order("rating DESC").Find(&players)
+	err := DBEngine.Order("rating DESC").Preload("Matches").Find(&players)
 
 	if err.Error != nil {
 		return nil

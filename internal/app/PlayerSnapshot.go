@@ -3,7 +3,7 @@ package main
 // PlayerSnapshot - snapshot of player in history
 type PlayerSnapshot struct {
 	ID             uint            `db:"id"`
-	PlayerID       int64           `db:"player_id"`
+	PlayerID       uint            `db:"player_id"`
 	PlayerName     string          `db:"player_name"`
 	TeamSnapshotID uint            `db:"team_snapshot_id"`
 	MatchID        uint            `db:"match_id"`

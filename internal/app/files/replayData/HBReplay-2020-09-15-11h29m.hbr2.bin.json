@@ -1,0 +1,105 @@
+{
+    "gameTime": 600.0,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 60.267,
+            "goalSide": "Blue",
+            "goalTime": 61.133,
+            "goalTravelTime": 0.866
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 163.35,
+            "goalSide": "Blue",
+            "goalTime": 164.7,
+            "goalTravelTime": 1.35
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 182.783,
+            "goalSide": "Red",
+            "goalTime": 183.233,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 198.417,
+            "goalSide": "Red",
+            "goalTime": 202.417,
+            "goalTravelTime": 4.0
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 224.867,
+            "goalSide": "Red",
+            "goalTime": 227.233,
+            "goalTravelTime": 2.366
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 273.083,
+            "goalSide": "Blue",
+            "goalTime": 273.767,
+            "goalTravelTime": 0.684
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 301.283,
+            "goalSide": "Blue",
+            "goalTime": 303.083,
+            "goalTravelTime": 1.8
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 325.683,
+            "goalSide": "Red",
+            "goalTime": 326.667,
+            "goalTravelTime": 0.984
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 389.133,
+            "goalSide": "Blue",
+            "goalTime": 390.817,
+            "goalTravelTime": 1.684
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 453.667,
+            "goalSide": "Blue",
+            "goalTime": 454.45,
+            "goalTravelTime": 0.783
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 481.083,
+            "goalSide": "Red",
+            "goalTime": 481.667,
+            "goalTravelTime": 0.584
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 599.067,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.95
+        }
+    ],
+    "rawPositionsAtEnd": "-153.08139652281457-52.77087721858355|-259.5545557986016-224.6409361799258|-124.60480652385492-68.0290397532473|-89.60424891755785-98.14743842093905|",
+    "score": {
+        "Blue": 6,
+        "Red": 5
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "Toperz"
+        ],
+        "Red": [
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2020-09-15 11:29"
+}

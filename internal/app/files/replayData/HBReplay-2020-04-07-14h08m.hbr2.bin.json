@@ -1,6 +1,7 @@
 {
     "gameTime": 332.867,
-    "goalsData": [{
+    "goalsData": [
+        {
             "goalScorerName": "rybak",
             "goalShotTime": 136.383,
             "goalSide": "Blue",

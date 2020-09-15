@@ -5,6 +5,7 @@ import (
 	"github.com/rushteam/gosql"
 )
 
+// RawGoal ..
 type RawGoal struct {
 	gorm.Model
 	GoalScorerName string

@@ -80,6 +80,10 @@ def threadedAnalysis(path):
                 if (actualPlayers[playerId]['ticks'] / matchLengthInTicks > 0.6):
                     teams[actualPlayers[playerId]['team']].append(bin[0][playerId])                
              
+            for goal in goals:
+                if (goal['goalTime'] - lastState[0].gameTime > 0.2):
+                    goals.remove(goal)
+                
             saveData = {
                 'gameTime': round(lastState[0].gameTime, 3),
                 'time': time,
