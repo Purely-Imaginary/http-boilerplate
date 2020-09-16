@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 126.967,
+            "goalSide": "Blue",
+            "goalTime": 127.95,
+            "goalTravelTime": 0.983
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 236.333,
+            "goalSide": "Blue",
+            "goalTime": 236.7,
+            "goalTravelTime": 0.367
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 326.55,
+            "goalSide": "Blue",
+            "goalTime": 327.167,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 397.55,
+            "goalSide": "Blue",
+            "goalTime": 399.15,
+            "goalTravelTime": 1.6
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 500.133,
+            "goalSide": "Blue",
+            "goalTime": 501.767,
+            "goalTravelTime": 1.634
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 583.65,
+            "goalSide": "Blue",
+            "goalTime": 586.033,
+            "goalTravelTime": 2.383
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 599.283,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.734
+        }
+    ],
+    "rawPositionsAtEnd": "-114.50572137722256--134.0462954301171|-560.7436215722502--126.74170970230634|320.9537725493595--107.04632915197693|-499.5865682458771-67.35079805663236|-427.2572927744883--59.50637553054989|",
+    "score": {
+        "Blue": 7,
+        "Red": 0
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "hubigz",
+            "Toperz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak",
+            "Amman"
+        ]
+    },
+    "time": "2020-07-21 12:51"
+}

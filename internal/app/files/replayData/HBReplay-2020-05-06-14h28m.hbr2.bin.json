@@ -1,0 +1,65 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 114.9,
+            "goalSide": "Blue",
+            "goalTime": 116.15,
+            "goalTravelTime": 1.25
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 199.45,
+            "goalSide": "Blue",
+            "goalTime": 200.183,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 244.817,
+            "goalSide": "Red",
+            "goalTime": 245.933,
+            "goalTravelTime": 1.116
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 369.517,
+            "goalSide": "Blue",
+            "goalTime": 369.85,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 430.7,
+            "goalSide": "Blue",
+            "goalTime": 431.067,
+            "goalTravelTime": 0.367
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 599.6,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.417
+        }
+    ],
+    "rawPositionsAtEnd": "-274.4421651499089--97.07624723422985|-514.8977682691291-202.12809845479276|-212.11223839060494-211.60077901012193|-511.8987978171338-17.87012990857416|-109.71903859504724--136.35931633952444|-330.11595411988856-45.54816291365429|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak",
+            "adamaru"
+        ],
+        "Red": [
+            "K-rol",
+            "hubigz",
+            "XD"
+        ]
+    },
+    "time": "2020-05-06 14:28"
+}

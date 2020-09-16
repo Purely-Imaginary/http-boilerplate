@@ -1,0 +1,58 @@
+{
+    "gameTime": 643.933,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 47.017,
+            "goalSide": "Blue",
+            "goalTime": 47.183,
+            "goalTravelTime": 0.166
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 64.217,
+            "goalSide": "Red",
+            "goalTime": 65.05,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 200.15,
+            "goalSide": "Blue",
+            "goalTime": 202.2,
+            "goalTravelTime": 2.05
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 428.15,
+            "goalSide": "Red",
+            "goalTime": 428.5,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 642.617,
+            "goalSide": "Red",
+            "goalTime": 643.933,
+            "goalTravelTime": 1.316
+        }
+    ],
+    "rawPositionsAtEnd": "222.18725567467902-36.66938540117368|323.3082743805174-162.42033549839758|463.04309506119705-70.60690591461146|435.7378851703933--66.3968522664279|531.6738959415585--62.33362275003367|392.84717322906306--6.180247797569999|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "adamaru",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2020-08-12 12:32"
+}

@@ -1,0 +1,65 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 191.7,
+            "goalSide": "Blue",
+            "goalTime": 191.917,
+            "goalTravelTime": 0.217
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 369.933,
+            "goalSide": "Red",
+            "goalTime": 370.617,
+            "goalTravelTime": 0.684
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 414.683,
+            "goalSide": "Red",
+            "goalTime": 415.2,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 574.167,
+            "goalSide": "Red",
+            "goalTime": 574.267,
+            "goalTravelTime": 0.1
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 577.517,
+            "goalSide": "Blue",
+            "goalTime": 578.15,
+            "goalTravelTime": 0.633
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 599.483,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.534
+        }
+    ],
+    "rawPositionsAtEnd": "63.152631241047196--86.47836580393816|179.36304425272579--29.117813655521473|212.95480771665407-73.58045409189707|19.551906911655884-250.67711070667082|202.16854791961927-37.2143849137983|422.39474915907675-24.185069500416194|",
+    "score": {
+        "Blue": 3,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Toperz",
+            "adamaru"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "hubigz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-06-26 13:32"
+}

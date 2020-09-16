@@ -1,0 +1,105 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 72.733,
+            "goalSide": "Red",
+            "goalTime": 74.417,
+            "goalTravelTime": 1.684
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 89.983,
+            "goalSide": "Red",
+            "goalTime": 90.733,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 103.5,
+            "goalSide": "Red",
+            "goalTime": 106.167,
+            "goalTravelTime": 2.667
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 120.833,
+            "goalSide": "Blue",
+            "goalTime": 124.133,
+            "goalTravelTime": 3.3
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 220.583,
+            "goalSide": "Blue",
+            "goalTime": 222.167,
+            "goalTravelTime": 1.584
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 236.3,
+            "goalSide": "Red",
+            "goalTime": 237.05,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 287.983,
+            "goalSide": "Red",
+            "goalTime": 288.633,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 321.483,
+            "goalSide": "Red",
+            "goalTime": 322.767,
+            "goalTravelTime": 1.284
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 412.1,
+            "goalSide": "Red",
+            "goalTime": 413.283,
+            "goalTravelTime": 1.183
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 485.767,
+            "goalSide": "Blue",
+            "goalTime": 486.967,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 584.067,
+            "goalSide": "Blue",
+            "goalTime": 587.5,
+            "goalTravelTime": 3.433
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 598.85,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 1.167
+        }
+    ],
+    "rawPositionsAtEnd": "-516.363576113986-215.21614348271004|-500.5041488606934-255.0|-57.506327930008176-60.987287164191784|-119.73182725363941--62.59210962417307|",
+    "score": {
+        "Blue": 5,
+        "Red": 7
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "adamaru"
+        ],
+        "Red": [
+            "Toperz",
+            "K-rol"
+        ]
+    },
+    "time": "2020-08-03 11:22"
+}

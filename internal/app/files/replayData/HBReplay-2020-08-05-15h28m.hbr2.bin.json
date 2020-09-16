@@ -1,0 +1,72 @@
+{
+    "gameTime": 908.05,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 45.6,
+            "goalSide": "Red",
+            "goalTime": 46.4,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 58.967,
+            "goalSide": "Blue",
+            "goalTime": 59.417,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 113.617,
+            "goalSide": "Red",
+            "goalTime": 114.35,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 276.9,
+            "goalSide": "Blue",
+            "goalTime": 278.067,
+            "goalTravelTime": 1.167
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 325.717,
+            "goalSide": "Blue",
+            "goalTime": 326.267,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 510.667,
+            "goalSide": "Red",
+            "goalTime": 512.317,
+            "goalTravelTime": 1.65
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 907.05,
+            "goalSide": "Red",
+            "goalTime": 908.05,
+            "goalTravelTime": 1.0
+        }
+    ],
+    "rawPositionsAtEnd": "240.49746171299398-6.099180541938525|208.80509970722676-121.4931394376472|108.27895779614167-44.81073733639204|409.653165789311-25.905181965809213|-111.83858615514596-9.609844073418381|352.2636222611095--41.466527212433974|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "MaddoHatto",
+            "szeksu"
+        ],
+        "Red": [
+            "Toperz",
+            "hubigz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-05 15:28"
+}

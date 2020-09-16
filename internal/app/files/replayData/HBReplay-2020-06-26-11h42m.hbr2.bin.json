@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 36.333,
+            "goalSide": "Blue",
+            "goalTime": 36.533,
+            "goalTravelTime": 0.2
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 131.933,
+            "goalSide": "Blue",
+            "goalTime": 131.967,
+            "goalTravelTime": 0.034
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 144.633,
+            "goalSide": "Blue",
+            "goalTime": 145.833,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 335.717,
+            "goalSide": "Blue",
+            "goalTime": 336.333,
+            "goalTravelTime": 0.616
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 346.4,
+            "goalSide": "Blue",
+            "goalTime": 347.433,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 450.517,
+            "goalSide": "Blue",
+            "goalTime": 451.9,
+            "goalTravelTime": 1.383
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 599.65,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.367
+        }
+    ],
+    "rawPositionsAtEnd": "-220.53717927032326--209.5811780273277|-56.70171623976461--142.96309531263003|-283.14771703099717-148.32050934422398|214.47559170131484-77.01279396211653|-117.37884173181452--133.0640544702009|-163.83516484974925--10.35895154588545|",
+    "score": {
+        "Blue": 7,
+        "Red": 0
+    },
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "adamaru",
+            "K-rol",
+            "Toperz"
+        ]
+    },
+    "time": "2020-06-26 11:42"
+}

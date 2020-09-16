@@ -1,0 +1,119 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 13.15,
+            "goalSide": "Red",
+            "goalTime": 13.667,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 92.767,
+            "goalSide": "Red",
+            "goalTime": 94.533,
+            "goalTravelTime": 1.766
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 195.967,
+            "goalSide": "Blue",
+            "goalTime": 196.45,
+            "goalTravelTime": 0.483
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 258.817,
+            "goalSide": "Blue",
+            "goalTime": 260.567,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 379.317,
+            "goalSide": "Red",
+            "goalTime": 380.35,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 392.517,
+            "goalSide": "Red",
+            "goalTime": 392.75,
+            "goalTravelTime": 0.233
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 401.7,
+            "goalSide": "Red",
+            "goalTime": 403.733,
+            "goalTravelTime": 2.033
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 429.883,
+            "goalSide": "Blue",
+            "goalTime": 431.917,
+            "goalTravelTime": 2.034
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 519.317,
+            "goalSide": "Blue",
+            "goalTime": 521.95,
+            "goalTravelTime": 2.633
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 531.0,
+            "goalSide": "Blue",
+            "goalTime": 532.2,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 554.717,
+            "goalSide": "Red",
+            "goalTime": 555.917,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 571.067,
+            "goalSide": "Red",
+            "goalTime": 573.883,
+            "goalTravelTime": 2.816
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 590.183,
+            "goalSide": "Red",
+            "goalTime": 590.25,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 597.067,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 2.95
+        }
+    ],
+    "rawPositionsAtEnd": "18.52997802092851-249.85661464932537|-281.40025879228887-255.0|-349.4214567006667--14.15032844217855|-187.7770659041707-192.11616992144096|",
+    "score": {
+        "Blue": 6,
+        "Red": 8
+    },
+    "teams": {
+        "Blue": [
+            "Toperz",
+            "ToPP"
+        ],
+        "Red": [
+            "K-rol",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-06-05 13:39"
+}

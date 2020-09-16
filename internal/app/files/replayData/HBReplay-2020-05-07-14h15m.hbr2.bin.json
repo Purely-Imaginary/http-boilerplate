@@ -1,0 +1,93 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 71.683,
+            "goalSide": "Blue",
+            "goalTime": 73.117,
+            "goalTravelTime": 1.434
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 76.217,
+            "goalSide": "Red",
+            "goalTime": 77.033,
+            "goalTravelTime": 0.816
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 191.85,
+            "goalSide": "Red",
+            "goalTime": 192.267,
+            "goalTravelTime": 0.417
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 223.783,
+            "goalSide": "Red",
+            "goalTime": 224.917,
+            "goalTravelTime": 1.134
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 323.133,
+            "goalSide": "Blue",
+            "goalTime": 324.233,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 370.25,
+            "goalSide": "Blue",
+            "goalTime": 371.35,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 442.05,
+            "goalSide": "Red",
+            "goalTime": 442.783,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 529.667,
+            "goalSide": "Blue",
+            "goalTime": 530.6,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 563.733,
+            "goalSide": "Blue",
+            "goalTime": 565.517,
+            "goalTravelTime": 1.784
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 599.15,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.867
+        }
+    ],
+    "rawPositionsAtEnd": "351.0805572756045-232.884509685321|287.3039203244871-184.00978995372822|317.64152064450985-153.95132222530617|281.5575516031444-223.33219691675973|215.72948451399344--9.334117306246295|465.39709562661056-99.02247631348395|",
+    "score": {
+        "Blue": 6,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "Toperz",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "adamaru",
+            "ToPP",
+            "K-rol"
+        ]
+    },
+    "time": "2020-05-07 14:15"
+}

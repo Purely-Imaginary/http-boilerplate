@@ -1,0 +1,65 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 24.533,
+            "goalSide": "Red",
+            "goalTime": 25.317,
+            "goalTravelTime": 0.784
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 29.433,
+            "goalSide": "Red",
+            "goalTime": 30.633,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 90.15,
+            "goalSide": "Blue",
+            "goalTime": 91.95,
+            "goalTravelTime": 1.8
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 104.733,
+            "goalSide": "Blue",
+            "goalTime": 106.5,
+            "goalTravelTime": 1.767
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 584.7,
+            "goalSide": "Blue",
+            "goalTime": 585.75,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 599.633,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.384
+        }
+    ],
+    "rawPositionsAtEnd": "246.94421512506744--88.22635352243583|371.93885413061156--198.2852895137649|406.34766672876356--178.80981098053334|27.692007064282706--61.63379825206076|150.97628052932308-79.80053983035538|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "Toperz",
+            "K-rol"
+        ],
+        "Red": [
+            "ToPP",
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-11 12:11"
+}

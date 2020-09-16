@@ -1,0 +1,84 @@
+{
+    "gameTime": 654.783,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 20.65,
+            "goalSide": "Red",
+            "goalTime": 22.967,
+            "goalTravelTime": 2.317
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 45.383,
+            "goalSide": "Blue",
+            "goalTime": 47.633,
+            "goalTravelTime": 2.25
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 182.533,
+            "goalSide": "Red",
+            "goalTime": 183.483,
+            "goalTravelTime": 0.95
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 212.667,
+            "goalSide": "Blue",
+            "goalTime": 213.483,
+            "goalTravelTime": 0.816
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 241.35,
+            "goalSide": "Blue",
+            "goalTime": 242.55,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 480.45,
+            "goalSide": "Red",
+            "goalTime": 483.183,
+            "goalTravelTime": 2.733
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 565.267,
+            "goalSide": "Red",
+            "goalTime": 565.95,
+            "goalTravelTime": 0.683
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 587.267,
+            "goalSide": "Blue",
+            "goalTime": 588.733,
+            "goalTravelTime": 1.466
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 653.5,
+            "goalSide": "Blue",
+            "goalTime": 654.783,
+            "goalTravelTime": 1.283
+        }
+    ],
+    "rawPositionsAtEnd": "-347.4680037237303--65.77203760567117|-349.85549990766816-12.608780059981841|-211.4571433547287--53.47595168264991|-266.98767670303357--147.24021674212304|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "hubigz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "K-rol"
+        ]
+    },
+    "time": "2020-07-24 12:40"
+}

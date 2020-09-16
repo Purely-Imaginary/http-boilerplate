@@ -1,0 +1,84 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 17.9,
+            "goalSide": "Red",
+            "goalTime": 19.083,
+            "goalTravelTime": 1.183
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 64.9,
+            "goalSide": "Red",
+            "goalTime": 65.7,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 213.033,
+            "goalSide": "Blue",
+            "goalTime": 214.467,
+            "goalTravelTime": 1.434
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 371.783,
+            "goalSide": "Red",
+            "goalTime": 372.383,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 386.133,
+            "goalSide": "Blue",
+            "goalTime": 389.533,
+            "goalTravelTime": 3.4
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 407.85,
+            "goalSide": "Red",
+            "goalTime": 408.883,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 576.383,
+            "goalSide": "Red",
+            "goalTime": 579.4,
+            "goalTravelTime": 3.017
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 579.95,
+            "goalSide": "Red",
+            "goalTime": 583.75,
+            "goalTravelTime": 3.8
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 594.833,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 5.184
+        }
+    ],
+    "rawPositionsAtEnd": "486.0093188506403-103.22609537557348|343.43231490191573-87.08249293912439|160.79035409506596-19.862734075229124|488.2215350897687--20.544307011611604|",
+    "score": {
+        "Blue": 3,
+        "Red": 6
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "K-rol"
+        ],
+        "Red": [
+            "ToPP",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-06-25 14:17"
+}

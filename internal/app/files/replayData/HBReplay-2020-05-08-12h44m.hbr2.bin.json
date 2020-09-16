@@ -1,0 +1,74 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 32.167,
+            "goalSide": "Red",
+            "goalTime": 33.317,
+            "goalTravelTime": 1.15
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 123.983,
+            "goalSide": "Red",
+            "goalTime": 125.217,
+            "goalTravelTime": 1.234
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 302.95,
+            "goalSide": "Red",
+            "goalTime": 303.533,
+            "goalTravelTime": 0.583
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 342.95,
+            "goalSide": "Red",
+            "goalTime": 343.067,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 441.633,
+            "goalSide": "Red",
+            "goalTime": 442.783,
+            "goalTravelTime": 1.15
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 575.617,
+            "goalSide": "Blue",
+            "goalTime": 577.333,
+            "goalTravelTime": 1.716
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 599.533,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.484
+        }
+    ],
+    "rawPositionsAtEnd": "241.8843216970795--47.495938756458365|283.4963004764111--163.2047721182306|90.93814988959032--169.68996309027804|-185.86125244196327--220.83700103440813|187.4426668427037--249.56916921005637|316.29830772411975--148.4350235309936|7.003318560757979--140.35655292874614|338.7622003084808--173.20369247814847|",
+    "score": {
+        "Blue": 2,
+        "Red": 5
+    },
+    "teams": {
+        "Blue": [
+            "rybak",
+            "Toperz",
+            "XD",
+            "hubigz"
+        ],
+        "Red": [
+            "moniiiia",
+            "MaddoHatto",
+            "K-rol",
+            "ToPP"
+        ]
+    },
+    "time": "2020-05-08 12:44"
+}

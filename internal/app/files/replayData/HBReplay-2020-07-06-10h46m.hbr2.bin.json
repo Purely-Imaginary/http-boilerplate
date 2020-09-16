@@ -1,0 +1,81 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 7.233,
+            "goalSide": "Red",
+            "goalTime": 8.8,
+            "goalTravelTime": 1.567
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 125.417,
+            "goalSide": "Red",
+            "goalTime": 128.2,
+            "goalTravelTime": 2.783
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 216.433,
+            "goalSide": "Red",
+            "goalTime": 216.65,
+            "goalTravelTime": 0.217
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 261.383,
+            "goalSide": "Red",
+            "goalTime": 264.35,
+            "goalTravelTime": 2.967
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 327.817,
+            "goalSide": "Red",
+            "goalTime": 328.65,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 503.767,
+            "goalSide": "Blue",
+            "goalTime": 505.25,
+            "goalTravelTime": 1.483
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 519.133,
+            "goalSide": "Red",
+            "goalTime": 520.283,
+            "goalTravelTime": 1.15
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 597.3,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 2.717
+        }
+    ],
+    "rawPositionsAtEnd": "40.38639044477706-17.645187356038978|-30.713375658228752-123.86182503833854|56.344858308193906-335.0|-97.60219840435545-14.827441822003838|215.47753754702305-125.69929613194097|103.63896484832428--113.19136591357142|245.69022780394837--170.650642244454|441.8948392741384-192.03587996684544|",
+    "score": {
+        "Blue": 2,
+        "Red": 6
+    },
+    "teams": {
+        "Blue": [
+            "rybak",
+            "ToPP",
+            "hubigz",
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Toperz",
+            "K-rol",
+            "adamaru"
+        ]
+    },
+    "time": "2020-07-06 10:46"
+}

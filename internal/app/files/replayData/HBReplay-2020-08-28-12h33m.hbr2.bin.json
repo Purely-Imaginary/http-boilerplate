@@ -1,0 +1,70 @@
+{
+    "gameTime": 486.083,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 172.483,
+            "goalSide": "Red",
+            "goalTime": 172.717,
+            "goalTravelTime": 0.234
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 251.717,
+            "goalSide": "Red",
+            "goalTime": 252.55,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 294.733,
+            "goalSide": "Red",
+            "goalTime": 297.217,
+            "goalTravelTime": 2.484
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 368.583,
+            "goalSide": "Red",
+            "goalTime": 370.467,
+            "goalTravelTime": 1.884
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 429.95,
+            "goalSide": "Red",
+            "goalTime": 431.65,
+            "goalTravelTime": 1.7
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 441.567,
+            "goalSide": "Red",
+            "goalTime": 443.75,
+            "goalTravelTime": 2.183
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 485.733,
+            "goalSide": "Red",
+            "goalTime": 486.083,
+            "goalTravelTime": 0.35
+        }
+    ],
+    "rawPositionsAtEnd": "369.08164681067933-13.841954403745877|565.7379888893449-22.260533325635937|257.2238289226461--10.633547967280267|508.06796653828206--105.20441562628554|",
+    "score": {
+        "Blue": 0,
+        "Red": 7
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "Toperz",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-28 12:33"
+}

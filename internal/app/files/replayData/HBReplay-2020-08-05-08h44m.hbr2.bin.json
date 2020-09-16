@@ -1,0 +1,77 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 22.567,
+            "goalSide": "Red",
+            "goalTime": 23.083,
+            "goalTravelTime": 0.516
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 101.15,
+            "goalSide": "Red",
+            "goalTime": 102.167,
+            "goalTravelTime": 1.017
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 176.933,
+            "goalSide": "Red",
+            "goalTime": 179.333,
+            "goalTravelTime": 2.4
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 214.133,
+            "goalSide": "Red",
+            "goalTime": 215.433,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 226.8,
+            "goalSide": "Red",
+            "goalTime": 228.05,
+            "goalTravelTime": 1.25
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 272.833,
+            "goalSide": "Red",
+            "goalTime": 274.167,
+            "goalTravelTime": 1.334
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 576.5,
+            "goalSide": "Blue",
+            "goalTime": 577.983,
+            "goalTravelTime": 1.483
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 597.183,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 2.834
+        }
+    ],
+    "rawPositionsAtEnd": "380.0752303145425-255.0|514.1706622821363-34.98492514527032|389.2614518098875-71.8202844825496|207.94459114904802-236.74587577140636|",
+    "score": {
+        "Blue": 2,
+        "Red": 6
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "Amman"
+        ],
+        "Red": [
+            "ToPP",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-08-05 08:44"
+}

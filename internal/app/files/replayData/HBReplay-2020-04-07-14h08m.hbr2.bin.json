@@ -1,0 +1,65 @@
+{
+    "gameTime": 332.883,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 136.383,
+            "goalSide": "Blue",
+            "goalTime": 137.15,
+            "goalTravelTime": 0.767
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 155.65,
+            "goalSide": "Blue",
+            "goalTime": 157.65,
+            "goalTravelTime": 2.0
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 214.683,
+            "goalSide": "Blue",
+            "goalTime": 215.4,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 274.867,
+            "goalSide": "Red",
+            "goalTime": 275.667,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 289.417,
+            "goalSide": "Blue",
+            "goalTime": 290.483,
+            "goalTravelTime": 1.066
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 331.6,
+            "goalSide": "Blue",
+            "goalTime": 332.883,
+            "goalTravelTime": 1.283
+        }
+    ],
+    "rawPositionsAtEnd": "-243.96831840054259--62.51142648297067|-154.87420793593517-22.400069329815683|-267.19403859332164--89.4639638945173|297.62542527820716-24.426107222802003|-520.1241132075612--45.97597703617347|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak",
+            "Amman"
+        ],
+        "Red": [
+            "hubigz",
+            "ToPP",
+            "Toperz"
+        ]
+    },
+    "time": "2020-04-07 14:08"
+}

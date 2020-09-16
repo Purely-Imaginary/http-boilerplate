@@ -1,0 +1,58 @@
+{
+    "gameTime": 901.35,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 18.75,
+            "goalSide": "Red",
+            "goalTime": 19.233,
+            "goalTravelTime": 0.483
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 211.083,
+            "goalSide": "Blue",
+            "goalTime": 212.967,
+            "goalTravelTime": 1.884
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 309.817,
+            "goalSide": "Blue",
+            "goalTime": 312.067,
+            "goalTravelTime": 2.25
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 395.783,
+            "goalSide": "Red",
+            "goalTime": 396.433,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 900.2,
+            "goalSide": "Blue",
+            "goalTime": 901.35,
+            "goalTravelTime": 1.15
+        }
+    ],
+    "rawPositionsAtEnd": "-210.14241499922724--70.38348471038461|-391.4540122443311--108.80596206831012|-537.4388784647939--29.23970290583461|-305.9722846629421--162.26918457316327|-571.3565425436374-26.79167279992655|-279.2982657274588-74.19688713709417|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "Toperz",
+            "Amman"
+        ],
+        "Red": [
+            "rybak",
+            "MaddoHatto",
+            "K-rol"
+        ]
+    },
+    "time": "2020-04-28 14:49"
+}

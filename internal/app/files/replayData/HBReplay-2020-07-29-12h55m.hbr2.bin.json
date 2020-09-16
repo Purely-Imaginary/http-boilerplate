@@ -1,0 +1,79 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 283.117,
+            "goalSide": "Blue",
+            "goalTime": 284.65,
+            "goalTravelTime": 1.533
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 301.167,
+            "goalSide": "Red",
+            "goalTime": 301.717,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 327.7,
+            "goalSide": "Blue",
+            "goalTime": 329.433,
+            "goalTravelTime": 1.733
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 365.6,
+            "goalSide": "Red",
+            "goalTime": 366.317,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 458.9,
+            "goalSide": "Red",
+            "goalTime": 460.533,
+            "goalTravelTime": 1.633
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 481.967,
+            "goalSide": "Blue",
+            "goalTime": 482.733,
+            "goalTravelTime": 0.766
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 565.683,
+            "goalSide": "Red",
+            "goalTime": 566.283,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 599.817,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.2
+        }
+    ],
+    "rawPositionsAtEnd": "-533.9125739101326--33.17164050354819|18.033998608379253--88.18773864620476|-438.17793385150986--162.80095586350254|-425.2545551126979--126.53555696621456|-421.1071155610317-71.97609321853857|-338.3664292410967--160.58552479972957|",
+    "score": {
+        "Blue": 4,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "Toperz",
+            "K-rol"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2020-07-29 12:55"
+}

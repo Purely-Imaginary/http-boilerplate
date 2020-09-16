@@ -1,0 +1,147 @@
+{
+    "gameTime": 599.967,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 81.15,
+            "goalSide": "Blue",
+            "goalTime": 81.967,
+            "goalTravelTime": 0.817
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 106.283,
+            "goalSide": "Red",
+            "goalTime": 106.4,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 153.517,
+            "goalSide": "Red",
+            "goalTime": 153.633,
+            "goalTravelTime": 0.116
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 190.4,
+            "goalSide": "Blue",
+            "goalTime": 191.95,
+            "goalTravelTime": 1.55
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 198.7,
+            "goalSide": "Red",
+            "goalTime": 199.517,
+            "goalTravelTime": 0.817
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 202.633,
+            "goalSide": "Blue",
+            "goalTime": 203.017,
+            "goalTravelTime": 0.384
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 204.967,
+            "goalSide": "Blue",
+            "goalTime": 208.35,
+            "goalTravelTime": 3.383
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 228.6,
+            "goalSide": "Blue",
+            "goalTime": 230.2,
+            "goalTravelTime": 1.6
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 233.833,
+            "goalSide": "Red",
+            "goalTime": 234.083,
+            "goalTravelTime": 0.25
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 286.383,
+            "goalSide": "Red",
+            "goalTime": 288.267,
+            "goalTravelTime": 1.884
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 291.267,
+            "goalSide": "Red",
+            "goalTime": 293.883,
+            "goalTravelTime": 2.616
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 318.7,
+            "goalSide": "Red",
+            "goalTime": 318.85,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 325.783,
+            "goalSide": "Blue",
+            "goalTime": 326.867,
+            "goalTravelTime": 1.084
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 429.483,
+            "goalSide": "Blue",
+            "goalTime": 430.283,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 483.367,
+            "goalSide": "Red",
+            "goalTime": 484.717,
+            "goalTravelTime": 1.35
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 512.517,
+            "goalSide": "Blue",
+            "goalTime": 516.4,
+            "goalTravelTime": 3.883
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 526.95,
+            "goalSide": "Red",
+            "goalTime": 527.95,
+            "goalTravelTime": 1.0
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 598.95,
+            "goalSide": "Red",
+            "goalTime": 599.967,
+            "goalTravelTime": 1.017
+        }
+    ],
+    "rawPositionsAtEnd": "48.90926587295481--177.94560507052125|358.5407183425812-92.82529239603682|387.99476603162185--5.04687162210535|130.08752941506268--80.51587865595062|",
+    "score": {
+        "Blue": 8,
+        "Red": 10
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "adamaru"
+        ],
+        "Red": [
+            "hubigz",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-05-28 09:01"
+}

@@ -1,0 +1,72 @@
+{
+    "gameTime": 637.617,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 33.65,
+            "goalSide": "Red",
+            "goalTime": 35.95,
+            "goalTravelTime": 2.3
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 133.183,
+            "goalSide": "Red",
+            "goalTime": 134.8,
+            "goalTravelTime": 1.617
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 223.067,
+            "goalSide": "Red",
+            "goalTime": 223.4,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 376.5,
+            "goalSide": "Blue",
+            "goalTime": 378.25,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 423.483,
+            "goalSide": "Blue",
+            "goalTime": 424.667,
+            "goalTravelTime": 1.184
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 538.483,
+            "goalSide": "Blue",
+            "goalTime": 539.483,
+            "goalTravelTime": 1.0
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 637.517,
+            "goalSide": "Red",
+            "goalTime": 637.617,
+            "goalTravelTime": 0.1
+        }
+    ],
+    "rawPositionsAtEnd": "184.30664861005127--21.25885726026819|489.58878895003966--48.25912773609945|585.0-31.023208516698823|567.563860652001-1.0653688384514095|430.01938320668665-65.92877235168902|407.84367368695206-94.62212542993899|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "hubigz",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Toperz",
+            "K-rol",
+            "ToPP"
+        ]
+    },
+    "time": "2020-05-11 12:07"
+}

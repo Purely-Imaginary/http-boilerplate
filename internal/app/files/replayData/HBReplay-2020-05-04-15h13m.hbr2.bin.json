@@ -1,0 +1,65 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 255.767,
+            "goalSide": "Blue",
+            "goalTime": 255.9,
+            "goalTravelTime": 0.133
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 412.85,
+            "goalSide": "Blue",
+            "goalTime": 413.583,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 465.4,
+            "goalSide": "Red",
+            "goalTime": 465.983,
+            "goalTravelTime": 0.583
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 576.5,
+            "goalSide": "Blue",
+            "goalTime": 577.95,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 594.583,
+            "goalSide": "Blue",
+            "goalTime": 595.017,
+            "goalTravelTime": 0.434
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 599.767,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.25
+        }
+    ],
+    "rawPositionsAtEnd": "-108.6134409945454--50.56368798937308|254.01417277067716--51.51929832111346|-181.637433127845--125.45582112471745|-423.9591663053248-119.66189950803145|-40.64505841719746--153.71928789518492|-170.55969551475317-49.99206245101283|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "Toperz",
+            "MaddoHatto",
+            "rybak"
+        ]
+    },
+    "time": "2020-05-04 15:13"
+}

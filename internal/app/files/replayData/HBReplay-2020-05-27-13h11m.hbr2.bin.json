@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 212.6,
+            "goalSide": "Blue",
+            "goalTime": 213.283,
+            "goalTravelTime": 0.683
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 308.233,
+            "goalSide": "Red",
+            "goalTime": 309.433,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 345.783,
+            "goalSide": "Red",
+            "goalTime": 345.95,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 465.033,
+            "goalSide": "Red",
+            "goalTime": 466.833,
+            "goalTravelTime": 1.8
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 518.3,
+            "goalSide": "Blue",
+            "goalTime": 518.7,
+            "goalTravelTime": 0.4
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 549.017,
+            "goalSide": "Red",
+            "goalTime": 549.05,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 595.35,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 4.667
+        }
+    ],
+    "rawPositionsAtEnd": "-239.8751084418205--89.87448906124105|8.359904297772692--2.408167641271984|-121.60472547437436-240.05837636254793|-110.07474039263782-205.30070328113834|-70.40685800592425-65.3263288496907|-343.02608430283806--84.62018422384247|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "MaddoHatto",
+            "K-rol"
+        ],
+        "Red": [
+            "Toperz",
+            "ToPP",
+            "hubigz"
+        ]
+    },
+    "time": "2020-05-27 13:11"
+}

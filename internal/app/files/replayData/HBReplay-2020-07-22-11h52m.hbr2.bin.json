@@ -1,0 +1,112 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 30.6,
+            "goalSide": "Red",
+            "goalTime": 31.533,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 66.95,
+            "goalSide": "Blue",
+            "goalTime": 68.0,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 110.417,
+            "goalSide": "Blue",
+            "goalTime": 110.517,
+            "goalTravelTime": 0.1
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 127.917,
+            "goalSide": "Red",
+            "goalTime": 128.533,
+            "goalTravelTime": 0.616
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 146.667,
+            "goalSide": "Red",
+            "goalTime": 148.133,
+            "goalTravelTime": 1.466
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 224.117,
+            "goalSide": "Red",
+            "goalTime": 224.267,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 270.5,
+            "goalSide": "Red",
+            "goalTime": 272.25,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 318.333,
+            "goalSide": "Red",
+            "goalTime": 318.683,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 361.867,
+            "goalSide": "Blue",
+            "goalTime": 363.283,
+            "goalTravelTime": 1.416
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 490.4,
+            "goalSide": "Red",
+            "goalTime": 491.45,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 503.717,
+            "goalSide": "Blue",
+            "goalTime": 504.05,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 590.817,
+            "goalSide": "Red",
+            "goalTime": 591.483,
+            "goalTravelTime": 0.666
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 599.483,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.534
+        }
+    ],
+    "rawPositionsAtEnd": "504.59886278697365-10.719196218030216|316.59502986573057--134.95809155620623|111.08755559048106-44.016548125526946|",
+    "score": {
+        "Blue": 5,
+        "Red": 8
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Toperz",
+            "Amman"
+        ]
+    },
+    "time": "2020-07-22 11:52"
+}

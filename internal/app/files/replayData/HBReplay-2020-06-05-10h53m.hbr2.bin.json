@@ -1,0 +1,147 @@
+{
+    "gameTime": 515.867,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 5.533,
+            "goalSide": "Blue",
+            "goalTime": 7.45,
+            "goalTravelTime": 1.917
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 16.8,
+            "goalSide": "Blue",
+            "goalTime": 16.933,
+            "goalTravelTime": 0.133
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 25.3,
+            "goalSide": "Blue",
+            "goalTime": 25.467,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 38.683,
+            "goalSide": "Blue",
+            "goalTime": 41.817,
+            "goalTravelTime": 3.134
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 58.667,
+            "goalSide": "Blue",
+            "goalTime": 59.633,
+            "goalTravelTime": 0.966
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 70.35,
+            "goalSide": "Red",
+            "goalTime": 71.05,
+            "goalTravelTime": 0.7
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 87.117,
+            "goalSide": "Blue",
+            "goalTime": 87.217,
+            "goalTravelTime": 0.1
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 99.433,
+            "goalSide": "Blue",
+            "goalTime": 100.883,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 178.067,
+            "goalSide": "Red",
+            "goalTime": 178.333,
+            "goalTravelTime": 0.266
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 198.7,
+            "goalSide": "Blue",
+            "goalTime": 199.367,
+            "goalTravelTime": 0.667
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 278.95,
+            "goalSide": "Red",
+            "goalTime": 280.35,
+            "goalTravelTime": 1.4
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 324.283,
+            "goalSide": "Blue",
+            "goalTime": 325.183,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 401.583,
+            "goalSide": "Red",
+            "goalTime": 403.733,
+            "goalTravelTime": 2.15
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 450.767,
+            "goalSide": "Red",
+            "goalTime": 455.583,
+            "goalTravelTime": 4.816
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 469.25,
+            "goalSide": "Red",
+            "goalTime": 470.333,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 488.45,
+            "goalSide": "Red",
+            "goalTime": 488.983,
+            "goalTravelTime": 0.533
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 513.55,
+            "goalSide": "Red",
+            "goalTime": 513.6,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 515.033,
+            "goalSide": "Blue",
+            "goalTime": 515.867,
+            "goalTravelTime": 0.834
+        }
+    ],
+    "rawPositionsAtEnd": "-347.25409414194695--27.97487328670578|-179.91318817185422--62.350848004199115|-261.83249103465386-185.0|-277.9429801093067-36.36050922085346|",
+    "score": {
+        "Blue": 10,
+        "Red": 8
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "K-rol"
+        ],
+        "Red": [
+            "Toperz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-06-05 10:53"
+}

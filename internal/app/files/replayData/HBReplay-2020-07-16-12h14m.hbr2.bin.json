@@ -1,0 +1,77 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 190.583,
+            "goalSide": "Red",
+            "goalTime": 191.45,
+            "goalTravelTime": 0.867
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 340.167,
+            "goalSide": "Blue",
+            "goalTime": 340.25,
+            "goalTravelTime": 0.083
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 419.9,
+            "goalSide": "Blue",
+            "goalTime": 422.217,
+            "goalTravelTime": 2.317
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 449.483,
+            "goalSide": "Blue",
+            "goalTime": 450.483,
+            "goalTravelTime": 1.0
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 468.633,
+            "goalSide": "Blue",
+            "goalTime": 469.817,
+            "goalTravelTime": 1.184
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 499.117,
+            "goalSide": "Blue",
+            "goalTime": 501.133,
+            "goalTravelTime": 2.016
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 537.2,
+            "goalSide": "Blue",
+            "goalTime": 537.633,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 597.267,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 2.75
+        }
+    ],
+    "rawPositionsAtEnd": "164.2454321594406--219.88283956230086|389.2047887567252-54.00145167198469|-332.5278092678956--51.849019550356964|11.508838897497842--185.43617466114995|",
+    "score": {
+        "Blue": 7,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "K-rol",
+            "Amman"
+        ]
+    },
+    "time": "2020-07-16 12:14"
+}

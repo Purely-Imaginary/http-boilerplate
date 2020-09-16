@@ -1,0 +1,84 @@
+{
+    "gameTime": 681.367,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 64.433,
+            "goalSide": "Red",
+            "goalTime": 66.65,
+            "goalTravelTime": 2.217
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 145.583,
+            "goalSide": "Blue",
+            "goalTime": 145.633,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 221.283,
+            "goalSide": "Red",
+            "goalTime": 223.333,
+            "goalTravelTime": 2.05
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 233.433,
+            "goalSide": "Red",
+            "goalTime": 235.65,
+            "goalTravelTime": 2.217
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 267.283,
+            "goalSide": "Blue",
+            "goalTime": 268.783,
+            "goalTravelTime": 1.5
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 399.933,
+            "goalSide": "Blue",
+            "goalTime": 401.85,
+            "goalTravelTime": 1.917
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 443.35,
+            "goalSide": "Red",
+            "goalTime": 443.483,
+            "goalTravelTime": 0.133
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 518.717,
+            "goalSide": "Blue",
+            "goalTime": 519.25,
+            "goalTravelTime": 0.533
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 681.017,
+            "goalSide": "Blue",
+            "goalTime": 681.367,
+            "goalTravelTime": 0.35
+        }
+    ],
+    "rawPositionsAtEnd": "-418.0891115101433--12.704822442269899|-535.8056322139113-55.5806027673904|-501.89959696170894-35.923572076345835|-368.7931498313126-50.511349593635146|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Toperz"
+        ],
+        "Red": [
+            "ToPP",
+            "Amman"
+        ]
+    },
+    "time": "2020-09-14 13:38"
+}

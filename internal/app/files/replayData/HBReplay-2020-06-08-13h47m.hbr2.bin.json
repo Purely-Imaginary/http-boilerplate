@@ -1,0 +1,112 @@
+{
+    "gameTime": 477.333,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 50.233,
+            "goalSide": "Red",
+            "goalTime": 51.05,
+            "goalTravelTime": 0.817
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 74.433,
+            "goalSide": "Red",
+            "goalTime": 74.867,
+            "goalTravelTime": 0.434
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 129.267,
+            "goalSide": "Red",
+            "goalTime": 130.183,
+            "goalTravelTime": 0.916
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 170.883,
+            "goalSide": "Red",
+            "goalTime": 171.05,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 230.8,
+            "goalSide": "Red",
+            "goalTime": 232.317,
+            "goalTravelTime": 1.517
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 262.283,
+            "goalSide": "Blue",
+            "goalTime": 262.567,
+            "goalTravelTime": 0.284
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 276.083,
+            "goalSide": "Blue",
+            "goalTime": 276.15,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 284.217,
+            "goalSide": "Red",
+            "goalTime": 286.233,
+            "goalTravelTime": 2.016
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 296.217,
+            "goalSide": "Blue",
+            "goalTime": 298.533,
+            "goalTravelTime": 2.316
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 308.5,
+            "goalSide": "Red",
+            "goalTime": 308.867,
+            "goalTravelTime": 0.367
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 322.467,
+            "goalSide": "Red",
+            "goalTime": 322.883,
+            "goalTravelTime": 0.416
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 346.817,
+            "goalSide": "Red",
+            "goalTime": 347.533,
+            "goalTravelTime": 0.716
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 475.85,
+            "goalSide": "Red",
+            "goalTime": 477.333,
+            "goalTravelTime": 1.483
+        }
+    ],
+    "rawPositionsAtEnd": "369.2154824616559--21.050913640006964|-42.2042774893014--129.2246567923792|119.16208475473097-120.10779370563047|17.14881338240958-126.8532531628128|",
+    "score": {
+        "Blue": 3,
+        "Red": 10
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "adamaru"
+        ],
+        "Red": [
+            "hubigz",
+            "K-rol"
+        ]
+    },
+    "time": "2020-06-08 13:47"
+}

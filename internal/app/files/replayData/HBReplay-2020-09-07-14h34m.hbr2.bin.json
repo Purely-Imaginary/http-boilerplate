@@ -1,0 +1,70 @@
+{
+    "gameTime": 628.8,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 137.933,
+            "goalSide": "Blue",
+            "goalTime": 139.383,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 176.933,
+            "goalSide": "Blue",
+            "goalTime": 179.183,
+            "goalTravelTime": 2.25
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 205.583,
+            "goalSide": "Blue",
+            "goalTime": 205.75,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 267.583,
+            "goalSide": "Red",
+            "goalTime": 272.45,
+            "goalTravelTime": 4.867
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 356.233,
+            "goalSide": "Red",
+            "goalTime": 356.367,
+            "goalTravelTime": 0.134
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 586.65,
+            "goalSide": "Red",
+            "goalTime": 587.95,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 625.633,
+            "goalSide": "Blue",
+            "goalTime": 628.8,
+            "goalTravelTime": 3.167
+        }
+    ],
+    "rawPositionsAtEnd": "-105.78493131897552-23.36561871710059|-478.03818843038516-89.3983742193994|-346.05845496064165-131.04762878400894|-200.1126659170022-154.849095645746|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "Toperz"
+        ]
+    },
+    "time": "2020-09-07 14:34"
+}

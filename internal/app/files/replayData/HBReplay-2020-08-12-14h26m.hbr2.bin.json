@@ -1,0 +1,86 @@
+{
+    "gameTime": 685.5,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 80.233,
+            "goalSide": "Blue",
+            "goalTime": 80.667,
+            "goalTravelTime": 0.434
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 89.433,
+            "goalSide": "Red",
+            "goalTime": 89.55,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 137.683,
+            "goalSide": "Red",
+            "goalTime": 138.5,
+            "goalTravelTime": 0.817
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 240.517,
+            "goalSide": "Red",
+            "goalTime": 241.833,
+            "goalTravelTime": 1.316
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 311.917,
+            "goalSide": "Blue",
+            "goalTime": 312.483,
+            "goalTravelTime": 0.566
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 352.833,
+            "goalSide": "Blue",
+            "goalTime": 353.333,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 416.283,
+            "goalSide": "Red",
+            "goalTime": 417.217,
+            "goalTravelTime": 0.934
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 522.867,
+            "goalSide": "Blue",
+            "goalTime": 523.95,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 683.217,
+            "goalSide": "Red",
+            "goalTime": 685.5,
+            "goalTravelTime": 2.283
+        }
+    ],
+    "rawPositionsAtEnd": "-517.4488526252609--83.36385598745525|64.63986962293191-115.27537053864964|355.48065748914837-114.1054364466409|76.35554482623913--94.92009200437938|96.1804500159882-131.61245062072365|537.4594135722357-7.812528254242988|",
+    "score": {
+        "Blue": 4,
+        "Red": 5
+    },
+    "teams": {
+        "Blue": [
+            "Amman",
+            "ToPP",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "adamaru",
+            "K-rol",
+            "Toperz"
+        ]
+    },
+    "time": "2020-08-12 14:26"
+}

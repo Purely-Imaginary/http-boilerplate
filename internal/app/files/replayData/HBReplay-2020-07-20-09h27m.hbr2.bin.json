@@ -1,0 +1,84 @@
+{
+    "gameTime": 674.533,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 113.217,
+            "goalSide": "Blue",
+            "goalTime": 116.017,
+            "goalTravelTime": 2.8
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 176.117,
+            "goalSide": "Red",
+            "goalTime": 177.3,
+            "goalTravelTime": 1.183
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 297.75,
+            "goalSide": "Red",
+            "goalTime": 298.183,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 321.967,
+            "goalSide": "Red",
+            "goalTime": 322.25,
+            "goalTravelTime": 0.283
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 329.717,
+            "goalSide": "Blue",
+            "goalTime": 330.317,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 421.167,
+            "goalSide": "Red",
+            "goalTime": 421.217,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 481.45,
+            "goalSide": "Blue",
+            "goalTime": 482.5,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 598.35,
+            "goalSide": "Blue",
+            "goalTime": 598.95,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 673.1,
+            "goalSide": "Blue",
+            "goalTime": 674.533,
+            "goalTravelTime": 1.433
+        }
+    ],
+    "rawPositionsAtEnd": "-410.71337706072427--91.20028188354924|-256.15502624274137--132.60261142331598|-580.0707007776498--57.682959940829775|-268.18794642391816-30.68963693386749|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "Toperz",
+            "adamaru"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-07-20 09:27"
+}

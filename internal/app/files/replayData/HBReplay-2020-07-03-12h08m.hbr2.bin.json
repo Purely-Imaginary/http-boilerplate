@@ -1,0 +1,65 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 68.367,
+            "goalSide": "Red",
+            "goalTime": 68.85,
+            "goalTravelTime": 0.483
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 204.533,
+            "goalSide": "Blue",
+            "goalTime": 205.7,
+            "goalTravelTime": 1.167
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 216.933,
+            "goalSide": "Blue",
+            "goalTime": 217.717,
+            "goalTravelTime": 0.784
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 235.15,
+            "goalSide": "Red",
+            "goalTime": 236.983,
+            "goalTravelTime": 1.833
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 540.4,
+            "goalSide": "Blue",
+            "goalTime": 541.467,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 597.783,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 2.234
+        }
+    ],
+    "rawPositionsAtEnd": "-245.77993971179396--91.91998965199863|-203.41639309967758--113.15614557065797|126.5166074464464--209.31510354540208|149.95598920856574--106.307004948254|-137.6225453320763--115.92734339368901|323.3465410743548--51.49642186868913|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "Toperz",
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "K-rol",
+            "hubigz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-07-03 12:08"
+}

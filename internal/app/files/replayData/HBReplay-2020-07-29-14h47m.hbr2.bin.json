@@ -1,0 +1,65 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 79.75,
+            "goalSide": "Blue",
+            "goalTime": 80.867,
+            "goalTravelTime": 1.117
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 209.7,
+            "goalSide": "Blue",
+            "goalTime": 209.95,
+            "goalTravelTime": 0.25
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 342.55,
+            "goalSide": "Red",
+            "goalTime": 342.967,
+            "goalTravelTime": 0.417
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 379.767,
+            "goalSide": "Blue",
+            "goalTime": 382.8,
+            "goalTravelTime": 3.033
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 508.433,
+            "goalSide": "Red",
+            "goalTime": 509.0,
+            "goalTravelTime": 0.567
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 599.85,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.167
+        }
+    ],
+    "rawPositionsAtEnd": "186.56939269165687-80.23788273231214|440.250396015463-189.34401251182578|100.0734457341975--42.930984053951995|183.9470518982387-19.819676733558552|402.40109554458616-199.9622355803697|480.39856929657884--0.5487779975586248|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "rybak",
+            "Amman",
+            "adamaru"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Toperz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-07-29 14:47"
+}

@@ -1,0 +1,86 @@
+{
+    "gameTime": 618.567,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 129.683,
+            "goalSide": "Red",
+            "goalTime": 131.4,
+            "goalTravelTime": 1.717
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 172.45,
+            "goalSide": "Red",
+            "goalTime": 173.383,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 206.417,
+            "goalSide": "Blue",
+            "goalTime": 207.7,
+            "goalTravelTime": 1.283
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 256.417,
+            "goalSide": "Red",
+            "goalTime": 257.3,
+            "goalTravelTime": 0.883
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 296.7,
+            "goalSide": "Blue",
+            "goalTime": 297.55,
+            "goalTravelTime": 0.85
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 418.633,
+            "goalSide": "Blue",
+            "goalTime": 420.35,
+            "goalTravelTime": 1.717
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 514.317,
+            "goalSide": "Blue",
+            "goalTime": 517.05,
+            "goalTravelTime": 2.733
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 587.367,
+            "goalSide": "Red",
+            "goalTime": 587.583,
+            "goalTravelTime": 0.216
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 617.3,
+            "goalSide": "Blue",
+            "goalTime": 618.567,
+            "goalTravelTime": 1.267
+        }
+    ],
+    "rawPositionsAtEnd": "-226.77936221083692-8.025658158182846|-172.58733392730122--78.77933981961704|-132.09247166788103--20.469525711617727|-283.54619706534174-255.0|-450.0967432663184-49.895443081669356|-279.81875219702493-13.095229153696923|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "rybak",
+            "K-rol"
+        ],
+        "Red": [
+            "ToPP",
+            "Toperz",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-05-07 15:31"
+}

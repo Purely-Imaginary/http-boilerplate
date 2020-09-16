@@ -1,0 +1,72 @@
+{
+    "gameTime": 420.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 108.033,
+            "goalSide": "Red",
+            "goalTime": 110.333,
+            "goalTravelTime": 2.3
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 206.617,
+            "goalSide": "Blue",
+            "goalTime": 208.2,
+            "goalTravelTime": 1.583
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 222.5,
+            "goalSide": "Blue",
+            "goalTime": 224.167,
+            "goalTravelTime": 1.667
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 266.783,
+            "goalSide": "Blue",
+            "goalTime": 267.683,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 288.133,
+            "goalSide": "Red",
+            "goalTime": 288.5,
+            "goalTravelTime": 0.367
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 351.483,
+            "goalSide": "Red",
+            "goalTime": 351.55,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 419.433,
+            "goalSide": "Blue",
+            "goalTime": 420.017,
+            "goalTravelTime": 0.584
+        }
+    ],
+    "rawPositionsAtEnd": "162.07138165693715--13.070995971986317|70.21228183869323-210.92045427461557|212.47194461122368-186.06383830950176|-38.157810066992745-108.49096771251146|41.81346483049294--75.94272760551847|172.15835776991293-60.89759288415971|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "Toperz",
+            "ToPP"
+        ],
+        "Red": [
+            "K-rol",
+            "MaddoHatto",
+            "adamaru"
+        ]
+    },
+    "time": "2020-07-01 11:53"
+}

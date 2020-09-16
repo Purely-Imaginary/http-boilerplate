@@ -1,0 +1,44 @@
+{
+    "gameTime": 678.2,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 538.45,
+            "goalSide": "Red",
+            "goalTime": 540.717,
+            "goalTravelTime": 2.267
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 552.717,
+            "goalSide": "Blue",
+            "goalTime": 553.6,
+            "goalTravelTime": 0.883
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 674.133,
+            "goalSide": "Red",
+            "goalTime": 678.2,
+            "goalTravelTime": 4.067
+        }
+    ],
+    "rawPositionsAtEnd": "-7.123953649620722-138.75059267837344|-146.17393598877814-185.1915793818425|62.764811021384716--109.81402308154551|585.0-19.819811779521253|-510.96153745134006-17.697172619457675|381.51698574045764-95.60689486792673|",
+    "score": {
+        "Blue": 1,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "K-rol",
+            "Toperz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-07-29 10:07"
+}

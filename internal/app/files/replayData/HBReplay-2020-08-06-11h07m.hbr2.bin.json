@@ -1,0 +1,98 @@
+{
+    "gameTime": 405.1,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 85.817,
+            "goalSide": "Blue",
+            "goalTime": 87.117,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 95.55,
+            "goalSide": "Blue",
+            "goalTime": 95.7,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 136.0,
+            "goalSide": "Blue",
+            "goalTime": 138.083,
+            "goalTravelTime": 2.083
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 143.067,
+            "goalSide": "Blue",
+            "goalTime": 144.983,
+            "goalTravelTime": 1.916
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 269.133,
+            "goalSide": "Blue",
+            "goalTime": 272.15,
+            "goalTravelTime": 3.017
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 281.5,
+            "goalSide": "Blue",
+            "goalTime": 283.267,
+            "goalTravelTime": 1.767
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 301.9,
+            "goalSide": "Blue",
+            "goalTime": 303.633,
+            "goalTravelTime": 1.733
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 359.2,
+            "goalSide": "Red",
+            "goalTime": 359.5,
+            "goalTravelTime": 0.3
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 368.667,
+            "goalSide": "Blue",
+            "goalTime": 369.35,
+            "goalTravelTime": 0.683
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 381.267,
+            "goalSide": "Blue",
+            "goalTime": 383.35,
+            "goalTravelTime": 2.083
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 404.25,
+            "goalSide": "Blue",
+            "goalTime": 405.1,
+            "goalTravelTime": 0.85
+        }
+    ],
+    "rawPositionsAtEnd": "-410.0026708839306-62.97136034147297|435.14140956442566-25.948590377318148|425.4368365631837--62.86116574477056|-341.82738945123015--32.34214227548576|",
+    "score": {
+        "Blue": 10,
+        "Red": 1
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "hubigz"
+        ],
+        "Red": [
+            "K-rol",
+            "Toperz"
+        ]
+    },
+    "time": "2020-08-06 11:07"
+}

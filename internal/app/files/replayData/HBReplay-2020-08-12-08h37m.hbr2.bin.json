@@ -1,0 +1,98 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 41.817,
+            "goalSide": "Blue",
+            "goalTime": 42.0,
+            "goalTravelTime": 0.183
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 87.117,
+            "goalSide": "Blue",
+            "goalTime": 87.583,
+            "goalTravelTime": 0.466
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 97.917,
+            "goalSide": "Blue",
+            "goalTime": 100.35,
+            "goalTravelTime": 2.433
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 144.167,
+            "goalSide": "Blue",
+            "goalTime": 145.033,
+            "goalTravelTime": 0.866
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 153.017,
+            "goalSide": "Blue",
+            "goalTime": 154.233,
+            "goalTravelTime": 1.216
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 176.167,
+            "goalSide": "Red",
+            "goalTime": 178.45,
+            "goalTravelTime": 2.283
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 341.483,
+            "goalSide": "Red",
+            "goalTime": 341.533,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 386.9,
+            "goalSide": "Blue",
+            "goalTime": 388.7,
+            "goalTravelTime": 1.8
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 401.25,
+            "goalSide": "Blue",
+            "goalTime": 402.767,
+            "goalTravelTime": 1.517
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 451.517,
+            "goalSide": "Blue",
+            "goalTime": 451.55,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 599.583,
+            "goalSide": "Blue",
+            "goalTime": 600.017,
+            "goalTravelTime": 0.434
+        }
+    ],
+    "rawPositionsAtEnd": "-269.3712124845024--183.32078069258804|-313.8605568705931-74.67978647436782|-304.44164722757193--73.74722960858517|-206.79237764960067--76.77300862570412|",
+    "score": {
+        "Blue": 9,
+        "Red": 2
+    },
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-12 08:37"
+}

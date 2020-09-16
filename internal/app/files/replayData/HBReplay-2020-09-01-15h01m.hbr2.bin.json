@@ -1,0 +1,70 @@
+{
+    "gameTime": 267.233,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 113.75,
+            "goalSide": "Red",
+            "goalTime": 113.817,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 155.05,
+            "goalSide": "Red",
+            "goalTime": 156.283,
+            "goalTravelTime": 1.233
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 166.183,
+            "goalSide": "Red",
+            "goalTime": 166.983,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 222.833,
+            "goalSide": "Red",
+            "goalTime": 223.45,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 232.05,
+            "goalSide": "Red",
+            "goalTime": 232.883,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 256.25,
+            "goalSide": "Red",
+            "goalTime": 256.867,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 266.883,
+            "goalSide": "Red",
+            "goalTime": 267.233,
+            "goalTravelTime": 0.35
+        }
+    ],
+    "rawPositionsAtEnd": "371.59842115492495-31.33608543991146|172.27922059500764-3.223304718916578|585.0-55.70546403201992|",
+    "score": {
+        "Blue": 0,
+        "Red": 7
+    },
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "ToPP"
+        ],
+        "Red": [
+            "Toperz",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-09-01 15:01"
+}
