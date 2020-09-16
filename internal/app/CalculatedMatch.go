@@ -53,7 +53,13 @@ func (cm *CalculatedMatch) InsertToDB() uint {
 // GetMatchByID .
 func GetMatchByID(id uint) *CalculatedMatch {
 	cm := &CalculatedMatch{}
-	err := DBEngine.First(cm, "id = ?", id)
+	err := DBEngine.
+		Preload("Goals").
+		Preload("RedTeam").
+		Preload("BlueTeam").
+		Preload("RedTeam.Players").
+		Preload("BlueTeam.Players").
+		First(cm, "id = ?", id)
 
 	if err.Error != nil {
 		return nil
