@@ -1,5 +1,5 @@
 {
-    "gameTime": 147.083,
+    "gameTime": 147.1,
     "goalsData": [
         {
             "goalScorerName": "ToPP",
@@ -45,10 +45,24 @@
         },
         {
             "goalScorerName": "K-rol",
+            "goalShotTime": 179.617,
+            "goalSide": "Red",
+            "goalTime": 180.55,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "K-rol",
             "goalShotTime": 191.333,
             "goalSide": "Red",
             "goalTime": 193.017,
             "goalTravelTime": 1.684
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 203.2,
+            "goalSide": "Red",
+            "goalTime": 204.667,
+            "goalTravelTime": 1.467
         },
         {
             "goalScorerName": "ToPP",
@@ -58,11 +72,25 @@
             "goalTravelTime": 2.467
         },
         {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 249.05,
+            "goalSide": "Red",
+            "goalTime": 249.317,
+            "goalTravelTime": 0.267
+        },
+        {
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 272.0,
             "goalSide": "Red",
             "goalTime": 272.517,
             "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 291.783,
+            "goalSide": "Red",
+            "goalTime": 295.35,
+            "goalTravelTime": 3.567
         },
         {
             "goalScorerName": "MaddoHatto",
@@ -93,10 +121,10 @@
             "goalTravelTime": 2.483
         }
     ],
-    "rawPositionsAtEnd": "186.01203451105502-28.19497886395072|325.86501005922077--107.01923473954903|392.10088880042235--80.60975686052875|-444.4901165413229-158.631918496114|",
+    "rawPositionsAtEnd": "186.01203451105502-28.19497886395072|467.4022256137981-11.923749354317408|585.0-134.85183375732413|-444.490116545286-158.63191849229693|",
     "score": {
-        "Blue": 1,
-        "Red": 2
+        "Blue": 4,
+        "Red": 13
     },
     "teams": {
         "Blue": [

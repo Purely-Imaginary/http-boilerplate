@@ -25,8 +25,12 @@ def threadedAnalysis(path):
             matchLengthInTicks = 0
             tickCounter = 0
             goals = []
+            score = {
+                'Red' : 0,
+                'Blue': 0
+            }
             for tick in bin[1]:
-                if tick.state.value == 3:
+                if tick.state.value >= 3:
                     for player in tick.players:
                         if player.id not in actualPlayers:
                             actualPlayers[player.id] = {'team': player.team.name, 'ticks': 0}
@@ -64,6 +68,10 @@ def threadedAnalysis(path):
                         "goalSide": goalSide,
                         "goalTravelTime": round(tick.gameTime - goalShotTime, 3)
                     })
+                    if (goalSide == "Red"):
+                        score['Red'] += 1
+                    else:
+                        score['Blue'] += 1
 
                 tickCounter+=1
             if meaningfulStates.__len__() == 0:
@@ -77,22 +85,21 @@ def threadedAnalysis(path):
                 rawPositions += str(player.disc.x) + "-" + str(player.disc.y) + "|"
 
             for playerId in actualPlayers:
+                if (actualPlayers[playerId]['ticks'] == 0):
+                    continue
+                for targetPlayerId in actualPlayers:
+                    if playerId != targetPlayerId and bin[0][playerId] == bin[0][targetPlayerId]:
+                        actualPlayers[playerId]['ticks'] += actualPlayers[targetPlayerId]['ticks']
+                        actualPlayers[targetPlayerId]['ticks'] = 0
                 if (actualPlayers[playerId]['ticks'] / matchLengthInTicks > 0.6):
-                    teams[actualPlayers[playerId]['team']].append(bin[0][playerId])                
-             
-            for goal in goals:
-                if (goal['goalTime'] - lastState[0].gameTime > 0.2):
-                    goals.remove(goal)
+                    teams[actualPlayers[playerId]['team']].append(bin[0][playerId])
                 
             saveData = {
                 'gameTime': round(lastState[0].gameTime, 3),
                 'time': time,
                 'teams': teams,
                 'goalsData': goals,
-                'score': {
-                    'Red': lastState[0].score[0],
-                    'Blue': lastState[0].score[1]
-                },
+                'score': score,
                 'rawPositionsAtEnd': rawPositions
             }
 
