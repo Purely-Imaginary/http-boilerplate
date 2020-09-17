@@ -21,18 +21,11 @@
             "goalSide": "Blue",
             "goalTime": 558.2,
             "goalTravelTime": 1.05
-        },
-        {
-            "goalScorerName": "MaddoHatto",
-            "goalShotTime": 599.233,
-            "goalSide": "Blue",
-            "goalTime": 600.017,
-            "goalTravelTime": 0.784
         }
     ],
     "rawPositionsAtEnd": "-330.5869395893083--139.66634368791546|-418.7783286368596--63.909453716818|-518.3197648789748--37.29846402232128|-465.7074976740161--149.9560357683991|",
     "score": {
-        "Blue": 3,
+        "Blue": 2,
         "Red": 1
     },
     "teams": {

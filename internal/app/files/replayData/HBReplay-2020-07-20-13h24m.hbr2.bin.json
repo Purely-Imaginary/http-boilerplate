@@ -56,18 +56,11 @@
             "goalSide": "Blue",
             "goalTime": 480.3,
             "goalTravelTime": 1.017
-        },
-        {
-            "goalScorerName": "K-rol",
-            "goalShotTime": 597.933,
-            "goalSide": "Blue",
-            "goalTime": 600.017,
-            "goalTravelTime": 2.084
         }
     ],
     "rawPositionsAtEnd": "-442.93016337793983-103.67838074792564|-449.1355404983023--1.5365221296439635|-451.1796773224582-40.10904138223258|-414.38682854082435--143.38017218209959|",
     "score": {
-        "Blue": 7,
+        "Blue": 6,
         "Red": 2
     },
     "teams": {

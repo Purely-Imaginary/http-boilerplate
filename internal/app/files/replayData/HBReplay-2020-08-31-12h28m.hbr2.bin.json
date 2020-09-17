@@ -42,18 +42,11 @@
             "goalSide": "Red",
             "goalTime": 580.133,
             "goalTravelTime": 0.166
-        },
-        {
-            "goalScorerName": "Amman",
-            "goalShotTime": 596.983,
-            "goalSide": "Blue",
-            "goalTime": 600.017,
-            "goalTravelTime": 3.034
         }
     ],
     "rawPositionsAtEnd": "-256.8435006679006-126.88260853062896|60.64197225934491-104.51274971461923|-112.15011208345919--97.01446163025123|-114.13587115075127-8.335665937970095|",
     "score": {
-        "Blue": 5,
+        "Blue": 4,
         "Red": 2
     },
     "teams": {

@@ -37,7 +37,7 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 				unparsedReplaysCounter++
 				wg.Add(1)
 			}
-			if unparsedReplaysCounter%2 == 0 {
+			if unparsedReplaysCounter%5 == 0 {
 				wg.Wait()
 			}
 			return nil

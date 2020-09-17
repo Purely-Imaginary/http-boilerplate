@@ -1,0 +1,112 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 47.817,
+            "goalSide": "Blue",
+            "goalTime": 48.067,
+            "goalTravelTime": 0.25
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 196.633,
+            "goalSide": "Red",
+            "goalTime": 197.517,
+            "goalTravelTime": 0.884
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 283.417,
+            "goalSide": "Blue",
+            "goalTime": 283.967,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 292.333,
+            "goalSide": "Red",
+            "goalTime": 295.733,
+            "goalTravelTime": 3.4
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 316.783,
+            "goalSide": "Blue",
+            "goalTime": 317.6,
+            "goalTravelTime": 0.817
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 328.2,
+            "goalSide": "Red",
+            "goalTime": 328.317,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 405.7,
+            "goalSide": "Red",
+            "goalTime": 407.517,
+            "goalTravelTime": 1.817
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 411.55,
+            "goalSide": "Blue",
+            "goalTime": 413.4,
+            "goalTravelTime": 1.85
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 450.333,
+            "goalSide": "Blue",
+            "goalTime": 450.5,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 468.017,
+            "goalSide": "Red",
+            "goalTime": 468.05,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 490.017,
+            "goalSide": "Red",
+            "goalTime": 493.867,
+            "goalTravelTime": 3.85
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 496.9,
+            "goalSide": "Blue",
+            "goalTime": 498.933,
+            "goalTravelTime": 2.033
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 514.25,
+            "goalSide": "Red",
+            "goalTime": 514.283,
+            "goalTravelTime": 0.033
+        }
+    ],
+    "rawPositionsAtEnd": "-419.025961110069--182.92810379119467|-499.10453899992905--5.1999751280652955|-362.9331286667353--33.61499466848304|-354.85510745533037-43.53187688288989|",
+    "score": {
+        "Blue": 6,
+        "Red": 7
+    },
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "Amman"
+        ],
+        "Red": [
+            "K-rol",
+            "rybak"
+        ]
+    },
+    "time": "2020-09-17 14:59"
+}

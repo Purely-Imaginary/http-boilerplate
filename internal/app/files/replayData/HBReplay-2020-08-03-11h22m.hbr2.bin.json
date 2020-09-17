@@ -77,18 +77,11 @@
             "goalSide": "Blue",
             "goalTime": 587.5,
             "goalTravelTime": 3.433
-        },
-        {
-            "goalScorerName": "ToPP",
-            "goalShotTime": 598.85,
-            "goalSide": "Blue",
-            "goalTime": 600.017,
-            "goalTravelTime": 1.167
         }
     ],
     "rawPositionsAtEnd": "-516.363576113986-215.21614348271004|-500.5041488606934-255.0|-57.506327930008176-60.987287164191784|-119.73182725363941--62.59210962417307|",
     "score": {
-        "Blue": 5,
+        "Blue": 4,
         "Red": 7
     },
     "teams": {

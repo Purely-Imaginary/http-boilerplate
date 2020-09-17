@@ -10,13 +10,6 @@
         },
         {
             "goalScorerName": "K-rol",
-            "goalShotTime": 419.567,
-            "goalSide": "Blue",
-            "goalTime": 420.017,
-            "goalTravelTime": 0.45
-        },
-        {
-            "goalScorerName": "K-rol",
             "goalShotTime": 73.867,
             "goalSide": "Red",
             "goalTime": 74.433,
@@ -56,18 +49,11 @@
             "goalSide": "Red",
             "goalTime": 403.1,
             "goalTravelTime": 0.217
-        },
-        {
-            "goalScorerName": "Toperz",
-            "goalShotTime": 416.983,
-            "goalSide": "Blue",
-            "goalTime": 420.017,
-            "goalTravelTime": 3.034
         }
     ],
     "rawPositionsAtEnd": "-161.62768202455692--228.10430113608197|-126.31274197662952--87.93294242743157|250.1655851860722-137.79400411448358|-267.97228941495223--53.31723444413462|-44.4329582520225--111.42698377289705|-191.27878590281333--36.837639384433686|",
     "score": {
-        "Blue": 7,
+        "Blue": 5,
         "Red": 2
     },
     "teams": {

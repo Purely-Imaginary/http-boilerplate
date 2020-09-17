@@ -40,11 +40,13 @@ def threadedAnalysis(path):
                     meaningfulStates.append(tick)
                 
                 if (tick.state.value == 4 and bin[1][tickCounter-1].state.value == 3 and tickCounter != 0):
+                    if (bin[1][tickCounter-1].score[0] == tick.score[0] and bin[1][tickCounter-1].score[1] == tick.score[1]): 
+                        tickCounter+=1
+                        continue
                     goalScorerId = -1
                     goalShotTime = 0
                     # TODO: goalShotSpeed
                     goalSide = "Red"
-
                     if (bin[1][tickCounter-1].score[0] == tick.score[0]):
                         goalSide = "Blue"
                     for i in reversed(range(tickCounter-1)):
@@ -108,6 +110,7 @@ def threadedAnalysis(path):
             with open('../files/replayData/' + path[13:] + '.json', 'w+') as f:
                 f.write(s)
 
+# threadedAnalysis("preprocessed/temp")
 threadedAnalysis(sys.argv[1])
 os.remove(sys.argv[1])
 

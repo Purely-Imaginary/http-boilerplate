@@ -56,18 +56,11 @@
             "goalSide": "Blue",
             "goalTime": 526.383,
             "goalTravelTime": 0.666
-        },
-        {
-            "goalScorerName": "adamaru",
-            "goalShotTime": 599.55,
-            "goalSide": "Blue",
-            "goalTime": 600.017,
-            "goalTravelTime": 0.467
         }
     ],
     "rawPositionsAtEnd": "-339.060704805203--104.71435556391242|-124.41752947749333--166.5272342409072|-323.5881447705816--201.07952644587925|-343.39947338260976--146.7103824384991|",
     "score": {
-        "Blue": 5,
+        "Blue": 4,
         "Red": 4
     },
     "teams": {

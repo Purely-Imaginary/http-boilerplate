@@ -70,18 +70,11 @@
             "goalSide": "Red",
             "goalTime": 583.467,
             "goalTravelTime": 0.684
-        },
-        {
-            "goalScorerName": "Toperz",
-            "goalShotTime": 599.117,
-            "goalSide": "Blue",
-            "goalTime": 600.017,
-            "goalTravelTime": 0.9
         }
     ],
     "rawPositionsAtEnd": "-272.0763860606567-130.5926751018566|-203.6859784367741-14.450665280619091|-222.10428860389447-39.66007209973346|-106.8448364052625-165.0966879052118|",
     "score": {
-        "Blue": 4,
+        "Blue": 3,
         "Red": 7
     },
     "teams": {
