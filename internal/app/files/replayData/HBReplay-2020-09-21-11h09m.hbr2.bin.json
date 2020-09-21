@@ -1,0 +1,112 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 23.933,
+            "goalSide": "Red",
+            "goalTime": 25.967,
+            "goalTravelTime": 2.034
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 85.833,
+            "goalSide": "Blue",
+            "goalTime": 86.867,
+            "goalTravelTime": 1.034
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 158.1,
+            "goalSide": "Blue",
+            "goalTime": 159.567,
+            "goalTravelTime": 1.467
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 180.983,
+            "goalSide": "Red",
+            "goalTime": 183.8,
+            "goalTravelTime": 2.817
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 186.967,
+            "goalSide": "Blue",
+            "goalTime": 188.383,
+            "goalTravelTime": 1.416
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 296.917,
+            "goalSide": "Red",
+            "goalTime": 297.8,
+            "goalTravelTime": 0.883
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 354.767,
+            "goalSide": "Blue",
+            "goalTime": 355.95,
+            "goalTravelTime": 1.183
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 419.467,
+            "goalSide": "Red",
+            "goalTime": 423.067,
+            "goalTravelTime": 3.6
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 513.7,
+            "goalSide": "Blue",
+            "goalTime": 515.017,
+            "goalTravelTime": 1.317
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 553.45,
+            "goalSide": "Blue",
+            "goalTime": 555.033,
+            "goalTravelTime": 1.583
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 560.95,
+            "goalSide": "Red",
+            "goalTime": 561.3,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 576.75,
+            "goalSide": "Red",
+            "goalTime": 576.867,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 585.533,
+            "goalSide": "Blue",
+            "goalTime": 586.683,
+            "goalTravelTime": 1.15
+        }
+    ],
+    "rawPositionsAtEnd": "-40.05014605563763--54.36023071599031|-6.031517936425912--88.99379832642084|-117.5767315314201--137.20655932781582|-206.6458089790329--223.70010166007543|",
+    "score": {
+        "Blue": 7,
+        "Red": 6
+    },
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Toperz"
+        ],
+        "Red": [
+            "Amman",
+            "ToPP"
+        ]
+    },
+    "time": "2020-09-21 11:09"
+}

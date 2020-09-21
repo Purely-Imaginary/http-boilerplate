@@ -29,6 +29,13 @@ def threadedAnalysis(path):
                 'Red' : 0,
                 'Blue': 0
             }
+
+            if bin[1][0].gameTime is not None:
+                score = {
+                    'Red': bin[1][0].score[0],
+                    'Blue': bin[1][0].score[1],
+                }
+
             for tick in bin[1]:
                 if tick.state.value >= 3:
                     for player in tick.players:
