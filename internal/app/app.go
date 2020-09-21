@@ -150,6 +150,7 @@ func main() {
 	http.HandleFunc("/getLastMatches", GetLastMatches)
 	http.HandleFunc("/getPlayersTable", GetPlayersTable)
 	http.HandleFunc("/getPlayersSnapshots", GetPlayersSnapshots)
+	http.HandleFunc("/getMatchByID", GetMatchByIDToAPI)
 	http.HandleFunc("/p", parseReplay)
 	http.HandleFunc("/findTeams", findTeams)
 	http.ListenAndServe(":7777", nil)

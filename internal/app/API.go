@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"strconv"
 )
 
 func prepareData(data interface{}, w http.ResponseWriter, r *http.Request) string {
@@ -17,6 +18,14 @@ func prepareData(data interface{}, w http.ResponseWriter, r *http.Request) strin
 // GetLastMatches ..
 func GetLastMatches(w http.ResponseWriter, r *http.Request) {
 	outputMessage := prepareData(GetLastMatchesFromDB(200), w, r)
+	fmt.Fprintf(w, outputMessage)
+}
+
+// GetMatchByIDToAPI ..
+func GetMatchByIDToAPI(w http.ResponseWriter, r *http.Request) {
+	matchIDString := r.URL.Query()["id"][0]
+	matchID, _ := strconv.Atoi(matchIDString)
+	outputMessage := prepareData(GetMatchByID(uint(matchID)), w, r)
 	fmt.Fprintf(w, outputMessage)
 }
 

@@ -31,7 +31,7 @@ func ExportHTML(cm CalculatedMatch) string {
 	metaOgType := "<meta property=\"og:type\" content=\"article\">"
 	metaOgLocale := "<meta property=\"og:locale\" content=\"en_US\">"
 	metaOgAggregator := metaOgTitle + metaOgDescription + metaOgType + metaOgLocale
-	redirectionScript := "<script type=\"text/javascript\">window.location.replace(\"https://purely-imaginary.github.io/\");</script>"
+	redirectionScript := "<script type=\"text/javascript\">window.location.replace(\"https://purely-imaginary.github.io/#/showMatch/" + strconv.Itoa(int(cm.ID)) + "\");</script>"
 	outputMessage := "<html><head>" + metaTag + metaOgAggregator + "</head><body><pre>" + outputMeta + "\n\n" + string(outputJSON) + "</pre>" + redirectionScript + "</body></html>"
 	return outputMessage
 }
