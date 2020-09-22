@@ -119,6 +119,9 @@ func calculateMatch(rawMatch RawMatch) CalculatedMatch {
 	var processedMatch CalculatedMatch
 	processedMatch.RawPositions = rawMatch.RawPositionsAtEnd
 
+	processedMatch.StartTime = rawMatch.StartingGameTime
+	processedMatch.EndTime = rawMatch.GameTime
+
 	processedMatch.RedTeam = processPlayersFromTeam(rawMatch.Teams.Red, true)
 	processedMatch.BlueTeam = processPlayersFromTeam(rawMatch.Teams.Blue, false)
 

@@ -17,9 +17,11 @@ type RawGoal struct {
 
 // RawMatch - data parsed from replay
 type RawMatch struct {
-	ID                int64  `db:"uid,pk"`
-	Time              string `db:"time"`
-	RawPositionsAtEnd string `db:"positions"`
+	ID                int64   `db:"uid,pk"`
+	Time              string  `db:"time"`
+	StartingGameTime  float32 `db:"start_time"`
+	GameTime          float32 `db:"end_time"`
+	RawPositionsAtEnd string  `db:"positions"`
 	Teams             struct {
 		Red  []string
 		Blue []string

@@ -49,6 +49,7 @@
         "Blue": 10,
         "Red": 3
     },
+    "startingGameTime": 220.133,
     "teams": {
         "Blue": [
             "ToPP",

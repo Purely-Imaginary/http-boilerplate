@@ -84,6 +84,7 @@
         "Blue": 5,
         "Red": 6
     },
+    "startingGameTime": 13.85,
     "teams": {
         "Blue": [
             "Amman",

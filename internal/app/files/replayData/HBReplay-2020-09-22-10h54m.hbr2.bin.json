@@ -1,0 +1,36 @@
+{
+    "gameTime": 639.15,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 335.467,
+            "goalSide": "Blue",
+            "goalTime": 337.267,
+            "goalTravelTime": 1.8
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 638.133,
+            "goalSide": "Red",
+            "goalTime": 639.15,
+            "goalTravelTime": 1.017
+        }
+    ],
+    "rawPositionsAtEnd": "171.86654045781938-0.8572492936960044|516.2076719755692-122.42144404161861|300.72769901022974-47.44104463372877|532.1610436426262-59.353198740424176|",
+    "score": {
+        "Blue": 1,
+        "Red": 2
+    },
+    "startingGameTime": 263.867,
+    "teams": {
+        "Blue": [
+            "Toperz",
+            "K-rol"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2020-09-22 10:54"
+}

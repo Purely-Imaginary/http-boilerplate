@@ -84,6 +84,7 @@
         "Blue": 6,
         "Red": 5
     },
+    "startingGameTime": 0,
     "teams": {
         "Blue": [
             "Toperz",

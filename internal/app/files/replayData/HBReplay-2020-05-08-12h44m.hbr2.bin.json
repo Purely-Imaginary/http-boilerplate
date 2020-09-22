@@ -49,6 +49,7 @@
         "Blue": 1,
         "Red": 5
     },
+    "startingGameTime": 0,
     "teams": {
         "Blue": [
             "rybak",

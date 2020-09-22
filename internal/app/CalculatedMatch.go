@@ -14,6 +14,8 @@ type Team struct {
 type CalculatedMatch struct {
 	gorm.Model
 	Time         string       `db:"time"`
+	StartTime    float32      `db:"start_time"`
+	EndTime      float32      `db:"end_time"`
 	RedTeam      TeamSnapshot `gorm:"foreignkey:red_calculated_match_id"`
 	BlueTeam     TeamSnapshot `gorm:"foreignkey:blue_calculated_match_id"`
 	RawPositions string       `gorm:"size:1000"`

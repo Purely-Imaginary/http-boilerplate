@@ -6,6 +6,7 @@
         "Blue": 0,
         "Red": 0
     },
+    "startingGameTime": 0.0,
     "teams": {
         "Blue": [
             "MaddoHatto",

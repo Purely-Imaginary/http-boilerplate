@@ -35,6 +35,7 @@
         "Blue": 0,
         "Red": 5
     },
+    "startingGameTime": 108.1,
     "teams": {
         "Blue": [
             "adamaru",

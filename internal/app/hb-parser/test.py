@@ -22,6 +22,7 @@ def threadedAnalysis(path):
             time = time[:10] + ' ' + time[11:]
             meaningfulStates = []
             actualPlayers = {}
+            startingGameTime = 0
             matchLengthInTicks = 0
             tickCounter = 0
             goals = []
@@ -35,6 +36,7 @@ def threadedAnalysis(path):
                     'Red': bin[1][0].score[0],
                     'Blue': bin[1][0].score[1],
                 }
+                startingGameTime = bin[1][0].gameTime
 
             for tick in bin[1]:
                 if tick.state.value >= 3:
@@ -104,6 +106,7 @@ def threadedAnalysis(path):
                     teams[actualPlayers[playerId]['team']].append(bin[0][playerId])
                 
             saveData = {
+                'startingGameTime': round(startingGameTime,3),
                 'gameTime': round(lastState[0].gameTime, 3),
                 'time': time,
                 'teams': teams,

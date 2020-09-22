@@ -112,6 +112,7 @@
         "Blue": 5,
         "Red": 10
     },
+    "startingGameTime": 0,
     "teams": {
         "Blue": [
             "K-rol",

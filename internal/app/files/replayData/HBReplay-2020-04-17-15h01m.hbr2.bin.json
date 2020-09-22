@@ -49,6 +49,7 @@
         "Blue": 3,
         "Red": 4
     },
+    "startingGameTime": 14.283,
     "teams": {
         "Blue": [
             "hubigz",

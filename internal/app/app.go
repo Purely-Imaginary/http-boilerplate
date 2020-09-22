@@ -18,7 +18,7 @@ import (
 var startingRating float32 = 1000.0
 
 func regenerateData(w http.ResponseWriter, r *http.Request) {
-	fullRegenerate := true
+	fullRegenerate := false
 	startTime := time.Now()
 	DeleteAll()
 	Migrate()

@@ -119,6 +119,7 @@
         "Blue": 6,
         "Red": 10
     },
+    "startingGameTime": 0,
     "teams": {
         "Blue": [
             "ToPP",
