@@ -153,6 +153,7 @@ func main() {
 	http.HandleFunc("/getMatchByID", GetMatchByIDToAPI)
 	http.HandleFunc("/p", parseReplay)
 	http.HandleFunc("/findTeams", findTeams)
+	http.HandleFunc("/getFile", GetFile)
 	http.ListenAndServe(":7777", nil)
 	log.Println("Ready to serve")
 }

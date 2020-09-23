@@ -70,6 +70,20 @@ func GetMatchByID(id uint) *CalculatedMatch {
 	return cm
 }
 
+// GetMatchURLFromID .
+func GetMatchURLFromID(id uint) string {
+	cm := &CalculatedMatch{}
+	err := DBEngine.First(cm, "id = ?", id)
+
+	if err.Error != nil {
+		return ""
+	}
+
+	returnString := "HBReplay-" + cm.Time[0:4] + "-" + cm.Time[5:7] + "-" + cm.Time[8:10] +
+		"-" + cm.Time[11:13] + "h" + cm.Time[14:16] + "m.hbr2"
+	return returnString
+}
+
 // CheckForDuplicatePositions .
 func CheckForDuplicatePositions(positions string) uint {
 	cm := &CalculatedMatch{}

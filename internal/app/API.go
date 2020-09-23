@@ -40,3 +40,12 @@ func GetPlayersSnapshots(w http.ResponseWriter, r *http.Request) {
 	outputMessage := prepareData(GetPlayersSnapshotsFromDB(), w, r)
 	fmt.Fprintf(w, outputMessage)
 }
+
+// GetFile ..
+func GetFile(w http.ResponseWriter, r *http.Request) {
+	matchIDString := r.URL.Query()["id"][0]
+	matchID, _ := strconv.Atoi(matchIDString)
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	fileURL := "files/unparsedReplays/" + GetMatchURLFromID(uint(matchID))
+	http.ServeFile(w, r, fileURL)
+}
