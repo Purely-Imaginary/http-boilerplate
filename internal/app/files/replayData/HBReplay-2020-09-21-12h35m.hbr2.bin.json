@@ -5,6 +5,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 22.683,
             "goalSide": "Blue",
+            "goalSpeed": 1.972664138439407,
             "goalTime": 24.683,
             "goalTravelTime": 2.0
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 27.25,
             "goalSide": "Red",
+            "goalSpeed": 2.964752818451183,
             "goalTime": 28.483,
             "goalTravelTime": 1.233
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 29.217,
             "goalSide": "Blue",
+            "goalSpeed": 5.223335553581111,
             "goalTime": 32.617,
             "goalTravelTime": 3.4
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 45.433,
             "goalSide": "Blue",
+            "goalSpeed": 0.7263258948968291,
             "goalTime": 48.933,
             "goalTravelTime": 3.5
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 82.183,
             "goalSide": "Red",
+            "goalSpeed": 1.4827272050465818,
             "goalTime": 84.717,
             "goalTravelTime": 2.534
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 97.0,
             "goalSide": "Red",
+            "goalSpeed": 0.8365814184570832,
             "goalTime": 100.283,
             "goalTravelTime": 3.283
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 110.583,
             "goalSide": "Blue",
+            "goalSpeed": 1.7176960914440207,
             "goalTime": 112.75,
             "goalTravelTime": 2.167
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 118.7,
             "goalSide": "Blue",
+            "goalSpeed": 2.443553282857194,
             "goalTime": 120.433,
             "goalTravelTime": 1.733
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 238.65,
             "goalSide": "Red",
+            "goalSpeed": 0.6777003379585917,
             "goalTime": 239.85,
             "goalTravelTime": 1.2
         },
@@ -68,6 +77,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 282.183,
             "goalSide": "Red",
+            "goalSpeed": 4.6257659589745534,
             "goalTime": 282.633,
             "goalTravelTime": 0.45
         },
@@ -75,6 +85,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 333.7,
             "goalSide": "Blue",
+            "goalSpeed": 4.618698735293739,
             "goalTime": 334.4,
             "goalTravelTime": 0.7
         },
@@ -82,6 +93,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 345.55,
             "goalSide": "Red",
+            "goalSpeed": 2.3873305039357375,
             "goalTime": 346.517,
             "goalTravelTime": 0.967
         },
@@ -89,6 +101,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 369.0,
             "goalSide": "Red",
+            "goalSpeed": 2.446371903058289,
             "goalTime": 370.7,
             "goalTravelTime": 1.7
         },
@@ -96,6 +109,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 451.283,
             "goalSide": "Red",
+            "goalSpeed": 2.120983581576578,
             "goalTime": 453.267,
             "goalTravelTime": 1.984
         },
@@ -103,6 +117,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 459.717,
             "goalSide": "Blue",
+            "goalSpeed": 6.186313911397199,
             "goalTime": 460.233,
             "goalTravelTime": 0.516
         },
@@ -110,6 +125,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 503.983,
             "goalSide": "Blue",
+            "goalSpeed": 0.9498978454577911,
             "goalTime": 506.617,
             "goalTravelTime": 2.634
         },
@@ -117,6 +133,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 659.083,
             "goalSide": "Blue",
+            "goalSpeed": 5.633318779917286,
             "goalTime": 659.4,
             "goalTravelTime": 0.317
         }

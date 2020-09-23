@@ -5,6 +5,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 112.767,
             "goalSide": "Blue",
+            "goalSpeed": 3.5000405758506394,
             "goalTime": 113.317,
             "goalTravelTime": 0.55
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 123.6,
             "goalSide": "Red",
+            "goalSpeed": 4.271446127540443,
             "goalTime": 124.3,
             "goalTravelTime": 0.7
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 302.117,
             "goalSide": "Blue",
+            "goalSpeed": 1.701380577786847,
             "goalTime": 304.433,
             "goalTravelTime": 2.316
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 406.317,
             "goalSide": "Red",
+            "goalSpeed": 3.8891598698772336,
             "goalTime": 407.983,
             "goalTravelTime": 1.666
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 420.717,
             "goalSide": "Red",
+            "goalSpeed": 2.703796358910887,
             "goalTime": 421.583,
             "goalTravelTime": 0.866
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 446.7,
             "goalSide": "Blue",
+            "goalSpeed": 1.8161633490307172,
             "goalTime": 448.933,
             "goalTravelTime": 2.233
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 463.8,
             "goalSide": "Blue",
+            "goalSpeed": 1.6432089032465225,
             "goalTime": 464.867,
             "goalTravelTime": 1.067
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 536.717,
             "goalSide": "Red",
+            "goalSpeed": 3.224814083815546,
             "goalTime": 537.033,
             "goalTravelTime": 0.316
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 591.033,
             "goalSide": "Blue",
+            "goalSpeed": 1.113189828124407,
             "goalTime": 591.85,
             "goalTravelTime": 0.817
         }

@@ -5,6 +5,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 126.967,
             "goalSide": "Blue",
+            "goalSpeed": 3.733054778356625,
             "goalTime": 127.95,
             "goalTravelTime": 0.983
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 236.333,
             "goalSide": "Blue",
+            "goalSpeed": 5.561745884099008,
             "goalTime": 236.7,
             "goalTravelTime": 0.367
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 326.55,
             "goalSide": "Blue",
+            "goalSpeed": 2.615317026730247,
             "goalTime": 327.167,
             "goalTravelTime": 0.617
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 397.55,
             "goalSide": "Blue",
+            "goalSpeed": 2.3956026932622536,
             "goalTime": 399.15,
             "goalTravelTime": 1.6
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 500.133,
             "goalSide": "Blue",
+            "goalSpeed": 2.435766287878245,
             "goalTime": 501.767,
             "goalTravelTime": 1.634
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 583.65,
             "goalSide": "Blue",
+            "goalSpeed": 1.4698864860785572,
             "goalTime": 586.033,
             "goalTravelTime": 2.383
         }

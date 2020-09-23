@@ -45,6 +45,7 @@ func processGoals(goals []RawGoal) []Goal {
 		parsedGoal.Time = goal.GoalTime
 		parsedGoal.TravelTime = goal.GoalTravelTime
 		parsedGoal.ShotTime = goal.GoalShotTime
+		parsedGoal.Speed = goal.GoalSpeed
 
 		isRed := true
 		if goal.GoalSide != "Red" {

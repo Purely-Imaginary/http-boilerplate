@@ -5,6 +5,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 110.533,
             "goalSide": "Red",
+            "goalSpeed": 4.588105640032804,
             "goalTime": 110.85,
             "goalTravelTime": 0.317
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 270.7,
             "goalSide": "Blue",
+            "goalSpeed": 1.772207432060084,
             "goalTime": 272.85,
             "goalTravelTime": 2.15
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 308.433,
             "goalSide": "Blue",
+            "goalSpeed": 1.9403903756725822,
             "goalTime": 310.167,
             "goalTravelTime": 1.734
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 447.217,
             "goalSide": "Blue",
+            "goalSpeed": 6.119376199083002,
             "goalTime": 447.283,
             "goalTravelTime": 0.066
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 466.8,
             "goalSide": "Blue",
+            "goalSpeed": 4.357206880860736,
             "goalTime": 467.217,
             "goalTravelTime": 0.417
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 523.0,
             "goalSide": "Red",
+            "goalSpeed": 1.9850573690035571,
             "goalTime": 524.367,
             "goalTravelTime": 1.367
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 545.883,
             "goalSide": "Blue",
+            "goalSpeed": 5.285406693649682,
             "goalTime": 546.1,
             "goalTravelTime": 0.217
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 592.3,
             "goalSide": "Red",
+            "goalSpeed": 3.1639190440349974,
             "goalTime": 593.617,
             "goalTravelTime": 1.317
         }

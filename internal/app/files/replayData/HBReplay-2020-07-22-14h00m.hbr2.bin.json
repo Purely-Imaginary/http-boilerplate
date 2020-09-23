@@ -5,6 +5,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 338.583,
             "goalSide": "Blue",
+            "goalSpeed": 6.525237268964337,
             "goalTime": 338.767,
             "goalTravelTime": 0.184
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 343.8,
             "goalSide": "Blue",
+            "goalSpeed": 2.133587667594233,
             "goalTime": 346.733,
             "goalTravelTime": 2.933
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 416.183,
             "goalSide": "Blue",
+            "goalSpeed": 1.9344291329608452,
             "goalTime": 416.383,
             "goalTravelTime": 0.2
         }

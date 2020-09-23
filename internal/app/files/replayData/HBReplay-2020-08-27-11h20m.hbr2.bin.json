@@ -5,6 +5,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 235.867,
             "goalSide": "Red",
+            "goalSpeed": 4.084777585831833,
             "goalTime": 236.267,
             "goalTravelTime": 0.4
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 277.283,
             "goalSide": "Blue",
+            "goalSpeed": 1.150210236486104,
             "goalTime": 279.733,
             "goalTravelTime": 2.45
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 459.2,
             "goalSide": "Red",
+            "goalSpeed": 4.199657325224973,
             "goalTime": 459.833,
             "goalTravelTime": 0.633
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 507.283,
             "goalSide": "Blue",
+            "goalSpeed": 1.4279135101418259,
             "goalTime": 509.517,
             "goalTravelTime": 2.234
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 536.8,
             "goalSide": "Blue",
+            "goalSpeed": 6.821683431460957,
             "goalTime": 537.033,
             "goalTravelTime": 0.233
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 580.4,
             "goalSide": "Blue",
+            "goalSpeed": 0.841049487675175,
             "goalTime": 583.2,
             "goalTravelTime": 2.8
         }

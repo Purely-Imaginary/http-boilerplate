@@ -5,6 +5,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 335.467,
             "goalSide": "Blue",
+            "goalSpeed": 1.3501890359665139,
             "goalTime": 337.267,
             "goalTravelTime": 1.8
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 638.133,
             "goalSide": "Red",
+            "goalSpeed": 1.6484613058931339,
             "goalTime": 639.15,
             "goalTravelTime": 1.017
         }

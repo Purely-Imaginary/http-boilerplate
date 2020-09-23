@@ -5,6 +5,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 68.95,
             "goalSide": "Blue",
+            "goalSpeed": 6.413913534587417,
             "goalTime": 72.467,
             "goalTravelTime": 3.517
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 93.8,
             "goalSide": "Blue",
+            "goalSpeed": 2.2992872097207036,
             "goalTime": 95.45,
             "goalTravelTime": 1.65
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 172.333,
             "goalSide": "Red",
+            "goalSpeed": 2.290798044337303,
             "goalTime": 173.533,
             "goalTravelTime": 1.2
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 184.617,
             "goalSide": "Red",
+            "goalSpeed": 1.3788936418038182,
             "goalTime": 187.5,
             "goalTravelTime": 2.883
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 264.933,
             "goalSide": "Blue",
+            "goalSpeed": 1.6776809502938324,
             "goalTime": 267.317,
             "goalTravelTime": 2.384
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 316.8,
             "goalSide": "Blue",
+            "goalSpeed": 3.961057572929679,
             "goalTime": 318.483,
             "goalTravelTime": 1.683
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 386.217,
             "goalSide": "Blue",
+            "goalSpeed": 3.832235945791578,
             "goalTime": 387.1,
             "goalTravelTime": 0.883
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 413.133,
             "goalSide": "Blue",
+            "goalSpeed": 4.972804488176862,
             "goalTime": 413.633,
             "goalTravelTime": 0.5
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 443.45,
             "goalSide": "Blue",
+            "goalSpeed": 4.507901560546152,
             "goalTime": 443.667,
             "goalTravelTime": 0.217
         },
@@ -68,6 +77,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 517.517,
             "goalSide": "Blue",
+            "goalSpeed": 7.720447197141314,
             "goalTime": 517.85,
             "goalTravelTime": 0.333
         },
@@ -75,6 +85,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 527.367,
             "goalSide": "Blue",
+            "goalSpeed": 2.8689792716085205,
             "goalTime": 528.717,
             "goalTravelTime": 1.35
         },
@@ -82,6 +93,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 559.567,
             "goalSide": "Blue",
+            "goalSpeed": 1.9593810745128792,
             "goalTime": 559.667,
             "goalTravelTime": 0.1
         }

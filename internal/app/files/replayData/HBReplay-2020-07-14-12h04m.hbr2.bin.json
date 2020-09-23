@@ -5,6 +5,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 83.567,
             "goalSide": "Red",
+            "goalSpeed": 6.434118789541383,
             "goalTime": 83.65,
             "goalTravelTime": 0.083
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 103.2,
             "goalSide": "Blue",
+            "goalSpeed": 0.9609398002298192,
             "goalTime": 106.067,
             "goalTravelTime": 2.867
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 207.517,
             "goalSide": "Blue",
+            "goalSpeed": 3.210288097143408,
             "goalTime": 208.733,
             "goalTravelTime": 1.216
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 271.583,
             "goalSide": "Red",
+            "goalSpeed": 3.640040143779356,
             "goalTime": 272.017,
             "goalTravelTime": 0.434
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 501.083,
             "goalSide": "Red",
+            "goalSpeed": 2.4776367970326154,
             "goalTime": 501.9,
             "goalTravelTime": 0.817
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 537.533,
             "goalSide": "Blue",
+            "goalSpeed": 1.7344125939369273,
             "goalTime": 539.65,
             "goalTravelTime": 2.117
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 660.317,
             "goalSide": "Blue",
+            "goalSpeed": 2.0073214423881804,
             "goalTime": 661.617,
             "goalTravelTime": 1.3
         }

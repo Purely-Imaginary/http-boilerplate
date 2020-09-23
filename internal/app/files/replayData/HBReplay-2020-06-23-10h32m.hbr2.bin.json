@@ -5,6 +5,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 31.383,
             "goalSide": "Red",
+            "goalSpeed": 1.9519744813864512,
             "goalTime": 33.35,
             "goalTravelTime": 1.967
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 51.067,
             "goalSide": "Blue",
+            "goalSpeed": 4.982864724844978,
             "goalTime": 51.433,
             "goalTravelTime": 0.366
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 129.533,
             "goalSide": "Blue",
+            "goalSpeed": 4.564996120077912,
             "goalTime": 129.85,
             "goalTravelTime": 0.317
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 173.9,
             "goalSide": "Red",
+            "goalSpeed": 3.0994720144434527,
             "goalTime": 175.267,
             "goalTravelTime": 1.367
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 180.383,
             "goalSide": "Red",
+            "goalSpeed": 1.5710672768032914,
             "goalTime": 181.817,
             "goalTravelTime": 1.434
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 197.583,
             "goalSide": "Red",
+            "goalSpeed": 1.527407344832344,
             "goalTime": 198.717,
             "goalTravelTime": 1.134
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 215.967,
             "goalSide": "Red",
+            "goalSpeed": 4.627753916850298,
             "goalTime": 216.517,
             "goalTravelTime": 0.55
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 226.9,
             "goalSide": "Blue",
+            "goalSpeed": 4.58219121863417,
             "goalTime": 227.267,
             "goalTravelTime": 0.367
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 246.183,
             "goalSide": "Blue",
+            "goalSpeed": 3.2862286187548233,
             "goalTime": 246.55,
             "goalTravelTime": 0.367
         },
@@ -68,6 +77,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 259.5,
             "goalSide": "Blue",
+            "goalSpeed": 6.169369227152513,
             "goalTime": 259.683,
             "goalTravelTime": 0.183
         },
@@ -75,6 +85,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 353.783,
             "goalSide": "Red",
+            "goalSpeed": 2.7956750577762173,
             "goalTime": 355.267,
             "goalTravelTime": 1.484
         },
@@ -82,6 +93,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 394.117,
             "goalSide": "Blue",
+            "goalSpeed": 2.678745267906083,
             "goalTime": 395.083,
             "goalTravelTime": 0.966
         },
@@ -89,6 +101,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 418.2,
             "goalSide": "Red",
+            "goalSpeed": 2.283721756898373,
             "goalTime": 420.083,
             "goalTravelTime": 1.883
         },
@@ -96,6 +109,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 450.717,
             "goalSide": "Red",
+            "goalSpeed": 6.421960763522607,
             "goalTime": 450.8,
             "goalTravelTime": 0.083
         },
@@ -103,6 +117,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 484.917,
             "goalSide": "Red",
+            "goalSpeed": 0.9975246486170362,
             "goalTime": 487.85,
             "goalTravelTime": 2.933
         },
@@ -110,6 +125,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 508.633,
             "goalSide": "Red",
+            "goalSpeed": 4.204698164923954,
             "goalTime": 509.267,
             "goalTravelTime": 0.634
         }

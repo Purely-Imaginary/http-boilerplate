@@ -5,6 +5,7 @@
             "goalScorerName": "kjubn",
             "goalShotTime": 519.917,
             "goalSide": "Red",
+            "goalSpeed": 1.4860052419535636,
             "goalTime": 522.017,
             "goalTravelTime": 2.1
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "kjubn",
             "goalShotTime": 563.0,
             "goalSide": "Red",
+            "goalSpeed": 2.759421731177541,
             "goalTime": 563.167,
             "goalTravelTime": 0.167
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 574.317,
             "goalSide": "Blue",
+            "goalSpeed": 1.713988202443556,
             "goalTime": 576.583,
             "goalTravelTime": 2.266
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 596.533,
             "goalSide": "Red",
+            "goalSpeed": 5.476455194490806,
             "goalTime": 597.033,
             "goalTravelTime": 0.5
         }

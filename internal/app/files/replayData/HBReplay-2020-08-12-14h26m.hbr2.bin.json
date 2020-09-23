@@ -5,6 +5,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 80.233,
             "goalSide": "Blue",
+            "goalSpeed": 4.627971460124847,
             "goalTime": 80.667,
             "goalTravelTime": 0.434
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 89.433,
             "goalSide": "Red",
+            "goalSpeed": 4.656933966019248,
             "goalTime": 89.55,
             "goalTravelTime": 0.117
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 137.683,
             "goalSide": "Red",
+            "goalSpeed": 4.127167459664008,
             "goalTime": 138.5,
             "goalTravelTime": 0.817
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 240.517,
             "goalSide": "Red",
+            "goalSpeed": 2.6248958735804027,
             "goalTime": 241.833,
             "goalTravelTime": 1.316
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 311.917,
             "goalSide": "Blue",
+            "goalSpeed": 4.86131203851945,
             "goalTime": 312.483,
             "goalTravelTime": 0.566
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 352.833,
             "goalSide": "Blue",
+            "goalSpeed": 4.194706465604815,
             "goalTime": 353.333,
             "goalTravelTime": 0.5
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 416.283,
             "goalSide": "Red",
+            "goalSpeed": 3.7385493544671693,
             "goalTime": 417.217,
             "goalTravelTime": 0.934
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 522.867,
             "goalSide": "Blue",
+            "goalSpeed": 1.6582045133178822,
             "goalTime": 523.95,
             "goalTravelTime": 1.083
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 683.217,
             "goalSide": "Red",
+            "goalSpeed": 1.7083092173970083,
             "goalTime": 685.5,
             "goalTravelTime": 2.283
         }

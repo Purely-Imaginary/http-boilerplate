@@ -5,6 +5,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 62.617,
             "goalSide": "Blue",
+            "goalSpeed": 6.578131103355635,
             "goalTime": 63.717,
             "goalTravelTime": 1.1
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 101.583,
             "goalSide": "Blue",
+            "goalSpeed": 4.720768092631866,
             "goalTime": 101.933,
             "goalTravelTime": 0.35
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 342.267,
             "goalSide": "Blue",
+            "goalSpeed": 2.2704877769755227,
             "goalTime": 344.017,
             "goalTravelTime": 1.75
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 588.867,
             "goalSide": "Red",
+            "goalSpeed": 4.27766297559242,
             "goalTime": 589.517,
             "goalTravelTime": 0.65
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 598.017,
             "goalSide": "Red",
+            "goalSpeed": 2.1592217370465048,
             "goalTime": 599.3,
             "goalTravelTime": 1.283
         }

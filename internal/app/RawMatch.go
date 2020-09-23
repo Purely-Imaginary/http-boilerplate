@@ -12,6 +12,7 @@ type RawGoal struct {
 	GoalShotTime   float32
 	GoalSide       string
 	GoalTime       float32
+	GoalSpeed      float32
 	GoalTravelTime float32
 }
 

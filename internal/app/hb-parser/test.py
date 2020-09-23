@@ -77,6 +77,7 @@ def threadedAnalysis(path):
                         "goalScorerName": bin[0][goalScorerId],
                         "goalShotTime": goalShotTime,
                         "goalSide": goalSide,
+                        "goalSpeed": math.hypot(tick.ball.vy, tick.ball.vx),
                         "goalTravelTime": round(tick.gameTime - goalShotTime, 3)
                     })
                     if (goalSide == "Red"):
@@ -120,8 +121,8 @@ def threadedAnalysis(path):
             with open('../files/replayData/' + path[13:] + '.json', 'w+') as f:
                 f.write(s)
 
-# threadedAnalysis("preprocessed/temp")
-threadedAnalysis(sys.argv[1])
+threadedAnalysis("preprocessed/temp")
+# threadedAnalysis(sys.argv[1])
 os.remove(sys.argv[1])
 
 # for subdir, dirs, files in os.walk('preprocessed/'):

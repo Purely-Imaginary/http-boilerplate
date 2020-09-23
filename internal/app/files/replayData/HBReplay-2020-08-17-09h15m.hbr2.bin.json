@@ -5,6 +5,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 360.617,
             "goalSide": "Red",
+            "goalSpeed": 0.8813303458488342,
             "goalTime": 361.767,
             "goalTravelTime": 1.15
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 397.3,
             "goalSide": "Blue",
+            "goalSpeed": 0.6523571820730006,
             "goalTime": 401.117,
             "goalTravelTime": 3.817
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 478.683,
             "goalSide": "Red",
+            "goalSpeed": 0.9509873438484501,
             "goalTime": 480.4,
             "goalTravelTime": 1.717
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 488.45,
             "goalSide": "Red",
+            "goalSpeed": 3.7477260783058375,
             "goalTime": 489.167,
             "goalTravelTime": 0.717
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 539.233,
             "goalSide": "Red",
+            "goalSpeed": 0.3999369163571752,
             "goalTime": 541.0,
             "goalTravelTime": 1.767
         }

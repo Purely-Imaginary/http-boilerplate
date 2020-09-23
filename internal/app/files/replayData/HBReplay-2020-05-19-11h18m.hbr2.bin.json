@@ -5,6 +5,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 55.633,
             "goalSide": "Blue",
+            "goalSpeed": 4.908235708332079,
             "goalTime": 55.967,
             "goalTravelTime": 0.334
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 92.05,
             "goalSide": "Blue",
+            "goalSpeed": 2.891184792046436,
             "goalTime": 93.35,
             "goalTravelTime": 1.3
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 154.383,
             "goalSide": "Red",
+            "goalSpeed": 5.620700701602613,
             "goalTime": 154.7,
             "goalTravelTime": 0.317
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 285.017,
             "goalSide": "Red",
+            "goalSpeed": 6.627920143075926,
             "goalTime": 285.583,
             "goalTravelTime": 0.566
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 319.117,
             "goalSide": "Blue",
+            "goalSpeed": 1.9533282995420187,
             "goalTime": 320.7,
             "goalTravelTime": 1.583
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 362.4,
             "goalSide": "Blue",
+            "goalSpeed": 4.842113107600772,
             "goalTime": 362.883,
             "goalTravelTime": 0.483
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 420.25,
             "goalSide": "Blue",
+            "goalSpeed": 1.3085603014097942,
             "goalTime": 421.967,
             "goalTravelTime": 1.717
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 448.25,
             "goalSide": "Red",
+            "goalSpeed": 3.0798760026312073,
             "goalTime": 449.633,
             "goalTravelTime": 1.383
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 497.617,
             "goalSide": "Red",
+            "goalSpeed": 1.0356514680332982,
             "goalTime": 500.65,
             "goalTravelTime": 3.033
         }

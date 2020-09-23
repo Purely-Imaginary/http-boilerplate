@@ -5,6 +5,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 16.3,
             "goalSide": "Blue",
+            "goalSpeed": 1.5825308897071662,
             "goalTime": 17.867,
             "goalTravelTime": 1.567
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 31.333,
             "goalSide": "Red",
+            "goalSpeed": 4.947941851097451,
             "goalTime": 31.617,
             "goalTravelTime": 0.284
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 48.167,
             "goalSide": "Red",
+            "goalSpeed": 2.116515014015174,
             "goalTime": 49.967,
             "goalTravelTime": 1.8
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 64.95,
             "goalSide": "Red",
+            "goalSpeed": 2.2938956535448525,
             "goalTime": 65.367,
             "goalTravelTime": 0.417
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 108.017,
             "goalSide": "Red",
+            "goalSpeed": 4.047191351157928,
             "goalTime": 108.383,
             "goalTravelTime": 0.366
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 119.583,
             "goalSide": "Red",
+            "goalSpeed": 1.631278287721431,
             "goalTime": 124.4,
             "goalTravelTime": 4.817
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 182.467,
             "goalSide": "Red",
+            "goalSpeed": 2.422021538432838,
             "goalTime": 184.067,
             "goalTravelTime": 1.6
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 187.15,
             "goalSide": "Red",
+            "goalSpeed": 1.1246652950218778,
             "goalTime": 190.967,
             "goalTravelTime": 3.817
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 205.15,
             "goalSide": "Blue",
+            "goalSpeed": 1.068111557284185,
             "goalTime": 206.833,
             "goalTravelTime": 1.683
         },
@@ -68,6 +77,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 223.833,
             "goalSide": "Blue",
+            "goalSpeed": 2.3387419632630344,
             "goalTime": 225.6,
             "goalTravelTime": 1.767
         },
@@ -75,6 +85,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 41.483,
             "goalSide": "Red",
+            "goalSpeed": 4.613064013798255,
             "goalTime": 41.75,
             "goalTravelTime": 0.267
         },
@@ -82,6 +93,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 137.6,
             "goalSide": "Blue",
+            "goalSpeed": 6.525549124486144,
             "goalTime": 137.767,
             "goalTravelTime": 0.167
         },
@@ -89,6 +101,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 148.567,
             "goalSide": "Red",
+            "goalSpeed": 3.200062263236693,
             "goalTime": 149.2,
             "goalTravelTime": 0.633
         },
@@ -96,6 +109,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 183.733,
             "goalSide": "Red",
+            "goalSpeed": 5.852758332647953,
             "goalTime": 183.95,
             "goalTravelTime": 0.217
         },
@@ -103,6 +117,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 215.883,
             "goalSide": "Red",
+            "goalSpeed": 0.765326277701704,
             "goalTime": 219.567,
             "goalTravelTime": 3.684
         },
@@ -110,6 +125,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 289.3,
             "goalSide": "Red",
+            "goalSpeed": 5.1730735990020085,
             "goalTime": 289.783,
             "goalTravelTime": 0.483
         },
@@ -117,6 +133,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 328.35,
             "goalSide": "Blue",
+            "goalSpeed": 4.403148502857019,
             "goalTime": 328.9,
             "goalTravelTime": 0.55
         },
@@ -124,6 +141,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 341.583,
             "goalSide": "Red",
+            "goalSpeed": 3.152460380129122,
             "goalTime": 342.7,
             "goalTravelTime": 1.117
         },
@@ -131,6 +149,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 361.45,
             "goalSide": "Red",
+            "goalSpeed": 6.336393071533688,
             "goalTime": 361.55,
             "goalTravelTime": 0.1
         },
@@ -138,6 +157,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 370.683,
             "goalSide": "Red",
+            "goalSpeed": 1.6903412589375673,
             "goalTime": 373.05,
             "goalTravelTime": 2.367
         },
@@ -145,6 +165,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 560.517,
             "goalSide": "Red",
+            "goalSpeed": 4.572540177215955,
             "goalTime": 560.95,
             "goalTravelTime": 0.433
         },
@@ -152,6 +173,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 579.117,
             "goalSide": "Blue",
+            "goalSpeed": 2.4210697781088335,
             "goalTime": 580.867,
             "goalTravelTime": 1.75
         },
@@ -159,6 +181,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 594.317,
             "goalSide": "Blue",
+            "goalSpeed": 3.7446837299171762,
             "goalTime": 594.967,
             "goalTravelTime": 0.65
         }

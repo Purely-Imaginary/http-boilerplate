@@ -5,6 +5,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 22.867,
             "goalSide": "Red",
+            "goalSpeed": 4.681719996665373,
             "goalTime": 23.283,
             "goalTravelTime": 0.416
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 45.633,
             "goalSide": "Blue",
+            "goalSpeed": 2.1098618105384612,
             "goalTime": 47.3,
             "goalTravelTime": 1.667
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 111.183,
             "goalSide": "Blue",
+            "goalSpeed": 4.247117619739196,
             "goalTime": 112.133,
             "goalTravelTime": 0.95
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 367.65,
             "goalSide": "Red",
+            "goalSpeed": 5.213214189198912,
             "goalTime": 367.867,
             "goalTravelTime": 0.217
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 394.067,
             "goalSide": "Red",
+            "goalSpeed": 3.6326052641593036,
             "goalTime": 394.95,
             "goalTravelTime": 0.883
         }

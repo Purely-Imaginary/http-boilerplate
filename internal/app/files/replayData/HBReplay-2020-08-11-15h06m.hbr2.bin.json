@@ -5,6 +5,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 301.65,
             "goalSide": "Blue",
+            "goalSpeed": 1.3829287324472817,
             "goalTime": 302.95,
             "goalTravelTime": 1.3
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 334.75,
             "goalSide": "Blue",
+            "goalSpeed": 5.482049476876221,
             "goalTime": 335.15,
             "goalTravelTime": 0.4
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 362.983,
             "goalSide": "Blue",
+            "goalSpeed": 1.399981869067928,
             "goalTime": 365.517,
             "goalTravelTime": 2.534
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 385.95,
             "goalSide": "Red",
+            "goalSpeed": 0.9595959110439082,
             "goalTime": 389.05,
             "goalTravelTime": 3.1
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 411.8,
             "goalSide": "Red",
+            "goalSpeed": 3.299690428270857,
             "goalTime": 412.983,
             "goalTravelTime": 1.183
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 447.6,
             "goalSide": "Blue",
+            "goalSpeed": 0.928080922059115,
             "goalTime": 450.683,
             "goalTravelTime": 3.083
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 511.367,
             "goalSide": "Red",
+            "goalSpeed": 4.265835060360902,
             "goalTime": 511.933,
             "goalTravelTime": 0.566
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 515.167,
             "goalSide": "Red",
+            "goalSpeed": 1.321019312277817,
             "goalTime": 517.6,
             "goalTravelTime": 2.433
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 689.783,
             "goalSide": "Red",
+            "goalSpeed": 1.566987395582436,
             "goalTime": 692.217,
             "goalTravelTime": 2.434
         }

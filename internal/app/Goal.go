@@ -9,6 +9,7 @@ type Goal struct {
 	MatchRef   CalculatedMatch `gorm:"foreignkey:match_id"`
 	Time       float32         `db:"time"`
 	TravelTime float32         `db:"travel_time"`
+	Speed      float32         `db:"speed"`
 	ShotTime   float32         `db:"shot_time"`
 	IsRed      bool            `db:"is_red"`
 }

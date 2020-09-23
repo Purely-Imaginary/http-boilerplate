@@ -5,6 +5,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 79.75,
             "goalSide": "Blue",
+            "goalSpeed": 3.2323325343919778,
             "goalTime": 80.867,
             "goalTravelTime": 1.117
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 209.7,
             "goalSide": "Blue",
+            "goalSpeed": 4.455662402978308,
             "goalTime": 209.95,
             "goalTravelTime": 0.25
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 342.55,
             "goalSide": "Red",
+            "goalSpeed": 5.164453517172634,
             "goalTime": 342.967,
             "goalTravelTime": 0.417
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 379.767,
             "goalSide": "Blue",
+            "goalSpeed": 0.8931846443892922,
             "goalTime": 382.8,
             "goalTravelTime": 3.033
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 508.433,
             "goalSide": "Red",
+            "goalSpeed": 4.3141710220372484,
             "goalTime": 509.0,
             "goalTravelTime": 0.567
         }

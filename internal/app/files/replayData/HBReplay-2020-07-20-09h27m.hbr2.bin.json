@@ -5,6 +5,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 113.217,
             "goalSide": "Blue",
+            "goalSpeed": 5.7093737078237385,
             "goalTime": 116.017,
             "goalTravelTime": 2.8
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 176.117,
             "goalSide": "Red",
+            "goalSpeed": 1.7888714651046764,
             "goalTime": 177.3,
             "goalTravelTime": 1.183
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 297.75,
             "goalSide": "Red",
+            "goalSpeed": 3.403783324489711,
             "goalTime": 298.183,
             "goalTravelTime": 0.433
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 321.967,
             "goalSide": "Red",
+            "goalSpeed": 7.934073011157296,
             "goalTime": 322.25,
             "goalTravelTime": 0.283
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 329.717,
             "goalSide": "Blue",
+            "goalSpeed": 4.686537487056853,
             "goalTime": 330.317,
             "goalTravelTime": 0.6
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 421.167,
             "goalSide": "Red",
+            "goalSpeed": 5.5808010593318516,
             "goalTime": 421.217,
             "goalTravelTime": 0.05
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 481.45,
             "goalSide": "Blue",
+            "goalSpeed": 2.920419712749631,
             "goalTime": 482.5,
             "goalTravelTime": 1.05
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 598.35,
             "goalSide": "Blue",
+            "goalSpeed": 5.0322835942569135,
             "goalTime": 598.95,
             "goalTravelTime": 0.6
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 673.1,
             "goalSide": "Blue",
+            "goalSpeed": 2.7216309395432003,
             "goalTime": 674.533,
             "goalTravelTime": 1.433
         }

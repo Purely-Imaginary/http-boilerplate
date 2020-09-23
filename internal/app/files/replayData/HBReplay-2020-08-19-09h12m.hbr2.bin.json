@@ -5,6 +5,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 258.483,
             "goalSide": "Blue",
+            "goalSpeed": 3.3022814746980234,
             "goalTime": 258.983,
             "goalTravelTime": 0.5
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 324.783,
             "goalSide": "Red",
+            "goalSpeed": 3.77665486306844,
             "goalTime": 325.7,
             "goalTravelTime": 0.917
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 363.517,
             "goalSide": "Blue",
+            "goalSpeed": 1.896900523700487,
             "goalTime": 365.617,
             "goalTravelTime": 2.1
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 399.183,
             "goalSide": "Red",
+            "goalSpeed": 4.555991635507273,
             "goalTime": 399.783,
             "goalTravelTime": 0.6
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 410.3,
             "goalSide": "Blue",
+            "goalSpeed": 1.6963150888861638,
             "goalTime": 411.817,
             "goalTravelTime": 1.517
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 452.183,
             "goalSide": "Blue",
+            "goalSpeed": 4.027872727892991,
             "goalTime": 453.0,
             "goalTravelTime": 0.817
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 467.317,
             "goalSide": "Blue",
+            "goalSpeed": 4.215571308647738,
             "goalTime": 467.583,
             "goalTravelTime": 0.266
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 493.533,
             "goalSide": "Blue",
+            "goalSpeed": 3.0737946225217856,
             "goalTime": 494.617,
             "goalTravelTime": 1.084
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 516.0,
             "goalSide": "Blue",
+            "goalSpeed": 1.9022397855620619,
             "goalTime": 517.783,
             "goalTravelTime": 1.783
         },
@@ -68,6 +77,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 558.75,
             "goalSide": "Blue",
+            "goalSpeed": 1.9937533193587862,
             "goalTime": 560.7,
             "goalTravelTime": 1.95
         }

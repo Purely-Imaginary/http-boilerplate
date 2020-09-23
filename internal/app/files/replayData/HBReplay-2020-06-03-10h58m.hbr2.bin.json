@@ -5,6 +5,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 359.417,
             "goalSide": "Blue",
+            "goalSpeed": 3.3740235825084306,
             "goalTime": 359.833,
             "goalTravelTime": 0.416
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 420.517,
             "goalSide": "Blue",
+            "goalSpeed": 1.4026373636659473,
             "goalTime": 422.95,
             "goalTravelTime": 2.433
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 467.033,
             "goalSide": "Blue",
+            "goalSpeed": 1.2653525337247036,
             "goalTime": 469.817,
             "goalTravelTime": 2.784
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 555.017,
             "goalSide": "Blue",
+            "goalSpeed": 2.0339130689429736,
             "goalTime": 556.933,
             "goalTravelTime": 1.916
         }

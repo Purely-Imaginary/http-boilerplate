@@ -5,6 +5,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 36.333,
             "goalSide": "Blue",
+            "goalSpeed": 4.6423281244865935,
             "goalTime": 36.533,
             "goalTravelTime": 0.2
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 131.933,
             "goalSide": "Blue",
+            "goalSpeed": 6.349080670553675,
             "goalTime": 131.967,
             "goalTravelTime": 0.034
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 144.633,
             "goalSide": "Blue",
+            "goalSpeed": 3.2778149561155443,
             "goalTime": 145.833,
             "goalTravelTime": 1.2
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 335.717,
             "goalSide": "Blue",
+            "goalSpeed": 4.4599338063371885,
             "goalTime": 336.333,
             "goalTravelTime": 0.616
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 346.4,
             "goalSide": "Blue",
+            "goalSpeed": 2.1227679703384243,
             "goalTime": 347.433,
             "goalTravelTime": 1.033
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 450.517,
             "goalSide": "Blue",
+            "goalSpeed": 1.575232352012298,
             "goalTime": 451.9,
             "goalTravelTime": 1.383
         }

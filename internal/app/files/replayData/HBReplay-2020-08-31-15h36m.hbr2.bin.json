@@ -5,6 +5,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 51.133,
             "goalSide": "Red",
+            "goalSpeed": 1.6565551939894603,
             "goalTime": 51.6,
             "goalTravelTime": 0.467
         },
@@ -12,6 +13,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 216.117,
             "goalSide": "Blue",
+            "goalSpeed": 5.019436366073499,
             "goalTime": 216.75,
             "goalTravelTime": 0.633
         },
@@ -19,6 +21,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 304.783,
             "goalSide": "Red",
+            "goalSpeed": 3.646495616612471,
             "goalTime": 305.867,
             "goalTravelTime": 1.084
         },
@@ -26,6 +29,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 344.817,
             "goalSide": "Blue",
+            "goalSpeed": 3.35830359578714,
             "goalTime": 345.45,
             "goalTravelTime": 0.633
         },
@@ -33,6 +37,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 365.517,
             "goalSide": "Red",
+            "goalSpeed": 5.069275709336493,
             "goalTime": 366.067,
             "goalTravelTime": 0.55
         },
@@ -40,6 +45,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 405.117,
             "goalSide": "Red",
+            "goalSpeed": 1.864631239051438,
             "goalTime": 407.233,
             "goalTravelTime": 2.116
         },
@@ -47,6 +53,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 479.783,
             "goalSide": "Red",
+            "goalSpeed": 4.493651237106132,
             "goalTime": 480.417,
             "goalTravelTime": 0.634
         },
@@ -54,6 +61,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 546.133,
             "goalSide": "Blue",
+            "goalSpeed": 5.492808997530121,
             "goalTime": 546.233,
             "goalTravelTime": 0.1
         },
@@ -61,6 +69,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 582.033,
             "goalSide": "Blue",
+            "goalSpeed": 2.937135596772162,
             "goalTime": 583.2,
             "goalTravelTime": 1.167
         }
