@@ -121,8 +121,8 @@ def threadedAnalysis(path):
             with open('../files/replayData/' + path[13:] + '.json', 'w+') as f:
                 f.write(s)
 
-threadedAnalysis("preprocessed/temp")
-# threadedAnalysis(sys.argv[1])
+# threadedAnalysis("preprocessed/temp")
+threadedAnalysis(sys.argv[1])
 os.remove(sys.argv[1])
 
 # for subdir, dirs, files in os.walk('preprocessed/'):
