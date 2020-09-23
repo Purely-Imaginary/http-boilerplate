@@ -27,7 +27,7 @@ func ExportHTML(cm CalculatedMatch) string {
 	outputMeta += "Rating change - Red: " + fmt.Sprintf("%.2f", cm.RedTeam.RatingChange) + ", Blue: " + fmt.Sprintf("%.2f", cm.BlueTeam.RatingChange)
 	metaTag := "<meta name=\"description\" content=\"" + outputMeta + "\">"
 	metaOgDescription := "<meta property=\"og:description\" content=\"" + outputMeta + "\">"
-	metaOgTitle := "<meta property=\"og:title\" content=\"Match results!\">"
+	metaOgTitle := "<meta property=\"og:title\" content=\"Match results! Click for more!\">"
 	metaOgType := "<meta property=\"og:type\" content=\"article\">"
 	metaOgLocale := "<meta property=\"og:locale\" content=\"en_US\">"
 	metaOgAggregator := metaOgTitle + metaOgDescription + metaOgType + metaOgLocale

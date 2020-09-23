@@ -31,10 +31,18 @@ func (u *PlayerSnapshot) UpdateMatchID(matchID uint) {
 // GetPlayersSnapshotsFromDB ..
 func GetPlayersSnapshotsFromDB() []PlayerSnapshot {
 	var playerSnaps []PlayerSnapshot
-	err := DBEngine.Preload("MatchRef").Order("player_snapshot.match_id ASC").Find(&playerSnaps)
+	err := DBEngine.Preload("MatchRef").Preload("MatchRef.RedTeam").Order("player_snapshot.match_id ASC").Find(&playerSnaps)
 
 	if err.Error != nil {
 		return nil
+	}
+
+	for key := range playerSnaps {
+		if playerSnaps[key].IsRed {
+			playerSnaps[key].Rating = playerSnaps[key].Rating + playerSnaps[key].MatchRef.RedTeam.RatingChange
+		} else {
+			playerSnaps[key].Rating = playerSnaps[key].Rating - playerSnaps[key].MatchRef.RedTeam.RatingChange
+		}
 	}
 
 	return playerSnaps
