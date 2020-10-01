@@ -5,7 +5,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 66.217,
             "goalSide": "Red",
-            "goalSpeed": 2.4837363929710934,
+            "goalSpeed": 2.484,
             "goalTime": 67.45,
             "goalTravelTime": 1.233
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 120.75,
             "goalSide": "Red",
-            "goalSpeed": 5.910472755550702,
+            "goalSpeed": 5.91,
             "goalTime": 121.25,
             "goalTravelTime": 0.5
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 179.483,
             "goalSide": "Blue",
-            "goalSpeed": 2.594859455003173,
+            "goalSpeed": 2.595,
             "goalTime": 180.95,
             "goalTravelTime": 1.467
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 186.933,
             "goalSide": "Red",
-            "goalSpeed": 2.979701606234532,
+            "goalSpeed": 2.98,
             "goalTime": 187.15,
             "goalTravelTime": 0.217
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 206.1,
             "goalSide": "Blue",
-            "goalSpeed": 1.4225878489115036,
+            "goalSpeed": 1.423,
             "goalTime": 208.45,
             "goalTravelTime": 2.35
         },
@@ -45,7 +45,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 238.983,
             "goalSide": "Blue",
-            "goalSpeed": 3.6664768458688637,
+            "goalSpeed": 3.666,
             "goalTime": 239.867,
             "goalTravelTime": 0.884
         },
@@ -53,7 +53,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 254.967,
             "goalSide": "Blue",
-            "goalSpeed": 2.520708644199716,
+            "goalSpeed": 2.521,
             "goalTime": 256.45,
             "goalTravelTime": 1.483
         },
@@ -61,7 +61,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 435.2,
             "goalSide": "Red",
-            "goalSpeed": 0.9291341673332815,
+            "goalSpeed": 0.929,
             "goalTime": 435.75,
             "goalTravelTime": 0.55
         },
@@ -69,7 +69,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 516.417,
             "goalSide": "Red",
-            "goalSpeed": 6.796396331795514,
+            "goalSpeed": 6.796,
             "goalTime": 516.483,
             "goalTravelTime": 0.066
         },
@@ -77,7 +77,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 593.867,
             "goalSide": "Red",
-            "goalSpeed": 2.5659951925345212,
+            "goalSpeed": 2.566,
             "goalTime": 595.167,
             "goalTravelTime": 1.3
         }

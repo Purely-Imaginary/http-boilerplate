@@ -5,20 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch file",
-            "type": "go",
-            "request": "launch",
-            "mode": "debug",
-            "program": "/home/amadeusz/go/src/github.com/purely-imaginary/referee-go/internal/app/app.go"
-        },
-        {
-            "name": "Launch executable",
-            "type": "go",
-            "request": "launch",
-            "mode": "exec",
-            "program": "/home/amadeusz/go/src/github.com/purely-imaginary/referee-go/internal/app/API"
-        },
-        {
             "name": "Launch 3",
             "type": "go",
             "request": "launch",

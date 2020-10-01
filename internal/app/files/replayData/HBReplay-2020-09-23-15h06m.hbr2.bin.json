@@ -5,7 +5,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 289.967,
             "goalSide": "Blue",
-            "goalSpeed": 4.576258938515143,
+            "goalSpeed": 4.576,
             "goalTime": 290.567,
             "goalTravelTime": 0.6
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 355.983,
             "goalSide": "Red",
-            "goalSpeed": 6.414456382960449,
+            "goalSpeed": 6.414,
             "goalTime": 356.1,
             "goalTravelTime": 0.117
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 442.95,
             "goalSide": "Red",
-            "goalSpeed": 3.99291427348772,
+            "goalSpeed": 3.993,
             "goalTime": 443.8,
             "goalTravelTime": 0.85
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 453.7,
             "goalSide": "Red",
-            "goalSpeed": 1.978667019707876,
+            "goalSpeed": 1.979,
             "goalTime": 455.767,
             "goalTravelTime": 2.067
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 501.833,
             "goalSide": "Red",
-            "goalSpeed": 3.031294173809475,
+            "goalSpeed": 3.031,
             "goalTime": 502.617,
             "goalTravelTime": 0.784
         },
@@ -45,7 +45,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 507.95,
             "goalSide": "Blue",
-            "goalSpeed": 1.8322953823074235,
+            "goalSpeed": 1.832,
             "goalTime": 508.8,
             "goalTravelTime": 0.85
         },
@@ -53,7 +53,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 535.65,
             "goalSide": "Red",
-            "goalSpeed": 0.9960477223662608,
+            "goalSpeed": 0.996,
             "goalTime": 538.567,
             "goalTravelTime": 2.917
         },
@@ -61,7 +61,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 551.95,
             "goalSide": "Red",
-            "goalSpeed": 5.732259215714295,
+            "goalSpeed": 5.732,
             "goalTime": 552.817,
             "goalTravelTime": 0.867
         }

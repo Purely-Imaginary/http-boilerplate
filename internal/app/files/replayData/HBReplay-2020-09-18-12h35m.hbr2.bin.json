@@ -5,7 +5,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 468.317,
             "goalSide": "Red",
-            "goalSpeed": 2.1074282589914763,
+            "goalSpeed": 2.107,
             "goalTime": 471.65,
             "goalTravelTime": 3.333
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 581.55,
             "goalSide": "Blue",
-            "goalSpeed": 2.5187179761813594,
+            "goalSpeed": 2.519,
             "goalTime": 581.667,
             "goalTravelTime": 0.117
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 586.167,
             "goalSide": "Red",
-            "goalSpeed": 3.8706875131028458,
+            "goalSpeed": 3.871,
             "goalTime": 586.533,
             "goalTravelTime": 0.366
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 594.9,
             "goalSide": "Blue",
-            "goalSpeed": 0.6957995628855906,
+            "goalSpeed": 0.696,
             "goalTime": 598.517,
             "goalTravelTime": 3.617
         }

@@ -77,7 +77,7 @@ def threadedAnalysis(path):
                         "goalScorerName": bin[0][goalScorerId],
                         "goalShotTime": goalShotTime,
                         "goalSide": goalSide,
-                        "goalSpeed": math.hypot(tick.ball.vy, tick.ball.vx),
+                        "goalSpeed": round(math.hypot(tick.ball.vy, tick.ball.vx),3),
                         "goalTravelTime": round(tick.gameTime - goalShotTime, 3)
                     })
                     if (goalSide == "Red"):

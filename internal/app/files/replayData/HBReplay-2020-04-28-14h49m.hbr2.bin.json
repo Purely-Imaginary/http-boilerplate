@@ -5,7 +5,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 18.75,
             "goalSide": "Red",
-            "goalSpeed": 2.88736409456457,
+            "goalSpeed": 2.887,
             "goalTime": 19.233,
             "goalTravelTime": 0.483
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 211.083,
             "goalSide": "Blue",
-            "goalSpeed": 1.249932801662309,
+            "goalSpeed": 1.25,
             "goalTime": 212.967,
             "goalTravelTime": 1.884
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 309.817,
             "goalSide": "Blue",
-            "goalSpeed": 1.4118085369524354,
+            "goalSpeed": 1.412,
             "goalTime": 312.067,
             "goalTravelTime": 2.25
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 395.783,
             "goalSide": "Red",
-            "goalSpeed": 3.972603633922507,
+            "goalSpeed": 3.973,
             "goalTime": 396.433,
             "goalTravelTime": 0.65
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "adamaru",
             "goalShotTime": 900.2,
             "goalSide": "Blue",
-            "goalSpeed": 2.7397702375704713,
+            "goalSpeed": 2.74,
             "goalTime": 901.35,
             "goalTravelTime": 1.15
         }
