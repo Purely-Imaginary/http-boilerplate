@@ -31,7 +31,10 @@ func (u *PlayerSnapshot) UpdateMatchID(matchID uint) {
 // GetPlayersSnapshotsFromDB ..
 func GetPlayersSnapshotsFromDB() []PlayerSnapshot {
 	var playerSnaps []PlayerSnapshot
-	err := DBEngine.Preload("MatchRef").Preload("MatchRef.RedTeam").Order("player_snapshot.match_id ASC").Find(&playerSnaps)
+	err := DBEngine.Preload("MatchRef").
+		Preload("MatchRef.RedTeam").
+		Order("player_snapshot.match_id ASC").
+		Find(&playerSnaps)
 
 	if err.Error != nil {
 		return nil

@@ -37,7 +37,20 @@ func GetPlayersTable(w http.ResponseWriter, r *http.Request) {
 
 // GetPlayersSnapshots ..
 func GetPlayersSnapshots(w http.ResponseWriter, r *http.Request) {
-	outputMessage := prepareData(GetPlayersSnapshotsFromDB(), w, r)
+	DBData := GetPlayersSnapshotsFromDB()
+	for i := 0; i < len(DBData); i++ {
+		snapshot := DBData[i]
+		for _, targetSnapshot := range DBData {
+			if snapshot.PlayerID == targetSnapshot.PlayerID &&
+				snapshot.MatchRef.Time[:10] == targetSnapshot.MatchRef.Time[:10] &&
+				snapshot.MatchRef.Time[11:] < targetSnapshot.MatchRef.Time[11:] {
+				DBData = append(DBData[:i], DBData[i+1:]...)
+				i--
+				break
+			}
+		}
+	}
+	outputMessage := prepareData(DBData, w, r)
 	fmt.Fprintf(w, outputMessage)
 }
 
