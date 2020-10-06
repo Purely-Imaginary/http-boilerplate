@@ -31,7 +31,7 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 			if info.IsDir() {
 				return nil
 			}
-			if filepath.Ext(path) == ".hbr2" {
+			if filepath.Ext(path) == ".hbr2" && strings.Contains(path, "HBReplay") {
 				log.Print(strconv.Itoa(unparsedReplaysCounter) + "/" + strconv.Itoa(unparsedReplaysTotal))
 				go AsyncParseReplay(info.Name(), &wg)
 				unparsedReplaysCounter++
@@ -53,7 +53,7 @@ func regenerateData(w http.ResponseWriter, r *http.Request) {
 		if info.IsDir() {
 			return nil
 		}
-		if filepath.Ext(path) == ".json" {
+		if filepath.Ext(path) == ".json" && strings.Contains(path, "HBReplay") {
 			log.Print(info.Name() + " (" + strconv.Itoa(counter) + "/" + strconv.Itoa(total) + ")")
 			ProcessReplayFromFile(strings.Trim(info.Name(), ".bin.json"))
 			counter++

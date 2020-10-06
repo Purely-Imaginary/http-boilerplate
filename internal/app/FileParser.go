@@ -32,7 +32,11 @@ func ParseReplay(replayName string) {
 	cmd = exec.Command("python3", "test.py", "preprocessed/"+replayName+".bin")
 	cmd.Dir = "hb-parser"
 	_, err = cmd.Output()
-	Check(err)
+
+	if err != nil {
+		log.Println("Python parser error: ", err)
+	}
+
 	pythonTimeElapsed := time.Now().Sub(pythonTimeStart).String()
 
 	log.Println(replayName + " parsed. Node: " + nodeTimeElapsed + " - Python: " + pythonTimeElapsed)
