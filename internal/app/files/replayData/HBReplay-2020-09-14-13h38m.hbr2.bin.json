@@ -5,7 +5,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 64.433,
             "goalSide": "Red",
-            "goalSpeed": 1.704075602093205,
+            "goalSpeed": 1.704,
             "goalTime": 66.65,
             "goalTravelTime": 2.217
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 145.583,
             "goalSide": "Blue",
-            "goalSpeed": 7.049485421587708,
+            "goalSpeed": 7.049,
             "goalTime": 145.633,
             "goalTravelTime": 0.05
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 221.283,
             "goalSide": "Red",
-            "goalSpeed": 0.9585887684787625,
+            "goalSpeed": 0.959,
             "goalTime": 223.333,
             "goalTravelTime": 2.05
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 233.433,
             "goalSide": "Red",
-            "goalSpeed": 1.6829179345333056,
+            "goalSpeed": 1.683,
             "goalTime": 235.65,
             "goalTravelTime": 2.217
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 267.283,
             "goalSide": "Blue",
-            "goalSpeed": 1.25781005784281,
+            "goalSpeed": 1.258,
             "goalTime": 268.783,
             "goalTravelTime": 1.5
         },
@@ -45,7 +45,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 399.933,
             "goalSide": "Blue",
-            "goalSpeed": 2.173487528388866,
+            "goalSpeed": 2.173,
             "goalTime": 401.85,
             "goalTravelTime": 1.917
         },
@@ -53,7 +53,7 @@
             "goalScorerName": "ToPP",
             "goalShotTime": 443.35,
             "goalSide": "Red",
-            "goalSpeed": 6.90176457256658,
+            "goalSpeed": 6.902,
             "goalTime": 443.483,
             "goalTravelTime": 0.133
         },
@@ -61,7 +61,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 518.717,
             "goalSide": "Blue",
-            "goalSpeed": 5.1451699916180695,
+            "goalSpeed": 5.145,
             "goalTime": 519.25,
             "goalTravelTime": 0.533
         },
@@ -69,7 +69,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 681.017,
             "goalSide": "Blue",
-            "goalSpeed": 3.449468427728747,
+            "goalSpeed": 3.449,
             "goalTime": 681.367,
             "goalTravelTime": 0.35
         }

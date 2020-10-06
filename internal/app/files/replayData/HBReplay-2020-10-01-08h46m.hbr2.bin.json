@@ -1,0 +1,94 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 35.967,
+            "goalSide": "Blue",
+            "goalSpeed": 5.335,
+            "goalTime": 39.467,
+            "goalTravelTime": 3.5
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 188.133,
+            "goalSide": "Blue",
+            "goalSpeed": 4.604,
+            "goalTime": 188.733,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 248.9,
+            "goalSide": "Blue",
+            "goalSpeed": 1.753,
+            "goalTime": 251.45,
+            "goalTravelTime": 2.55
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 252.033,
+            "goalSide": "Red",
+            "goalSpeed": 4.444,
+            "goalTime": 255.983,
+            "goalTravelTime": 3.95
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 386.217,
+            "goalSide": "Red",
+            "goalSpeed": 1.437,
+            "goalTime": 388.717,
+            "goalTravelTime": 2.5
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 446.767,
+            "goalSide": "Red",
+            "goalSpeed": 3.382,
+            "goalTime": 447.9,
+            "goalTravelTime": 1.133
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 451.8,
+            "goalSide": "Red",
+            "goalSpeed": 1.139,
+            "goalTime": 454.717,
+            "goalTravelTime": 2.917
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 481.45,
+            "goalSide": "Blue",
+            "goalSpeed": 1.174,
+            "goalTime": 483.75,
+            "goalTravelTime": 2.3
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 493.033,
+            "goalSide": "Red",
+            "goalSpeed": 1.676,
+            "goalTime": 495.033,
+            "goalTravelTime": 2.0
+        }
+    ],
+    "rawPositionsAtEnd": "-306.2029537635825-208.62818600736625|-186.6616343313687--11.477191610579492|-92.5822796327044--82.73086905142915|-185.41642765412814--118.7887723776137|",
+    "score": {
+        "Blue": 4,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "K-rol"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "hubigz"
+        ]
+    },
+    "time": "2020-10-01 08:46"
+}

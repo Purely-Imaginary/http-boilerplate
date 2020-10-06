@@ -5,7 +5,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 141.667,
             "goalSide": "Red",
-            "goalSpeed": 1.9585855195313235,
+            "goalSpeed": 1.959,
             "goalTime": 143.567,
             "goalTravelTime": 1.9
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 167.6,
             "goalSide": "Blue",
-            "goalSpeed": 2.5717666205641536,
+            "goalSpeed": 2.572,
             "goalTime": 169.25,
             "goalTravelTime": 1.65
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 175.383,
             "goalSide": "Red",
-            "goalSpeed": 6.10290322096943,
+            "goalSpeed": 6.103,
             "goalTime": 175.517,
             "goalTravelTime": 0.134
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 210.95,
             "goalSide": "Red",
-            "goalSpeed": 1.1932648482986647,
+            "goalSpeed": 1.193,
             "goalTime": 212.117,
             "goalTravelTime": 1.167
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 237.867,
             "goalSide": "Red",
-            "goalSpeed": 2.3705076750453413,
+            "goalSpeed": 2.371,
             "goalTime": 239.367,
             "goalTravelTime": 1.5
         },
@@ -45,7 +45,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 244.117,
             "goalSide": "Blue",
-            "goalSpeed": 6.647990536827495,
+            "goalSpeed": 6.648,
             "goalTime": 244.433,
             "goalTravelTime": 0.316
         },
@@ -53,7 +53,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 245.933,
             "goalSide": "Red",
-            "goalSpeed": 2.126878686663528,
+            "goalSpeed": 2.127,
             "goalTime": 247.617,
             "goalTravelTime": 1.684
         },
@@ -61,7 +61,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 363.5,
             "goalSide": "Blue",
-            "goalSpeed": 5.295887927182997,
+            "goalSpeed": 5.296,
             "goalTime": 366.883,
             "goalTravelTime": 3.383
         },
@@ -69,7 +69,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 372.3,
             "goalSide": "Red",
-            "goalSpeed": 1.5193410632318487,
+            "goalSpeed": 1.519,
             "goalTime": 374.8,
             "goalTravelTime": 2.5
         },
@@ -77,7 +77,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 380.05,
             "goalSide": "Blue",
-            "goalSpeed": 1.8211808365981854,
+            "goalSpeed": 1.821,
             "goalTime": 381.3,
             "goalTravelTime": 1.25
         },
@@ -85,7 +85,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 584.767,
             "goalSide": "Red",
-            "goalSpeed": 5.125730627719743,
+            "goalSpeed": 5.126,
             "goalTime": 584.85,
             "goalTravelTime": 0.083
         }

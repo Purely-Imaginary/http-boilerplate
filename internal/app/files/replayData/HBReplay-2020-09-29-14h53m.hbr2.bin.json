@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 20.9,
+            "goalSide": "Blue",
+            "goalSpeed": 6.461,
+            "goalTime": 21.083,
+            "goalTravelTime": 0.183
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 116.917,
+            "goalSide": "Red",
+            "goalSpeed": 2.203,
+            "goalTime": 118.65,
+            "goalTravelTime": 1.733
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 139.45,
+            "goalSide": "Blue",
+            "goalSpeed": 1.171,
+            "goalTime": 142.05,
+            "goalTravelTime": 2.6
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 145.85,
+            "goalSide": "Red",
+            "goalSpeed": 2.1,
+            "goalTime": 146.9,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 148.817,
+            "goalSide": "Blue",
+            "goalSpeed": 1.44,
+            "goalTime": 150.55,
+            "goalTravelTime": 1.733
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 508.183,
+            "goalSide": "Blue",
+            "goalSpeed": 3.216,
+            "goalTime": 509.45,
+            "goalTravelTime": 1.267
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 567.0,
+            "goalSide": "Red",
+            "goalSpeed": 5.49,
+            "goalTime": 567.317,
+            "goalTravelTime": 0.317
+        }
+    ],
+    "rawPositionsAtEnd": "-266.4503555067857--81.59852940045013|-341.47857325520107-133.2483707030111|-210.47233529748786--126.02693082493552|-213.3327681428444-119.26178872822342|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-09-29 14:53"
+}

@@ -5,7 +5,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 255.767,
             "goalSide": "Blue",
-            "goalSpeed": 5.234371411356137,
+            "goalSpeed": 5.234,
             "goalTime": 255.9,
             "goalTravelTime": 0.133
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 412.85,
             "goalSide": "Blue",
-            "goalSpeed": 3.9932772451097613,
+            "goalSpeed": 3.993,
             "goalTime": 413.583,
             "goalTravelTime": 0.733
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "rybak",
             "goalShotTime": 465.4,
             "goalSide": "Red",
-            "goalSpeed": 4.379609913136123,
+            "goalSpeed": 4.38,
             "goalTime": 465.983,
             "goalTravelTime": 0.583
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 576.5,
             "goalSide": "Blue",
-            "goalSpeed": 6.0058329442939264,
+            "goalSpeed": 6.006,
             "goalTime": 577.95,
             "goalTravelTime": 1.45
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 594.583,
             "goalSide": "Blue",
-            "goalSpeed": 5.06019937613685,
+            "goalSpeed": 5.06,
             "goalTime": 595.017,
             "goalTravelTime": 0.434
         }

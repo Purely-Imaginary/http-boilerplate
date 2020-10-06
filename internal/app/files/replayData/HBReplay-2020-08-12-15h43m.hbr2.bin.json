@@ -5,7 +5,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 149.983,
             "goalSide": "Red",
-            "goalSpeed": 5.083052930322812,
+            "goalSpeed": 5.083,
             "goalTime": 150.35,
             "goalTravelTime": 0.367
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 294.433,
             "goalSide": "Blue",
-            "goalSpeed": 2.6606690655541625,
+            "goalSpeed": 2.661,
             "goalTime": 296.667,
             "goalTravelTime": 2.234
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "Toperz",
             "goalShotTime": 477.917,
             "goalSide": "Blue",
-            "goalSpeed": 5.681206820602068,
+            "goalSpeed": 5.681,
             "goalTime": 478.267,
             "goalTravelTime": 0.35
         }

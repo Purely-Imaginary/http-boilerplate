@@ -5,7 +5,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 20.65,
             "goalSide": "Red",
-            "goalSpeed": 1.6527042414125896,
+            "goalSpeed": 1.653,
             "goalTime": 22.967,
             "goalTravelTime": 2.317
         },
@@ -13,7 +13,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 45.383,
             "goalSide": "Blue",
-            "goalSpeed": 1.6972185668851538,
+            "goalSpeed": 1.697,
             "goalTime": 47.633,
             "goalTravelTime": 2.25
         },
@@ -21,7 +21,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 182.533,
             "goalSide": "Red",
-            "goalSpeed": 3.4966434164169953,
+            "goalSpeed": 3.497,
             "goalTime": 183.483,
             "goalTravelTime": 0.95
         },
@@ -29,7 +29,7 @@
             "goalScorerName": "Amman",
             "goalShotTime": 212.667,
             "goalSide": "Blue",
-            "goalSpeed": 4.21450764176881,
+            "goalSpeed": 4.215,
             "goalTime": 213.483,
             "goalTravelTime": 0.816
         },
@@ -37,7 +37,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 241.35,
             "goalSide": "Blue",
-            "goalSpeed": 2.4650475423528126,
+            "goalSpeed": 2.465,
             "goalTime": 242.55,
             "goalTravelTime": 1.2
         },
@@ -45,7 +45,7 @@
             "goalScorerName": "MaddoHatto",
             "goalShotTime": 480.45,
             "goalSide": "Red",
-            "goalSpeed": 1.2997902924363482,
+            "goalSpeed": 1.3,
             "goalTime": 483.183,
             "goalTravelTime": 2.733
         },
@@ -53,7 +53,7 @@
             "goalScorerName": "K-rol",
             "goalShotTime": 565.267,
             "goalSide": "Red",
-            "goalSpeed": 4.641767401380502,
+            "goalSpeed": 4.642,
             "goalTime": 565.95,
             "goalTravelTime": 0.683
         },
@@ -61,7 +61,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 587.267,
             "goalSide": "Blue",
-            "goalSpeed": 1.3410577340859107,
+            "goalSpeed": 1.341,
             "goalTime": 588.733,
             "goalTravelTime": 1.466
         },
@@ -69,7 +69,7 @@
             "goalScorerName": "hubigz",
             "goalShotTime": 653.5,
             "goalSide": "Blue",
-            "goalSpeed": 3.101167633268309,
+            "goalSpeed": 3.101,
             "goalTime": 654.783,
             "goalTravelTime": 1.283
         }

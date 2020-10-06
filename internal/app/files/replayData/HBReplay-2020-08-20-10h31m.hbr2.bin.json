@@ -1,0 +1,54 @@
+{
+    "gameTime": 152.05,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 6.517,
+            "goalSide": "Blue",
+            "goalSpeed": 4.082,
+            "goalTime": 9.367,
+            "goalTravelTime": 2.85
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 74.7,
+            "goalSide": "Red",
+            "goalSpeed": 3.424,
+            "goalTime": 75.467,
+            "goalTravelTime": 0.767
+        },
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 91.517,
+            "goalSide": "Red",
+            "goalSpeed": 2.795,
+            "goalTime": 92.933,
+            "goalTravelTime": 1.416
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 110.067,
+            "goalSide": "Blue",
+            "goalSpeed": 4.698,
+            "goalTime": 110.7,
+            "goalTravelTime": 0.633
+        }
+    ],
+    "rawPositionsAtEnd": "-401.5458326317519-226.96633233061212|-369.50976523585166-220.92584395909935|-465.6607035892736-3.798660765994124|-75.30322538630544-97.6114953675748|",
+    "score": {
+        "Blue": 2,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "K-rol"
+        ],
+        "Red": [
+            "Toperz",
+            "adamaru"
+        ]
+    },
+    "time": "2020-08-20 10:31"
+}

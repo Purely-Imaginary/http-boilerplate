@@ -1,0 +1,86 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 68.25,
+            "goalSide": "Blue",
+            "goalSpeed": 2.121,
+            "goalTime": 69.95,
+            "goalTravelTime": 1.7
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 111.583,
+            "goalSide": "Blue",
+            "goalSpeed": 2.582,
+            "goalTime": 113.033,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 230.233,
+            "goalSide": "Red",
+            "goalSpeed": 7.502,
+            "goalTime": 230.283,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 369.383,
+            "goalSide": "Red",
+            "goalSpeed": 0.717,
+            "goalTime": 372.95,
+            "goalTravelTime": 3.567
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 383.367,
+            "goalSide": "Blue",
+            "goalSpeed": 1.754,
+            "goalTime": 383.583,
+            "goalTravelTime": 0.216
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 460.983,
+            "goalSide": "Blue",
+            "goalSpeed": 2.858,
+            "goalTime": 461.983,
+            "goalTravelTime": 1.0
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 480.15,
+            "goalSide": "Blue",
+            "goalSpeed": 1.995,
+            "goalTime": 482.083,
+            "goalTravelTime": 1.933
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 568.817,
+            "goalSide": "Red",
+            "goalSpeed": 3.227,
+            "goalTime": 570.1,
+            "goalTravelTime": 1.283
+        }
+    ],
+    "rawPositionsAtEnd": "465.66649207793984-255.0|521.775112047272-48.09505353195641|274.9132193292211-47.730434229733014|461.9066847368686-221.0960272206415|",
+    "score": {
+        "Blue": 5,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "K-rol",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-10-02 09:27"
+}
