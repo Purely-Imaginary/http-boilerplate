@@ -18,6 +18,13 @@ type Player struct {
 	Matches     []CalculatedMatch `gorm:"many2many:player_match"`
 }
 
+// PlayerDetailedData - detailed data to show
+type PlayerDetailedData struct {
+	Player        Player
+	Snapshots     []PlayerSnapshot
+	PlayerRatings []Player
+}
+
 // GetPlayerByName .
 func GetPlayerByName(name string) *Player {
 	player := &Player{}
@@ -33,8 +40,12 @@ func GetPlayerByName(name string) *Player {
 // GetPlayerByID .
 func GetPlayerByID(id int) *Player {
 	player := &Player{}
-
-	err := DBEngine.First(player, "id = ?", id)
+	err := DBEngine.Preload("Matches").
+		Preload("Matches.BlueTeam").
+		Preload("Matches.BlueTeam.Players").
+		Preload("Matches.RedTeam").
+		Preload("Matches.RedTeam.Players").
+		First(player, "id = ?", id)
 
 	if gorm.IsRecordNotFoundError(err.Error) {
 		return nil
@@ -91,11 +102,53 @@ func UpdatePlayer(PlayerID uint, win bool, goalsScored int64, goalsLost int64, r
 // GetPlayersTableFromDB ..
 func GetPlayersTableFromDB() []Player {
 	var players []Player
-	err := DBEngine.Order("rating DESC").Preload("Matches").Find(&players)
+	err := DBEngine.Order("rating DESC").
+		Preload("Matches").
+		Where("wins + losses > 10").
+		Find(&players)
 
 	if err.Error != nil {
 		return nil
 	}
 
 	return players
+}
+
+// GetPlayerSnapshots ..
+func GetPlayerSnapshots(id int) []PlayerSnapshot {
+	var playerSnaps []PlayerSnapshot
+	err := DBEngine.Order("match_id ASC").
+		Where("player_id = ?", id).
+		Preload("MatchRef").
+		Find(&playerSnaps)
+
+	if err.Error != nil {
+		return nil
+	}
+
+	return playerSnaps
+}
+
+// GetPlayerRatings ..
+func GetPlayerRatings() []Player {
+	var players []Player
+	err := DBEngine.Order("rating DESC").
+		Where("wins + losses > 10").
+		Find(&players)
+
+	if err.Error != nil {
+		return nil
+	}
+
+	return players
+}
+
+// GetPlayerDataFromDB .
+func GetPlayerDataFromDB(id int) *PlayerDetailedData {
+	var returnValue PlayerDetailedData
+
+	returnValue.Player = *GetPlayerByID(id)
+	returnValue.Snapshots = GetPlayerSnapshots(id)
+	returnValue.PlayerRatings = GetPlayerRatings()
+	return &returnValue
 }

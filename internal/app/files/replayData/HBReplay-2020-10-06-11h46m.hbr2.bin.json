@@ -1,0 +1,126 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 12.433,
+            "goalSide": "Red",
+            "goalSpeed": 2.933,
+            "goalTime": 13.233,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 28.05,
+            "goalSide": "Blue",
+            "goalSpeed": 3.086,
+            "goalTime": 29.15,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 52.117,
+            "goalSide": "Blue",
+            "goalSpeed": 4.24,
+            "goalTime": 52.7,
+            "goalTravelTime": 0.583
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 159.617,
+            "goalSide": "Blue",
+            "goalSpeed": 2.063,
+            "goalTime": 161.5,
+            "goalTravelTime": 1.883
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 177.067,
+            "goalSide": "Red",
+            "goalSpeed": 6.766,
+            "goalTime": 177.1,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 195.833,
+            "goalSide": "Red",
+            "goalSpeed": 0.893,
+            "goalTime": 198.1,
+            "goalTravelTime": 2.267
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 238.033,
+            "goalSide": "Red",
+            "goalSpeed": 4.388,
+            "goalTime": 238.5,
+            "goalTravelTime": 0.467
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 299.183,
+            "goalSide": "Blue",
+            "goalSpeed": 2.284,
+            "goalTime": 300.933,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 431.583,
+            "goalSide": "Red",
+            "goalSpeed": 1.397,
+            "goalTime": 432.9,
+            "goalTravelTime": 1.317
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 499.217,
+            "goalSide": "Red",
+            "goalSpeed": 3.004,
+            "goalTime": 500.15,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 526.533,
+            "goalSide": "Red",
+            "goalSpeed": 4.582,
+            "goalTime": 527.25,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 560.483,
+            "goalSide": "Red",
+            "goalSpeed": 2.315,
+            "goalTime": 562.167,
+            "goalTravelTime": 1.684
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 587.5,
+            "goalSide": "Red",
+            "goalSpeed": 6.593,
+            "goalTime": 587.6,
+            "goalTravelTime": 0.1
+        }
+    ],
+    "rawPositionsAtEnd": "-425.6912796806427--153.17482549073975|-379.025261608311--73.53800365315551|-457.9087573066571--8.764894596188293|-301.3233192153179--132.84020248024316|",
+    "score": {
+        "Blue": 4,
+        "Red": 9
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "adamaru"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-10-06 11:46"
+}

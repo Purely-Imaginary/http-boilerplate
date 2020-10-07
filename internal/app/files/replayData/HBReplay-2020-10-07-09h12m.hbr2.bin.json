@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 238.467,
+            "goalSide": "Red",
+            "goalSpeed": 6.6,
+            "goalTime": 238.533,
+            "goalTravelTime": 0.066
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 257.717,
+            "goalSide": "Blue",
+            "goalSpeed": 6.742,
+            "goalTime": 257.833,
+            "goalTravelTime": 0.116
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 309.0,
+            "goalSide": "Blue",
+            "goalSpeed": 4.666,
+            "goalTime": 309.6,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 314.417,
+            "goalSide": "Red",
+            "goalSpeed": 4.426,
+            "goalTime": 314.933,
+            "goalTravelTime": 0.516
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 353.717,
+            "goalSide": "Red",
+            "goalSpeed": 0.717,
+            "goalTime": 357.4,
+            "goalTravelTime": 3.683
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 426.117,
+            "goalSide": "Blue",
+            "goalSpeed": 3.101,
+            "goalTime": 427.017,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 550.85,
+            "goalSide": "Blue",
+            "goalSpeed": 1.601,
+            "goalTime": 552.717,
+            "goalTravelTime": 1.867
+        }
+    ],
+    "rawPositionsAtEnd": "-367.4244141649773-158.00026639970767|-198.30855908768473-219.31321952950643|-84.65559710760553-123.34173551485898|-238.45836165937902--133.423194233963|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "adamaru"
+        ]
+    },
+    "time": "2020-10-07 09:12"
+}

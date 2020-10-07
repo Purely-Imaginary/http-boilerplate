@@ -154,6 +154,7 @@ func main() {
 	http.HandleFunc("/p", parseReplay)
 	http.HandleFunc("/findTeams", findTeams)
 	http.HandleFunc("/getFile", GetFile)
+	http.HandleFunc("/getPlayerData", GetPlayerData)
 	http.ListenAndServe(":7777", nil)
 	log.Println("Ready to serve")
 }

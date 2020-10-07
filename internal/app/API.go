@@ -62,3 +62,11 @@ func GetFile(w http.ResponseWriter, r *http.Request) {
 	fileURL := "files/unparsedReplays/" + GetMatchURLFromID(uint(matchID))
 	http.ServeFile(w, r, fileURL)
 }
+
+// GetPlayerData ..
+func GetPlayerData(w http.ResponseWriter, r *http.Request) {
+	playerIDString := r.URL.Query()["id"][0]
+	playerID, _ := strconv.Atoi(playerIDString)
+	outputMessage := prepareData(GetPlayerDataFromDB(playerID), w, r)
+	fmt.Fprintf(w, outputMessage)
+}

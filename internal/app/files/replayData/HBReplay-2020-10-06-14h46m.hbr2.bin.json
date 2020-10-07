@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 110.133,
+            "goalSide": "Blue",
+            "goalSpeed": 6.632,
+            "goalTime": 110.217,
+            "goalTravelTime": 0.084
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 187.567,
+            "goalSide": "Red",
+            "goalSpeed": 6.083,
+            "goalTime": 187.617,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 231.283,
+            "goalSide": "Blue",
+            "goalSpeed": 2.134,
+            "goalTime": 232.8,
+            "goalTravelTime": 1.517
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 315.017,
+            "goalSide": "Red",
+            "goalSpeed": 5.343,
+            "goalTime": 315.4,
+            "goalTravelTime": 0.383
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 344.267,
+            "goalSide": "Red",
+            "goalSpeed": 2.827,
+            "goalTime": 347.017,
+            "goalTravelTime": 2.75
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 444.8,
+            "goalSide": "Blue",
+            "goalSpeed": 2.696,
+            "goalTime": 446.05,
+            "goalTravelTime": 1.25
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 454.85,
+            "goalSide": "Red",
+            "goalSpeed": 1.325,
+            "goalTime": 456.267,
+            "goalTravelTime": 1.417
+        }
+    ],
+    "rawPositionsAtEnd": "39.365014209176955--89.74953413432597|25.74338290697526-198.16535135694662|-234.90196100246936-93.1931362366727|413.4689393639713--5.0287816043299465|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "adamaru"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-10-06 14:46"
+}
