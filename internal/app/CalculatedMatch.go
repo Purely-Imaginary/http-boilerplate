@@ -100,7 +100,6 @@ func GetLastMatchesFromDB(amount int) []CalculatedMatch {
 	var cms []CalculatedMatch
 	err := DBEngine.Order("id DESC").
 		Limit(amount).
-		Preload("Goals").
 		Preload("RedTeam").
 		Preload("BlueTeam").
 		Preload("RedTeam.Players").

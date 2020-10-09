@@ -120,22 +120,37 @@ func findTeams(w http.ResponseWriter, r *http.Request) {
 		}
 	}
 	var teamRed, teamBlue []Player
-
+	var redRatingSum, blueRatingSum = float32(0.0), float32(0.0)
 	for i := 0; i < len(allPermutations[permID])/2; i++ {
 		teamRed = append(teamRed, *playerData[allPermutations[permID][i]])
+		redRatingSum += playerData[allPermutations[permID][i]].Rating
 	}
 	for i := len(allPermutations[permID]) / 2; i < len(allPermutations[permID]); i++ {
 		teamBlue = append(teamBlue, *playerData[allPermutations[permID][i]])
+		blueRatingSum += playerData[allPermutations[permID][i]].Rating
 	}
 	diff := float32(minDiff) / float32(len(teamRed))
+	redRating := float64(float32(redRatingSum) / float32(len(teamRed)))
+	blueRating := float64(float32(blueRatingSum) / float32(len(teamRed)))
+
+	redChangePerGoal, blueChangePerGoal := CalculateFromRatings(float32(redRating), float32(blueRating), len(teamRed))
+
 	outputData := struct {
-		Red  []Player
-		Blue []Player
-		Diff float32
+		Red        []Player
+		Blue       []Player
+		Diff       float32
+		BlueRating int
+		RedRating  int
+		BlueChange float32
+		RedChange  float32
 	}{
 		teamRed,
 		teamBlue,
 		diff,
+		int(math.Round(blueRating)),
+		int(math.Round(redRating)),
+		redChangePerGoal,
+		blueChangePerGoal,
 	}
 	outputMessage, err := json.Marshal(&outputData)
 	Check(err)

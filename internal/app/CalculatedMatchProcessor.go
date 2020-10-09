@@ -68,6 +68,22 @@ func processTime(timeString string) int64 {
 	return t.Unix()
 }
 
+// CalculateFromRatings .
+func CalculateFromRatings(red float32, blue float32, players int) (float32, float32) {
+	kCoefficient := float32(250)
+
+	ratingDifference := red - blue
+	powerPiece := math.Pow(10, float64(ratingDifference/400))
+	winChance := float32(1 / (1 + powerPiece))
+
+	redPoints := (((float32(1-winChance) / 10) * float32(1)) + winChance)
+	bluePoints := (((float32(winChance) / 10) * float32(-1)) + winChance)
+	redRatingChange := float32(math.Abs(float64(((redPoints - winChance) * kCoefficient) / float32(players))))
+	blueRatingChange := float32(math.Abs(float64(((bluePoints - winChance) * kCoefficient) / float32(players))))
+
+	return redRatingChange, blueRatingChange
+}
+
 func calculateRatingChange(calculatedMatch CalculatedMatch) float32 {
 	kCoefficient := float32(250)
 
