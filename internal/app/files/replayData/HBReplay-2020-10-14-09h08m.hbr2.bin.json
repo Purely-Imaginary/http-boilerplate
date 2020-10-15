@@ -1,0 +1,46 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 108.533,
+            "goalSide": "Blue",
+            "goalSpeed": 5.892,
+            "goalTime": 108.717,
+            "goalTravelTime": 0.184
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 165.433,
+            "goalSide": "Red",
+            "goalSpeed": 4.155,
+            "goalTime": 166.067,
+            "goalTravelTime": 0.634
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 506.5,
+            "goalSide": "Blue",
+            "goalSpeed": 3.85,
+            "goalTime": 507.367,
+            "goalTravelTime": 0.867
+        }
+    ],
+    "rawPositionsAtEnd": "-340.9549927818379--88.74885443305543|-61.28190324998044--70.58166429844984|-243.87717132070824--81.10663157213455|-165.34727881973933-84.0722443079301|",
+    "score": {
+        "Blue": 2,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2020-10-14 09:08"
+}

@@ -1,0 +1,40 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 103.95,
+            "goalSide": "Blue",
+            "goalSpeed": 4.338,
+            "goalTime": 104.2,
+            "goalTravelTime": 0.25
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 145.383,
+            "goalSide": "Blue",
+            "goalSpeed": 4.003,
+            "goalTime": 146.183,
+            "goalTravelTime": 0.8
+        }
+    ],
+    "rawPositionsAtEnd": "-196.3251508758918-51.09200486364057|-18.35360786096704--203.67962892584748|111.94392448015921--202.82614727237157|20.62893105623865-69.69661099424233|-61.04257184615178-39.63573748790833|",
+    "score": {
+        "Blue": 2,
+        "Red": 0
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "Nelson Mandela",
+            "K-rol"
+        ]
+    },
+    "time": "2020-10-15 10:36"
+}

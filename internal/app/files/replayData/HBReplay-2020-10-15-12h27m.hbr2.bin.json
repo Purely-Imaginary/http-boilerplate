@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 53.633,
+            "goalSide": "Blue",
+            "goalSpeed": 6.42,
+            "goalTime": 53.767,
+            "goalTravelTime": 0.134
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 164.733,
+            "goalSide": "Blue",
+            "goalSpeed": 1.958,
+            "goalTime": 166.783,
+            "goalTravelTime": 2.05
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 186.383,
+            "goalSide": "Blue",
+            "goalSpeed": 4.167,
+            "goalTime": 187.217,
+            "goalTravelTime": 0.834
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 302.117,
+            "goalSide": "Blue",
+            "goalSpeed": 1.653,
+            "goalTime": 304.283,
+            "goalTravelTime": 2.166
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 430.183,
+            "goalSide": "Blue",
+            "goalSpeed": 2.457,
+            "goalTime": 431.283,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 543.883,
+            "goalSide": "Red",
+            "goalSpeed": 2.278,
+            "goalTime": 545.633,
+            "goalTravelTime": 1.75
+        }
+    ],
+    "rawPositionsAtEnd": "-240.26881910894127-100.72506449078782|-535.0796704206552-25.034044801206313|-481.46580172466275--128.41693556539113|-518.1006779936399-187.61639137364762|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-10-15 12:27"
+}

@@ -1,0 +1,48 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 43.433,
+            "goalSide": "Red",
+            "goalSpeed": 1.332,
+            "goalTime": 45.25,
+            "goalTravelTime": 1.817
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 75.133,
+            "goalSide": "Red",
+            "goalSpeed": 2.477,
+            "goalTime": 76.717,
+            "goalTravelTime": 1.584
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 368.817,
+            "goalSide": "Blue",
+            "goalSpeed": 1.955,
+            "goalTime": 371.45,
+            "goalTravelTime": 2.633
+        }
+    ],
+    "rawPositionsAtEnd": "-224.06884240421755-77.87095896201176|-438.94980943510336-12.570143640498388|-494.4799927493337--255.0|-521.1099102199555--217.92011718914435|-307.25265908076636--121.76775253746318|-527.9231035399239--54.80039611842296|",
+    "score": {
+        "Blue": 1,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Nelson Mandela",
+            "K-rol",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "adamaru",
+            "ToPP",
+            "hubigz"
+        ]
+    },
+    "time": "2020-10-13 08:41"
+}

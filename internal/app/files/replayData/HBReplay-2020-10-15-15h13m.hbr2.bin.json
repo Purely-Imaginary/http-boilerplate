@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 143.267,
+            "goalSide": "Blue",
+            "goalSpeed": 2.161,
+            "goalTime": 144.883,
+            "goalTravelTime": 1.616
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 211.15,
+            "goalSide": "Blue",
+            "goalSpeed": 1.301,
+            "goalTime": 213.5,
+            "goalTravelTime": 2.35
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 291.783,
+            "goalSide": "Red",
+            "goalSpeed": 0.729,
+            "goalTime": 293.617,
+            "goalTravelTime": 1.834
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 303.55,
+            "goalSide": "Blue",
+            "goalSpeed": 6.643,
+            "goalTime": 303.983,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 347.317,
+            "goalSide": "Blue",
+            "goalSpeed": 1.461,
+            "goalTime": 349.633,
+            "goalTravelTime": 2.316
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 562.283,
+            "goalSide": "Red",
+            "goalSpeed": 1.783,
+            "goalTime": 563.117,
+            "goalTravelTime": 0.834
+        }
+    ],
+    "rawPositionsAtEnd": "387.03678401224676--14.87216896398202|385.054745339903-109.56591043830875|269.4009092883605--87.14503786725346|253.61036848704902-67.4174672996834|-372.5336641063447-214.28795969813987|423.222458419639-146.2908929818129|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Nelson Mandela",
+            "hubigz",
+            "adamaru"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Amman",
+            "ToPP"
+        ]
+    },
+    "time": "2020-10-15 15:13"
+}

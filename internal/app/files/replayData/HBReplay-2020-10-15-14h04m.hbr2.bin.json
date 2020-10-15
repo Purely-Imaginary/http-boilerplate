@@ -1,0 +1,48 @@
+{
+    "gameTime": 626.1,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 297.167,
+            "goalSide": "Red",
+            "goalSpeed": 3.096,
+            "goalTime": 298.083,
+            "goalTravelTime": 0.916
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 507.833,
+            "goalSide": "Blue",
+            "goalSpeed": 4.934,
+            "goalTime": 508.383,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 625.5,
+            "goalSide": "Blue",
+            "goalSpeed": 4.617,
+            "goalTime": 626.1,
+            "goalTravelTime": 0.6
+        }
+    ],
+    "rawPositionsAtEnd": "472.9380358751031--5.89024111923709|-427.5992903316575-29.63373477907635|-35.78278506021752-119.02052272769679|-227.33540121083115--39.93656454293578|-194.040409137683--97.99956502302058|-101.51148048051553-30.080112248244745|",
+    "score": {
+        "Blue": 2,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "Nelson Mandela",
+            "hubigz"
+        ],
+        "Red": [
+            "Amman",
+            "ToPP",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-10-15 14:04"
+}

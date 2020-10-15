@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 205.017,
+            "goalSide": "Blue",
+            "goalSpeed": 5.763,
+            "goalTime": 205.217,
+            "goalTravelTime": 0.2
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 247.6,
+            "goalSide": "Blue",
+            "goalSpeed": 0.868,
+            "goalTime": 250.417,
+            "goalTravelTime": 2.817
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 397.783,
+            "goalSide": "Red",
+            "goalSpeed": 1.302,
+            "goalTime": 399.167,
+            "goalTravelTime": 1.384
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 399.933,
+            "goalSide": "Blue",
+            "goalSpeed": 0.713,
+            "goalTime": 403.383,
+            "goalTravelTime": 3.45
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 581.733,
+            "goalSide": "Blue",
+            "goalSpeed": 3.297,
+            "goalTime": 582.533,
+            "goalTravelTime": 0.8
+        }
+    ],
+    "rawPositionsAtEnd": "109.2786964241505-127.42701051730079|448.29542245514466-137.62310004003731|318.74105857805984-220.68712086826233|233.39729574313452--6.81940288842572|",
+    "score": {
+        "Blue": 4,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "ToPP"
+        ]
+    },
+    "time": "2020-10-13 10:11"
+}

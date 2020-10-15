@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 52.883,
+            "goalSide": "Red",
+            "goalSpeed": 3.567,
+            "goalTime": 53.767,
+            "goalTravelTime": 0.884
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 168.783,
+            "goalSide": "Red",
+            "goalSpeed": 6.325,
+            "goalTime": 168.9,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 182.133,
+            "goalSide": "Red",
+            "goalSpeed": 7.094,
+            "goalTime": 182.417,
+            "goalTravelTime": 0.284
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 312.183,
+            "goalSide": "Red",
+            "goalSpeed": 1.262,
+            "goalTime": 312.317,
+            "goalTravelTime": 0.134
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 371.5,
+            "goalSide": "Blue",
+            "goalSpeed": 3.76,
+            "goalTime": 372.3,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 578.467,
+            "goalSide": "Blue",
+            "goalSpeed": 2.867,
+            "goalTime": 579.883,
+            "goalTravelTime": 1.416
+        }
+    ],
+    "rawPositionsAtEnd": "-74.2293953251989-23.11214909514849|-98.91414801165381-154.1230431671811|-174.7914826788695-65.74803193550848|-197.8551975513148-246.0678979329105|",
+    "score": {
+        "Blue": 2,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "adamaru",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2020-10-12 15:27"
+}

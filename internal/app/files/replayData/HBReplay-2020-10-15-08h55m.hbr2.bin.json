@@ -1,0 +1,110 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 6.433,
+            "goalSide": "Red",
+            "goalSpeed": 2.599,
+            "goalTime": 7.783,
+            "goalTravelTime": 1.35
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 204.867,
+            "goalSide": "Red",
+            "goalSpeed": 1.91,
+            "goalTime": 206.767,
+            "goalTravelTime": 1.9
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 218.3,
+            "goalSide": "Red",
+            "goalSpeed": 1.75,
+            "goalTime": 220.55,
+            "goalTravelTime": 2.25
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 225.533,
+            "goalSide": "Blue",
+            "goalSpeed": 3.392,
+            "goalTime": 225.983,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 241.283,
+            "goalSide": "Blue",
+            "goalSpeed": 3.818,
+            "goalTime": 242.217,
+            "goalTravelTime": 0.934
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 246.483,
+            "goalSide": "Red",
+            "goalSpeed": 6.096,
+            "goalTime": 246.95,
+            "goalTravelTime": 0.467
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 270.65,
+            "goalSide": "Red",
+            "goalSpeed": 2.676,
+            "goalTime": 272.083,
+            "goalTravelTime": 1.433
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 324.633,
+            "goalSide": "Blue",
+            "goalSpeed": 2.275,
+            "goalTime": 326.25,
+            "goalTravelTime": 1.617
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 471.417,
+            "goalSide": "Red",
+            "goalSpeed": 0.78,
+            "goalTime": 474.65,
+            "goalTravelTime": 3.233
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 503.75,
+            "goalSide": "Red",
+            "goalSpeed": 6.225,
+            "goalTime": 504.5,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 531.233,
+            "goalSide": "Red",
+            "goalSpeed": 4.069,
+            "goalTime": 531.683,
+            "goalTravelTime": 0.45
+        }
+    ],
+    "rawPositionsAtEnd": "-281.5152415593862--47.518540885864915|-262.95478990684535--86.05581194259429|144.48997527382772--26.243632761837283|-75.24181160478943-112.98422853852422|",
+    "score": {
+        "Blue": 3,
+        "Red": 8
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "adamaru"
+        ]
+    },
+    "time": "2020-10-15 08:55"
+}

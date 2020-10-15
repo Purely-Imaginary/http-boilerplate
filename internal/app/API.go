@@ -3,11 +3,13 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"net/http"
 	"strconv"
 )
 
 func prepareData(data interface{}, w http.ResponseWriter, r *http.Request) string {
+	log.Println("Preparing data for ")
 	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Header().Set("Content-Type", "application/json")
 	outputMessage, err := json.Marshal(&data)
