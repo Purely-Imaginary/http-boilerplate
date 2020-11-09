@@ -1,0 +1,110 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 179.5,
+            "goalSide": "Blue",
+            "goalSpeed": 1.63,
+            "goalTime": 181.817,
+            "goalTravelTime": 2.317
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 253.583,
+            "goalSide": "Blue",
+            "goalSpeed": 2.228,
+            "goalTime": 255.467,
+            "goalTravelTime": 1.884
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 308.183,
+            "goalSide": "Blue",
+            "goalSpeed": 2.371,
+            "goalTime": 309.767,
+            "goalTravelTime": 1.584
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 358.8,
+            "goalSide": "Red",
+            "goalSpeed": 6.16,
+            "goalTime": 359.133,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 415.4,
+            "goalSide": "Red",
+            "goalSpeed": 2.605,
+            "goalTime": 416.517,
+            "goalTravelTime": 1.117
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 419.0,
+            "goalSide": "Blue",
+            "goalSpeed": 1.927,
+            "goalTime": 420.867,
+            "goalTravelTime": 1.867
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 424.133,
+            "goalSide": "Blue",
+            "goalSpeed": 3.917,
+            "goalTime": 425.083,
+            "goalTravelTime": 0.95
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 478.45,
+            "goalSide": "Red",
+            "goalSpeed": 4.582,
+            "goalTime": 478.567,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 501.583,
+            "goalSide": "Red",
+            "goalSpeed": 3.529,
+            "goalTime": 502.633,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 526.217,
+            "goalSide": "Blue",
+            "goalSpeed": 2.062,
+            "goalTime": 528.033,
+            "goalTravelTime": 1.816
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 584.4,
+            "goalSide": "Red",
+            "goalSpeed": 2.398,
+            "goalTime": 584.733,
+            "goalTravelTime": 0.333
+        }
+    ],
+    "rawPositionsAtEnd": "200.99039930570896--94.2320031660303|167.18555980316896--84.111170888783|-317.01983847941233--214.1608241105311|",
+    "score": {
+        "Blue": 6,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "K-rol"
+        ]
+    },
+    "time": "2020-10-26 09:22"
+}

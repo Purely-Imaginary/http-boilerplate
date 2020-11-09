@@ -1,0 +1,126 @@
+{
+    "gameTime": 439.233,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 3.733,
+            "goalSide": "Red",
+            "goalSpeed": 3.623,
+            "goalTime": 4.25,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 116.967,
+            "goalSide": "Red",
+            "goalSpeed": 0.934,
+            "goalTime": 120.333,
+            "goalTravelTime": 3.366
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 133.1,
+            "goalSide": "Blue",
+            "goalSpeed": 4.601,
+            "goalTime": 133.533,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 192.533,
+            "goalSide": "Red",
+            "goalSpeed": 1.252,
+            "goalTime": 195.567,
+            "goalTravelTime": 3.034
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 221.0,
+            "goalSide": "Red",
+            "goalSpeed": 3.603,
+            "goalTime": 221.067,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 238.833,
+            "goalSide": "Red",
+            "goalSpeed": 3.099,
+            "goalTime": 239.267,
+            "goalTravelTime": 0.434
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 246.833,
+            "goalSide": "Blue",
+            "goalSpeed": 4.985,
+            "goalTime": 248.133,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 263.333,
+            "goalSide": "Red",
+            "goalSpeed": 4.753,
+            "goalTime": 263.983,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 270.433,
+            "goalSide": "Red",
+            "goalSpeed": 4.06,
+            "goalTime": 271.417,
+            "goalTravelTime": 0.984
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 291.283,
+            "goalSide": "Red",
+            "goalSpeed": 4.498,
+            "goalTime": 292.033,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 396.917,
+            "goalSide": "Red",
+            "goalSpeed": 6.373,
+            "goalTime": 396.983,
+            "goalTravelTime": 0.066
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 403.617,
+            "goalSide": "Blue",
+            "goalSpeed": 5.164,
+            "goalTime": 403.917,
+            "goalTravelTime": 0.3
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 438.883,
+            "goalSide": "Red",
+            "goalSpeed": 7.067,
+            "goalTime": 439.233,
+            "goalTravelTime": 0.35
+        }
+    ],
+    "rawPositionsAtEnd": "501.3230553605306--1.8622393782476487|44.182192379118824-230.79941991695077|356.5605628426201-99.06774852802405|507.45850342685964--54.71174196063245|",
+    "score": {
+        "Blue": 3,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-11-09 13:31"
+}

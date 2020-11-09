@@ -1,0 +1,30 @@
+{
+    "gameTime": 240.0,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 133.083,
+            "goalSide": "Red",
+            "goalSpeed": 4.444,
+            "goalTime": 133.867,
+            "goalTravelTime": 0.784
+        }
+    ],
+    "rawPositionsAtEnd": "200.6461448390896--73.44246295047621|432.79452093345014--22.829912149821|416.25832265207396--195.10495651488242|239.15945912936868--63.04162543785907|",
+    "score": {
+        "Blue": 0,
+        "Red": 1
+    },
+    "startingGameTime": 0.0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "K-rol"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2020-10-19 12:23"
+}

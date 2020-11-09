@@ -1,0 +1,86 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 94.367,
+            "goalSide": "Blue",
+            "goalSpeed": 3.461,
+            "goalTime": 95.283,
+            "goalTravelTime": 0.916
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 149.733,
+            "goalSide": "Blue",
+            "goalSpeed": 1.218,
+            "goalTime": 151.8,
+            "goalTravelTime": 2.067
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 243.05,
+            "goalSide": "Red",
+            "goalSpeed": 5.395,
+            "goalTime": 243.2,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 317.217,
+            "goalSide": "Red",
+            "goalSpeed": 5.634,
+            "goalTime": 317.4,
+            "goalTravelTime": 0.183
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 370.433,
+            "goalSide": "Blue",
+            "goalSpeed": 0.77,
+            "goalTime": 372.8,
+            "goalTravelTime": 2.367
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 399.933,
+            "goalSide": "Blue",
+            "goalSpeed": 5.454,
+            "goalTime": 401.45,
+            "goalTravelTime": 1.517
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 419.217,
+            "goalSide": "Red",
+            "goalSpeed": 5.491,
+            "goalTime": 419.417,
+            "goalTravelTime": 0.2
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 504.533,
+            "goalSide": "Blue",
+            "goalSpeed": 4.066,
+            "goalTime": 504.85,
+            "goalTravelTime": 0.317
+        }
+    ],
+    "rawPositionsAtEnd": "7.650461223631764--253.0621255479283|320.23829081618914--32.90810700095146|532.7518192834109--101.17030278603453|178.8910581029637--89.15693409826268|",
+    "score": {
+        "Blue": 5,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "K-rol"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-11-02 10:17"
+}

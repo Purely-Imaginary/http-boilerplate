@@ -1,0 +1,62 @@
+{
+    "gameTime": 240.0,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 24.467,
+            "goalSide": "Red",
+            "goalSpeed": 0.966,
+            "goalTime": 26.967,
+            "goalTravelTime": 2.5
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 135.8,
+            "goalSide": "Red",
+            "goalSpeed": 2.577,
+            "goalTime": 137.4,
+            "goalTravelTime": 1.6
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 170.0,
+            "goalSide": "Blue",
+            "goalSpeed": 6.056,
+            "goalTime": 170.133,
+            "goalTravelTime": 0.133
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 184.633,
+            "goalSide": "Red",
+            "goalSpeed": 1.346,
+            "goalTime": 187.4,
+            "goalTravelTime": 2.767
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 225.267,
+            "goalSide": "Red",
+            "goalSpeed": 1.379,
+            "goalTime": 227.867,
+            "goalTravelTime": 2.6
+        }
+    ],
+    "rawPositionsAtEnd": "158.16613651629487-167.96141743647908|-5.828332496523604-28.525172501089365|204.5505395117689--67.06828529179184|285.04048813084165-0.6538236932159315|",
+    "score": {
+        "Blue": 1,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Amman"
+        ]
+    },
+    "time": "2020-10-19 12:19"
+}

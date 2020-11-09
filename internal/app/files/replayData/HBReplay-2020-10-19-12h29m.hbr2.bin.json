@@ -1,0 +1,78 @@
+{
+    "gameTime": 240.0,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 25.783,
+            "goalSide": "Red",
+            "goalSpeed": 1.651,
+            "goalTime": 28.167,
+            "goalTravelTime": 2.384
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 64.95,
+            "goalSide": "Red",
+            "goalSpeed": 4.67,
+            "goalTime": 65.367,
+            "goalTravelTime": 0.417
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 96.917,
+            "goalSide": "Red",
+            "goalSpeed": 2.314,
+            "goalTime": 98.667,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 121.967,
+            "goalSide": "Red",
+            "goalSpeed": 4.287,
+            "goalTime": 122.05,
+            "goalTravelTime": 0.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 148.483,
+            "goalSide": "Red",
+            "goalSpeed": 1.655,
+            "goalTime": 149.2,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 158.9,
+            "goalSide": "Red",
+            "goalSpeed": 2.429,
+            "goalTime": 159.867,
+            "goalTravelTime": 0.967
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 199.25,
+            "goalSide": "Red",
+            "goalSpeed": 1.546,
+            "goalTime": 201.567,
+            "goalTravelTime": 2.317
+        }
+    ],
+    "rawPositionsAtEnd": "126.27132334084924--130.5448452350343|-130.33815046103516--76.26982757708409|-187.6133740441726--90.96947588315042|-373.0185675515308--183.7354494885866|",
+    "score": {
+        "Blue": 0,
+        "Red": 7
+    },
+    "startingGameTime": 0.0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "Amman"
+        ],
+        "Red": [
+            "K-rol",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-10-19 12:29"
+}

@@ -1,0 +1,46 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 318.617,
+            "goalSide": "Blue",
+            "goalSpeed": 5.475,
+            "goalTime": 319.983,
+            "goalTravelTime": 1.366
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 414.033,
+            "goalSide": "Red",
+            "goalSpeed": 2.272,
+            "goalTime": 415.8,
+            "goalTravelTime": 1.767
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 530.817,
+            "goalSide": "Red",
+            "goalSpeed": 2.651,
+            "goalTime": 531.85,
+            "goalTravelTime": 1.033
+        }
+    ],
+    "rawPositionsAtEnd": "-53.51467293219499--68.34612438608035|-108.88245953868346-81.334817387432|58.4778911440261--65.5426573352358|135.0004796558389--105.43372937091029|",
+    "score": {
+        "Blue": 1,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Amman"
+        ]
+    },
+    "time": "2020-11-05 15:33"
+}

@@ -1,0 +1,46 @@
+{
+    "gameTime": 640.2,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 394.283,
+            "goalSide": "Blue",
+            "goalSpeed": 4.785,
+            "goalTime": 395.017,
+            "goalTravelTime": 0.734
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 406.117,
+            "goalSide": "Red",
+            "goalSpeed": 5.083,
+            "goalTime": 406.217,
+            "goalTravelTime": 0.1
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 639.95,
+            "goalSide": "Blue",
+            "goalSpeed": 5.721,
+            "goalTime": 640.2,
+            "goalTravelTime": 0.25
+        }
+    ],
+    "rawPositionsAtEnd": "-585.0--33.66460806561823|-365.1286948977559-48.2611627573494|-483.3515304023444--24.73364843816716|-500.2261139809429-49.60222186843974|",
+    "score": {
+        "Blue": 2,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "K-rol"
+        ],
+        "Red": [
+            "ToPP",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2020-10-22 15:17"
+}

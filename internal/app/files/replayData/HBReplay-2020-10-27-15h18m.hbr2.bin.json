@@ -1,0 +1,48 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 390.55,
+            "goalSide": "Red",
+            "goalSpeed": 5.881,
+            "goalTime": 390.8,
+            "goalTravelTime": 0.25
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 407.867,
+            "goalSide": "Blue",
+            "goalSpeed": 3.127,
+            "goalTime": 408.983,
+            "goalTravelTime": 1.116
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 582.433,
+            "goalSide": "Red",
+            "goalSpeed": 2.215,
+            "goalTime": 584.283,
+            "goalTravelTime": 1.85
+        }
+    ],
+    "rawPositionsAtEnd": "-169.1707095478587--37.99697190266055|-234.30859091351297--220.8176577625914|-161.197050902488--255.0|-181.1810818135207--187.50308860022676|-370.0811348471522--101.83255944571145|-169.13491544931142--111.01990648361503|",
+    "score": {
+        "Blue": 1,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Amman",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "hubigz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-10-27 15:18"
+}

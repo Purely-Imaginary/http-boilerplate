@@ -1,0 +1,54 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Toperz",
+            "goalShotTime": 439.75,
+            "goalSide": "Red",
+            "goalSpeed": 2.468,
+            "goalTime": 441.433,
+            "goalTravelTime": 1.683
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 458.317,
+            "goalSide": "Blue",
+            "goalSpeed": 4.035,
+            "goalTime": 459.033,
+            "goalTravelTime": 0.716
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 503.467,
+            "goalSide": "Blue",
+            "goalSpeed": 5.241,
+            "goalTime": 503.967,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "adamaru",
+            "goalShotTime": 519.367,
+            "goalSide": "Blue",
+            "goalSpeed": 2.11,
+            "goalTime": 520.533,
+            "goalTravelTime": 1.166
+        }
+    ],
+    "rawPositionsAtEnd": "507.9081981249244-88.97577197558994|116.76622641534244--62.88081730210695|295.6904262008032-53.544499106009006|274.54987122948484-137.7317967330288|",
+    "score": {
+        "Blue": 3,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "adamaru"
+        ],
+        "Red": [
+            "Toperz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-10-21 09:37"
+}

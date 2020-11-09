@@ -1,0 +1,104 @@
+{
+    "gameTime": 583.867,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 86.917,
+            "goalSide": "Blue",
+            "goalSpeed": 5.068,
+            "goalTime": 87.25,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 177.133,
+            "goalSide": "Blue",
+            "goalSpeed": 5.885,
+            "goalTime": 177.233,
+            "goalTravelTime": 0.1
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 274.933,
+            "goalSide": "Blue",
+            "goalSpeed": 2.55,
+            "goalTime": 275.933,
+            "goalTravelTime": 1.0
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 310.517,
+            "goalSide": "Blue",
+            "goalSpeed": 1.067,
+            "goalTime": 312.5,
+            "goalTravelTime": 1.983
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 328.183,
+            "goalSide": "Blue",
+            "goalSpeed": 1.172,
+            "goalTime": 331.083,
+            "goalTravelTime": 2.9
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 400.75,
+            "goalSide": "Blue",
+            "goalSpeed": 3.035,
+            "goalTime": 401.217,
+            "goalTravelTime": 0.467
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 437.517,
+            "goalSide": "Blue",
+            "goalSpeed": 4.616,
+            "goalTime": 437.9,
+            "goalTravelTime": 0.383
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 482.883,
+            "goalSide": "Blue",
+            "goalSpeed": 3.876,
+            "goalTime": 483.533,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 564.85,
+            "goalSide": "Blue",
+            "goalSpeed": 1.653,
+            "goalTime": 566.633,
+            "goalTravelTime": 1.783
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 583.45,
+            "goalSide": "Blue",
+            "goalSpeed": 4.326,
+            "goalTime": 583.867,
+            "goalTravelTime": 0.417
+        }
+    ],
+    "rawPositionsAtEnd": "-464.86633206964535-22.148573259251673|-489.5897249569105--72.1868017443824|-354.212475032964--48.7402136953205|-389.73464708655166-59.78255139082096|-513.6663264989093-45.45205186849575|",
+    "score": {
+        "Blue": 10,
+        "Red": 0
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Amman",
+            "K-rol"
+        ],
+        "Red": [
+            "hubigz",
+            "ToPP",
+            "rybak"
+        ]
+    },
+    "time": "2020-10-23 14:07"
+}

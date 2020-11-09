@@ -1,0 +1,118 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 37.817,
+            "goalSide": "Blue",
+            "goalSpeed": 5.147,
+            "goalTime": 38.083,
+            "goalTravelTime": 0.266
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 85.217,
+            "goalSide": "Blue",
+            "goalSpeed": 4.222,
+            "goalTime": 85.867,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 120.717,
+            "goalSide": "Blue",
+            "goalSpeed": 1.442,
+            "goalTime": 123.217,
+            "goalTravelTime": 2.5
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 134.467,
+            "goalSide": "Red",
+            "goalSpeed": 3.074,
+            "goalTime": 134.9,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 152.75,
+            "goalSide": "Blue",
+            "goalSpeed": 0.701,
+            "goalTime": 159.2,
+            "goalTravelTime": 6.45
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 181.167,
+            "goalSide": "Red",
+            "goalSpeed": 0.88,
+            "goalTime": 184.617,
+            "goalTravelTime": 3.45
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 315.4,
+            "goalSide": "Red",
+            "goalSpeed": 1.914,
+            "goalTime": 317.483,
+            "goalTravelTime": 2.083
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 335.167,
+            "goalSide": "Red",
+            "goalSpeed": 4.258,
+            "goalTime": 335.833,
+            "goalTravelTime": 0.666
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 339.933,
+            "goalSide": "Blue",
+            "goalSpeed": 2.96,
+            "goalTime": 341.133,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 535.15,
+            "goalSide": "Blue",
+            "goalSpeed": 0.936,
+            "goalTime": 538.233,
+            "goalTravelTime": 3.083
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 574.333,
+            "goalSide": "Red",
+            "goalSpeed": 3.007,
+            "goalTime": 575.467,
+            "goalTravelTime": 1.134
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 575.567,
+            "goalSide": "Blue",
+            "goalSpeed": 1.028,
+            "goalTime": 578.4,
+            "goalTravelTime": 2.833
+        }
+    ],
+    "rawPositionsAtEnd": "389.55806253127196--53.96775696610264|244.21599212941885--56.070366824082676|101.0202224610105-4.860485219841149|178.9674572227294--235.45217214195327|",
+    "score": {
+        "Blue": 7,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-10-30 15:31"
+}

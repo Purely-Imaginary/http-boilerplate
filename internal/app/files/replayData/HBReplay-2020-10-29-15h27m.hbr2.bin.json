@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 49.617,
+            "goalSide": "Blue",
+            "goalSpeed": 2.315,
+            "goalTime": 51.233,
+            "goalTravelTime": 1.616
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 104.667,
+            "goalSide": "Red",
+            "goalSpeed": 0.866,
+            "goalTime": 107.667,
+            "goalTravelTime": 3.0
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 381.183,
+            "goalSide": "Blue",
+            "goalSpeed": 3.689,
+            "goalTime": 382.033,
+            "goalTravelTime": 0.85
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 490.867,
+            "goalSide": "Blue",
+            "goalSpeed": 2.226,
+            "goalTime": 492.717,
+            "goalTravelTime": 1.85
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 558.567,
+            "goalSide": "Blue",
+            "goalSpeed": 1.62,
+            "goalTime": 560.433,
+            "goalTravelTime": 1.866
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 595.083,
+            "goalSide": "Blue",
+            "goalSpeed": 1.402,
+            "goalTime": 596.0,
+            "goalTravelTime": 0.917
+        }
+    ],
+    "rawPositionsAtEnd": "198.22603247528312--63.13861515947892|171.7719801050745--15.563497382006672|391.1814052373659--57.980679938863105|525.3907921281142--64.92001233675629|453.287051414556--123.38303984189488|303.45502082804927--72.51747714603512|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "ToPP",
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2020-10-29 15:27"
+}

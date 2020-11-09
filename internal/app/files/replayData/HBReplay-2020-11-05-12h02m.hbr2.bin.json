@@ -1,0 +1,64 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 78.4,
+            "goalSide": "Blue",
+            "goalSpeed": 3.814,
+            "goalTime": 78.683,
+            "goalTravelTime": 0.283
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 135.533,
+            "goalSide": "Red",
+            "goalSpeed": 3.812,
+            "goalTime": 136.433,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 317.5,
+            "goalSide": "Blue",
+            "goalSpeed": 5.347,
+            "goalTime": 317.65,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 371.433,
+            "goalSide": "Red",
+            "goalSpeed": 1.079,
+            "goalTime": 372.733,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 480.367,
+            "goalSide": "Red",
+            "goalSpeed": 3.634,
+            "goalTime": 481.417,
+            "goalTravelTime": 1.05
+        }
+    ],
+    "rawPositionsAtEnd": "-153.16966742774892--52.740516355159166|-349.71928897558035--92.57217019462597|145.53457027751762--146.02916656326667|-259.06353920438767--54.201724500846424|-398.7037404657341-140.12963743868195|-219.69134374034192-15.47653237663656|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP",
+            "Amman"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela",
+            "K-rol"
+        ]
+    },
+    "time": "2020-11-05 12:02"
+}
