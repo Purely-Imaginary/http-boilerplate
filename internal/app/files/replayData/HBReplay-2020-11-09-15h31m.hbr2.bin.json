@@ -1,0 +1,80 @@
+{
+    "gameTime": 750.283,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 220.233,
+            "goalSide": "Blue",
+            "goalSpeed": 0.698,
+            "goalTime": 222.017,
+            "goalTravelTime": 1.784
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 248.183,
+            "goalSide": "Blue",
+            "goalSpeed": 0.95,
+            "goalTime": 250.683,
+            "goalTravelTime": 2.5
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 429.367,
+            "goalSide": "Blue",
+            "goalSpeed": 2.275,
+            "goalTime": 430.533,
+            "goalTravelTime": 1.166
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 443.55,
+            "goalSide": "Red",
+            "goalSpeed": 2.436,
+            "goalTime": 444.767,
+            "goalTravelTime": 1.217
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 476.35,
+            "goalSide": "Red",
+            "goalSpeed": 1.051,
+            "goalTime": 478.4,
+            "goalTravelTime": 2.05
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 504.133,
+            "goalSide": "Red",
+            "goalSpeed": 4.326,
+            "goalTime": 505.183,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 748.2,
+            "goalSide": "Blue",
+            "goalSpeed": 3.728,
+            "goalTime": 750.283,
+            "goalTravelTime": 2.083
+        }
+    ],
+    "rawPositionsAtEnd": "-428.90369878599824--13.216321739243128|-158.82080749046733-21.997796316126447|-243.20011181753867-53.82937921541971|-506.0209679090351-7.5959598186105755|-554.5463438678379-11.003595134795434|-503.63319351797327--43.662131096080905|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "K-rol",
+            "ToPP",
+            "hubigz"
+        ]
+    },
+    "time": "2020-11-09 15:31"
+}

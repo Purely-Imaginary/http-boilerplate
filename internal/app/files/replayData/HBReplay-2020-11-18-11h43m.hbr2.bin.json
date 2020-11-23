@@ -1,0 +1,80 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 80.683,
+            "goalSide": "Blue",
+            "goalSpeed": 4.054,
+            "goalTime": 81.2,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 114.867,
+            "goalSide": "Red",
+            "goalSpeed": 1.554,
+            "goalTime": 116.75,
+            "goalTravelTime": 1.883
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 126.133,
+            "goalSide": "Red",
+            "goalSpeed": 2.41,
+            "goalTime": 127.75,
+            "goalTravelTime": 1.617
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 252.833,
+            "goalSide": "Blue",
+            "goalSpeed": 4.808,
+            "goalTime": 253.45,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 390.667,
+            "goalSide": "Red",
+            "goalSpeed": 3.5,
+            "goalTime": 391.383,
+            "goalTravelTime": 0.716
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 439.517,
+            "goalSide": "Blue",
+            "goalSpeed": 4.487,
+            "goalTime": 439.9,
+            "goalTravelTime": 0.383
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 519.817,
+            "goalSide": "Red",
+            "goalSpeed": 1.172,
+            "goalTime": 520.667,
+            "goalTravelTime": 0.85
+        }
+    ],
+    "rawPositionsAtEnd": "84.38014987503823--61.17823342104331|-116.50262368836438-138.68832342314394|-58.19457334132024-122.16608245767378|114.3200621124866-130.38271784400052|85.66161998677227-64.98378387980597|-166.8582105118228--11.339778054472657|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "Amman",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-11-18 11:43"
+}

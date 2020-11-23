@@ -1,0 +1,142 @@
+{
+    "gameTime": 540.05,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 17.517,
+            "goalSide": "Red",
+            "goalSpeed": 1.746,
+            "goalTime": 17.6,
+            "goalTravelTime": 0.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 99.65,
+            "goalSide": "Red",
+            "goalSpeed": 5.173,
+            "goalTime": 101.367,
+            "goalTravelTime": 1.717
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 128.967,
+            "goalSide": "Red",
+            "goalSpeed": 0.726,
+            "goalTime": 132.583,
+            "goalTravelTime": 3.616
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 180.583,
+            "goalSide": "Blue",
+            "goalSpeed": 4.468,
+            "goalTime": 181.067,
+            "goalTravelTime": 0.484
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 202.567,
+            "goalSide": "Red",
+            "goalSpeed": 5.696,
+            "goalTime": 202.75,
+            "goalTravelTime": 0.183
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 280.85,
+            "goalSide": "Red",
+            "goalSpeed": 2.222,
+            "goalTime": 282.283,
+            "goalTravelTime": 1.433
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 316.25,
+            "goalSide": "Blue",
+            "goalSpeed": 4.037,
+            "goalTime": 316.867,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 322.15,
+            "goalSide": "Blue",
+            "goalSpeed": 2.759,
+            "goalTime": 323.583,
+            "goalTravelTime": 1.433
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 389.933,
+            "goalSide": "Blue",
+            "goalSpeed": 1.082,
+            "goalTime": 392.783,
+            "goalTravelTime": 2.85
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 413.567,
+            "goalSide": "Red",
+            "goalSpeed": 1.789,
+            "goalTime": 416.017,
+            "goalTravelTime": 2.45
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 427.267,
+            "goalSide": "Red",
+            "goalSpeed": 1.492,
+            "goalTime": 429.267,
+            "goalTravelTime": 2.0
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 489.733,
+            "goalSide": "Blue",
+            "goalSpeed": 1.373,
+            "goalTime": 490.917,
+            "goalTravelTime": 1.184
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 515.0,
+            "goalSide": "Red",
+            "goalSpeed": 0.601,
+            "goalTime": 519.333,
+            "goalTravelTime": 4.333
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 531.067,
+            "goalSide": "Red",
+            "goalSpeed": 2.271,
+            "goalTime": 532.95,
+            "goalTravelTime": 1.883
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 538.067,
+            "goalSide": "Red",
+            "goalSpeed": 1.937,
+            "goalTime": 540.05,
+            "goalTravelTime": 1.983
+        }
+    ],
+    "rawPositionsAtEnd": "302.7674456973985-17.42615855043252|461.6165395988754--124.98965252581411|519.4147414339409--2.1860114124981767|",
+    "score": {
+        "Blue": 5,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "rybak",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "ToPP",
+            "K-rol"
+        ]
+    },
+    "time": "2020-11-19 12:05"
+}

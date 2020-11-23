@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 45.817,
+            "goalSide": "Red",
+            "goalSpeed": 4.383,
+            "goalTime": 46.567,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 214.917,
+            "goalSide": "Blue",
+            "goalSpeed": 3.248,
+            "goalTime": 215.9,
+            "goalTravelTime": 0.983
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 315.267,
+            "goalSide": "Red",
+            "goalSpeed": 1.089,
+            "goalTime": 315.85,
+            "goalTravelTime": 0.583
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 548.617,
+            "goalSide": "Red",
+            "goalSpeed": 1.55,
+            "goalTime": 551.117,
+            "goalTravelTime": 2.5
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 584.917,
+            "goalSide": "Blue",
+            "goalSpeed": 0.858,
+            "goalTime": 586.583,
+            "goalTravelTime": 1.666
+        }
+    ],
+    "rawPositionsAtEnd": "-300.94587119022--15.804230463898438|-14.216766813385018-87.61727459702664|-324.0711747096038-147.30604410259338|-128.43069643894964-145.4041420561329|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-11-17 14:35"
+}

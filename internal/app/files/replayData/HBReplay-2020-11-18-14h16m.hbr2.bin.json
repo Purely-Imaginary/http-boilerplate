@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 89.367,
+            "goalSide": "Red",
+            "goalSpeed": 2.807,
+            "goalTime": 90.667,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 176.033,
+            "goalSide": "Blue",
+            "goalSpeed": 2.55,
+            "goalTime": 177.1,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 201.183,
+            "goalSide": "Blue",
+            "goalSpeed": 2.978,
+            "goalTime": 202.767,
+            "goalTravelTime": 1.584
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 405.15,
+            "goalSide": "Blue",
+            "goalSpeed": 6.444,
+            "goalTime": 408.783,
+            "goalTravelTime": 3.633
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 434.483,
+            "goalSide": "Red",
+            "goalSpeed": 2.206,
+            "goalTime": 436.3,
+            "goalTravelTime": 1.817
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 546.65,
+            "goalSide": "Blue",
+            "goalSpeed": 3.713,
+            "goalTime": 547.283,
+            "goalTravelTime": 0.633
+        }
+    ],
+    "rawPositionsAtEnd": "-469.64847297353094-27.731415698482277|-39.93187209640082-209.57270943531782|-144.4815883082446--67.55105567790477|-322.0003094954945-170.17563364681837|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "K-rol"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak"
+        ]
+    },
+    "time": "2020-11-18 14:16"
+}
