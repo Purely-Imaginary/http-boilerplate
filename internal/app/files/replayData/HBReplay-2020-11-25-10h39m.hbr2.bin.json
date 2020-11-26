@@ -1,0 +1,94 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 69.917,
+            "goalSide": "Blue",
+            "goalSpeed": 3.686,
+            "goalTime": 70.417,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 130.6,
+            "goalSide": "Red",
+            "goalSpeed": 3.372,
+            "goalTime": 131.583,
+            "goalTravelTime": 0.983
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 157.633,
+            "goalSide": "Red",
+            "goalSpeed": 1.333,
+            "goalTime": 158.45,
+            "goalTravelTime": 0.817
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 303.517,
+            "goalSide": "Red",
+            "goalSpeed": 5.192,
+            "goalTime": 306.75,
+            "goalTravelTime": 3.233
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 365.9,
+            "goalSide": "Red",
+            "goalSpeed": 2.123,
+            "goalTime": 367.5,
+            "goalTravelTime": 1.6
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 392.833,
+            "goalSide": "Red",
+            "goalSpeed": 2.044,
+            "goalTime": 394.75,
+            "goalTravelTime": 1.917
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 452.133,
+            "goalSide": "Blue",
+            "goalSpeed": 1.949,
+            "goalTime": 454.2,
+            "goalTravelTime": 2.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 545.4,
+            "goalSide": "Red",
+            "goalSpeed": 1.058,
+            "goalTime": 548.233,
+            "goalTravelTime": 2.833
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 578.65,
+            "goalSide": "Red",
+            "goalSpeed": 1.8,
+            "goalTime": 580.8,
+            "goalTravelTime": 2.15
+        }
+    ],
+    "rawPositionsAtEnd": "-479.1542815426084-26.67882345549112|-328.8063592755199-120.18851680290405|-524.5930423474214-95.5246560018184|-278.62806055419287--60.42098996919928|",
+    "score": {
+        "Blue": 2,
+        "Red": 7
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-11-25 10:39"
+}

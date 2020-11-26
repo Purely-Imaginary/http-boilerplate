@@ -1,0 +1,80 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 42.183,
+            "goalSide": "Blue",
+            "goalSpeed": 2.132,
+            "goalTime": 42.3,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 228.217,
+            "goalSide": "Red",
+            "goalSpeed": 6.479,
+            "goalTime": 228.3,
+            "goalTravelTime": 0.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 238.333,
+            "goalSide": "Blue",
+            "goalSpeed": 3.497,
+            "goalTime": 239.4,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 291.2,
+            "goalSide": "Blue",
+            "goalSpeed": 3.144,
+            "goalTime": 292.133,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 497.383,
+            "goalSide": "Blue",
+            "goalSpeed": 3.566,
+            "goalTime": 498.033,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 536.75,
+            "goalSide": "Blue",
+            "goalSpeed": 5.866,
+            "goalTime": 537.05,
+            "goalTravelTime": 0.3
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 573.633,
+            "goalSide": "Blue",
+            "goalSpeed": 5.348,
+            "goalTime": 574.633,
+            "goalTravelTime": 1.0
+        }
+    ],
+    "rawPositionsAtEnd": "114.26381929279954--46.123558051414165|368.54703929448124--53.00752121040732|382.6274386984978--154.49469772148112|334.59342631205874--51.20482628141703|228.91057258544652-76.8679312953461|527.5405730465836--16.92914656091978|",
+    "score": {
+        "Blue": 6,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Nelson Mandela",
+            "rybak"
+        ]
+    },
+    "time": "2020-11-23 14:59"
+}
