@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 142.483,
+            "goalSide": "Red",
+            "goalSpeed": 4.734,
+            "goalTime": 143.0,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 166.433,
+            "goalSide": "Blue",
+            "goalSpeed": 1.222,
+            "goalTime": 167.183,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 269.417,
+            "goalSide": "Red",
+            "goalSpeed": 3.239,
+            "goalTime": 270.633,
+            "goalTravelTime": 1.216
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 280.417,
+            "goalSide": "Red",
+            "goalSpeed": 3.517,
+            "goalTime": 281.533,
+            "goalTravelTime": 1.116
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 420.233,
+            "goalSide": "Blue",
+            "goalSpeed": 3.482,
+            "goalTime": 421.333,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 563.333,
+            "goalSide": "Blue",
+            "goalSpeed": 1.208,
+            "goalTime": 565.867,
+            "goalTravelTime": 2.534
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 597.75,
+            "goalSide": "Blue",
+            "goalSpeed": 2.559,
+            "goalTime": 598.65,
+            "goalTravelTime": 0.9
+        }
+    ],
+    "rawPositionsAtEnd": "302.4490235417237--51.264904076601916|-178.59970665134878--172.70475412237764|141.59881432720113-79.31998515112294|99.89622212522978--87.6040527658278|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-12-04 13:32"
+}

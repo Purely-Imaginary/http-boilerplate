@@ -1,0 +1,94 @@
+{
+    "gameTime": 628.667,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 208.867,
+            "goalSide": "Blue",
+            "goalSpeed": 4.566,
+            "goalTime": 209.15,
+            "goalTravelTime": 0.283
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 227.833,
+            "goalSide": "Red",
+            "goalSpeed": 4.078,
+            "goalTime": 228.583,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 321.717,
+            "goalSide": "Blue",
+            "goalSpeed": 0.993,
+            "goalTime": 323.8,
+            "goalTravelTime": 2.083
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 350.55,
+            "goalSide": "Red",
+            "goalSpeed": 4.373,
+            "goalTime": 351.267,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 447.95,
+            "goalSide": "Blue",
+            "goalSpeed": 1.577,
+            "goalTime": 449.067,
+            "goalTravelTime": 1.117
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 493.15,
+            "goalSide": "Red",
+            "goalSpeed": 2.582,
+            "goalTime": 494.767,
+            "goalTravelTime": 1.617
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 533.133,
+            "goalSide": "Blue",
+            "goalSpeed": 1.501,
+            "goalTime": 534.583,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 578.15,
+            "goalSide": "Red",
+            "goalSpeed": 1.191,
+            "goalTime": 581.167,
+            "goalTravelTime": 3.017
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 624.367,
+            "goalSide": "Blue",
+            "goalSpeed": 0.492,
+            "goalTime": 628.667,
+            "goalTravelTime": 4.3
+        }
+    ],
+    "rawPositionsAtEnd": "-355.9963476717012-217.83782677755468|-558.4271846901283-16.67605234128535|-524.2187773581408-144.26762417437766|-521.9593026640829-58.499334709266535|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "ToPP"
+        ]
+    },
+    "time": "2020-11-27 14:51"
+}

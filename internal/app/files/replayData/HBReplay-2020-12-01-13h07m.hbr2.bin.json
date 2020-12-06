@@ -1,0 +1,86 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 36.317,
+            "goalSide": "Red",
+            "goalSpeed": 3.485,
+            "goalTime": 37.35,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 62.15,
+            "goalSide": "Blue",
+            "goalSpeed": 8.708,
+            "goalTime": 62.183,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 113.633,
+            "goalSide": "Blue",
+            "goalSpeed": 2.229,
+            "goalTime": 115.15,
+            "goalTravelTime": 1.517
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 247.483,
+            "goalSide": "Blue",
+            "goalSpeed": 3.196,
+            "goalTime": 248.733,
+            "goalTravelTime": 1.25
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 421.917,
+            "goalSide": "Red",
+            "goalSpeed": 5.545,
+            "goalTime": 421.95,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 476.85,
+            "goalSide": "Blue",
+            "goalSpeed": 2.481,
+            "goalTime": 477.567,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 563.767,
+            "goalSide": "Blue",
+            "goalSpeed": 4.255,
+            "goalTime": 564.583,
+            "goalTravelTime": 0.816
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 577.183,
+            "goalSide": "Blue",
+            "goalSpeed": 1.088,
+            "goalTime": 580.217,
+            "goalTravelTime": 3.034
+        }
+    ],
+    "rawPositionsAtEnd": "109.45227482257881--122.1155454339958|28.88020081760924--109.7703051791408|-64.81004580252497--250.26733317362647|-192.46613400242046--77.90776109739619|",
+    "score": {
+        "Blue": 6,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-12-01 13:07"
+}

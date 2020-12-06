@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 46.15,
+            "goalSide": "Blue",
+            "goalSpeed": 3.75,
+            "goalTime": 46.917,
+            "goalTravelTime": 0.767
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 130.367,
+            "goalSide": "Red",
+            "goalSpeed": 5.023,
+            "goalTime": 130.667,
+            "goalTravelTime": 0.3
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 137.45,
+            "goalSide": "Blue",
+            "goalSpeed": 4.698,
+            "goalTime": 138.117,
+            "goalTravelTime": 0.667
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 330.567,
+            "goalSide": "Blue",
+            "goalSpeed": 1.323,
+            "goalTime": 332.233,
+            "goalTravelTime": 1.666
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 397.067,
+            "goalSide": "Blue",
+            "goalSpeed": 1.004,
+            "goalTime": 398.367,
+            "goalTravelTime": 1.3
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 428.367,
+            "goalSide": "Blue",
+            "goalSpeed": 3.495,
+            "goalTime": 429.267,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 432.967,
+            "goalSide": "Red",
+            "goalSpeed": 5.936,
+            "goalTime": 433.25,
+            "goalTravelTime": 0.283
+        }
+    ],
+    "rawPositionsAtEnd": "-358.0393430277221-138.00241187389867|-208.32050694910245-55.48340669702985|-364.56059306703185--26.21044301915019|",
+    "score": {
+        "Blue": 5,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Nelson Mandela",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "ToPP",
+            "hubigz"
+        ]
+    },
+    "time": "2020-11-27 09:28"
+}

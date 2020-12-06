@@ -1,0 +1,40 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 96.267,
+            "goalSide": "Red",
+            "goalSpeed": 6.168,
+            "goalTime": 96.483,
+            "goalTravelTime": 0.216
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 511.817,
+            "goalSide": "Red",
+            "goalSpeed": 5.514,
+            "goalTime": 512.233,
+            "goalTravelTime": 0.416
+        }
+    ],
+    "rawPositionsAtEnd": "236.94455628725677--125.24209160487183|332.3972860053861--156.74053075010855|233.91034048612127--27.518673769782204|565.1513684414605--152.73949134753838|237.34656273352545-67.63589446251822|570.5555587888363-32.79239343593136|",
+    "score": {
+        "Blue": 0,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Nelson Mandela",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "K-rol",
+            "ToPP"
+        ]
+    },
+    "time": "2020-12-02 13:48"
+}
