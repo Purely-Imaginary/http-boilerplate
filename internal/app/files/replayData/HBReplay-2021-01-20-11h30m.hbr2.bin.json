@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 46.867,
+            "goalSide": "Red",
+            "goalSpeed": 2.095,
+            "goalTime": 48.667,
+            "goalTravelTime": 1.8
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 195.333,
+            "goalSide": "Blue",
+            "goalSpeed": 5.404,
+            "goalTime": 195.667,
+            "goalTravelTime": 0.334
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 363.667,
+            "goalSide": "Blue",
+            "goalSpeed": 1.909,
+            "goalTime": 365.567,
+            "goalTravelTime": 1.9
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 487.567,
+            "goalSide": "Blue",
+            "goalSpeed": 2.546,
+            "goalTime": 489.15,
+            "goalTravelTime": 1.583
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 491.283,
+            "goalSide": "Red",
+            "goalSpeed": 2.715,
+            "goalTime": 492.7,
+            "goalTravelTime": 1.417
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 538.45,
+            "goalSide": "Blue",
+            "goalSpeed": 3.277,
+            "goalTime": 539.717,
+            "goalTravelTime": 1.267
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 591.2,
+            "goalSide": "Blue",
+            "goalSpeed": 4.829,
+            "goalTime": 591.967,
+            "goalTravelTime": 0.767
+        }
+    ],
+    "rawPositionsAtEnd": "-159.72647920879237-139.70633265364276|123.50775661225654-104.45506186686902|100.07662186283729-255.0|-77.90953294329529-116.57028021101023|",
+    "score": {
+        "Blue": 5,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "K-rol"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-01-20 11:30"
+}

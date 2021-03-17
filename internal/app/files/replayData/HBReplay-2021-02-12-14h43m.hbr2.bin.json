@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 117.367,
+            "goalSide": "Red",
+            "goalSpeed": 3.361,
+            "goalTime": 118.2,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 156.483,
+            "goalSide": "Red",
+            "goalSpeed": 1.487,
+            "goalTime": 158.6,
+            "goalTravelTime": 2.117
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 227.45,
+            "goalSide": "Red",
+            "goalSpeed": 0.907,
+            "goalTime": 228.3,
+            "goalTravelTime": 0.85
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 249.233,
+            "goalSide": "Blue",
+            "goalSpeed": 3.42,
+            "goalTime": 250.117,
+            "goalTravelTime": 0.884
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 272.433,
+            "goalSide": "Red",
+            "goalSpeed": 3.625,
+            "goalTime": 273.367,
+            "goalTravelTime": 0.934
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 327.617,
+            "goalSide": "Red",
+            "goalSpeed": 2.245,
+            "goalTime": 329.483,
+            "goalTravelTime": 1.866
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 418.817,
+            "goalSide": "Blue",
+            "goalSpeed": 2.338,
+            "goalTime": 419.8,
+            "goalTravelTime": 0.983
+        }
+    ],
+    "rawPositionsAtEnd": "-60.35067941364801-65.30869062972874|-9.899652835849102-103.01691298654752|-76.66660907562321-181.28378813095696|23.611270920954368-96.80366465677112|",
+    "score": {
+        "Blue": 2,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "rybak"
+        ]
+    },
+    "time": "2021-02-12 14:43"
+}

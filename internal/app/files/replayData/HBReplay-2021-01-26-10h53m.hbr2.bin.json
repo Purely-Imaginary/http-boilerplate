@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 28.717,
+            "goalSide": "Red",
+            "goalSpeed": 1.826,
+            "goalTime": 33.75,
+            "goalTravelTime": 5.033
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 163.083,
+            "goalSide": "Red",
+            "goalSpeed": 2.329,
+            "goalTime": 164.767,
+            "goalTravelTime": 1.684
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 229.983,
+            "goalSide": "Red",
+            "goalSpeed": 1.393,
+            "goalTime": 232.25,
+            "goalTravelTime": 2.267
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 272.25,
+            "goalSide": "Red",
+            "goalSpeed": 1.941,
+            "goalTime": 274.067,
+            "goalTravelTime": 1.817
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 283.75,
+            "goalSide": "Red",
+            "goalSpeed": 0.618,
+            "goalTime": 284.967,
+            "goalTravelTime": 1.217
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 433.017,
+            "goalSide": "Red",
+            "goalSpeed": 1.715,
+            "goalTime": 433.183,
+            "goalTravelTime": 0.166
+        }
+    ],
+    "rawPositionsAtEnd": "-488.2289972831394--19.209723429194845|-325.728701107799--186.66035724267405|-356.46790020600196--238.62945299074465|",
+    "score": {
+        "Blue": 0,
+        "Red": 6
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2021-01-26 10:53"
+}

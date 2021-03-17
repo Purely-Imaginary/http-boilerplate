@@ -1,0 +1,62 @@
+{
+    "gameTime": 699.533,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 272.4,
+            "goalSide": "Red",
+            "goalSpeed": 6.717,
+            "goalTime": 273.1,
+            "goalTravelTime": 0.7
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 404.867,
+            "goalSide": "Blue",
+            "goalSpeed": 1.793,
+            "goalTime": 406.6,
+            "goalTravelTime": 1.733
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 458.583,
+            "goalSide": "Blue",
+            "goalSpeed": 1.751,
+            "goalTime": 460.583,
+            "goalTravelTime": 2.0
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 538.133,
+            "goalSide": "Red",
+            "goalSpeed": 1.84,
+            "goalTime": 539.5,
+            "goalTravelTime": 1.367
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 698.583,
+            "goalSide": "Blue",
+            "goalSpeed": 3.16,
+            "goalTime": 699.533,
+            "goalTravelTime": 0.95
+        }
+    ],
+    "rawPositionsAtEnd": "-414.63904473033625-71.89559252980825|-408.019176064433--28.4510674768825|-430.6589648012422-98.23839321285114|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-12-11 11:42"
+}

@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 60.2,
+            "goalSide": "Blue",
+            "goalSpeed": 1.104,
+            "goalTime": 61.883,
+            "goalTravelTime": 1.683
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 188.417,
+            "goalSide": "Red",
+            "goalSpeed": 5.904,
+            "goalTime": 188.667,
+            "goalTravelTime": 0.25
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 321.0,
+            "goalSide": "Red",
+            "goalSpeed": 2.333,
+            "goalTime": 322.85,
+            "goalTravelTime": 1.85
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 378.483,
+            "goalSide": "Blue",
+            "goalSpeed": 2.783,
+            "goalTime": 379.2,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 427.683,
+            "goalSide": "Blue",
+            "goalSpeed": 1.063,
+            "goalTime": 429.867,
+            "goalTravelTime": 2.184
+        }
+    ],
+    "rawPositionsAtEnd": "277.14349701540976-34.63122960832887|99.33324509904978-46.96432988731224|2.07673036575917--101.1483911665718|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-02-12 12:52"
+}

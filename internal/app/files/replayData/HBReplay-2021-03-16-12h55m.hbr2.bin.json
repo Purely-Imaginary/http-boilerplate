@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 51.233,
+            "goalSide": "Blue",
+            "goalSpeed": 3.258,
+            "goalTime": 52.433,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 196.05,
+            "goalSide": "Red",
+            "goalSpeed": 2.014,
+            "goalTime": 197.933,
+            "goalTravelTime": 1.883
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 205.683,
+            "goalSide": "Blue",
+            "goalSpeed": 5.027,
+            "goalTime": 206.2,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 299.067,
+            "goalSide": "Blue",
+            "goalSpeed": 4.838,
+            "goalTime": 299.5,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 336.717,
+            "goalSide": "Blue",
+            "goalSpeed": 3.402,
+            "goalTime": 337.9,
+            "goalTravelTime": 1.183
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 401.617,
+            "goalSide": "Blue",
+            "goalSpeed": 1.831,
+            "goalTime": 401.65,
+            "goalTravelTime": 0.033
+        }
+    ],
+    "rawPositionsAtEnd": "327.65365648925865-73.26743566421561|420.97444202534143-133.7928179203219|219.76813809983517-193.7483736344566|189.44364116651664-217.02107885923533|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "hubigz"
+        ]
+    },
+    "time": "2021-03-16 12:55"
+}

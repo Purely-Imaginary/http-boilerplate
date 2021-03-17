@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 5.983,
+            "goalSide": "Blue",
+            "goalSpeed": 0.915,
+            "goalTime": 8.917,
+            "goalTravelTime": 2.934
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 41.733,
+            "goalSide": "Blue",
+            "goalSpeed": 1.029,
+            "goalTime": 44.6,
+            "goalTravelTime": 2.867
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 78.833,
+            "goalSide": "Blue",
+            "goalSpeed": 2.689,
+            "goalTime": 79.883,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 381.167,
+            "goalSide": "Red",
+            "goalSpeed": 1.356,
+            "goalTime": 383.383,
+            "goalTravelTime": 2.216
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 387.217,
+            "goalSide": "Blue",
+            "goalSpeed": 3.582,
+            "goalTime": 388.3,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 391.317,
+            "goalSide": "Red",
+            "goalSpeed": 1.837,
+            "goalTime": 392.483,
+            "goalTravelTime": 1.166
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 594.333,
+            "goalSide": "Blue",
+            "goalSpeed": 4.649,
+            "goalTime": 599.417,
+            "goalTravelTime": 5.084
+        }
+    ],
+    "rawPositionsAtEnd": "-40.63836104077409-11.092474039438123|43.47393763885922-40.52457897501492|-264.1852463708368-185.81475363419474|324.9066909709677-27.63408017257977|",
+    "score": {
+        "Blue": 5,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-12-17 11:19"
+}

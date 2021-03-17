@@ -1,0 +1,134 @@
+{
+    "gameTime": 455.0,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 17.367,
+            "goalSide": "Blue",
+            "goalSpeed": 3.041,
+            "goalTime": 18.583,
+            "goalTravelTime": 1.216
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 74.233,
+            "goalSide": "Blue",
+            "goalSpeed": 4.363,
+            "goalTime": 75.0,
+            "goalTravelTime": 0.767
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 127.1,
+            "goalSide": "Red",
+            "goalSpeed": 1.726,
+            "goalTime": 129.333,
+            "goalTravelTime": 2.233
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 131.983,
+            "goalSide": "Red",
+            "goalSpeed": 3.705,
+            "goalTime": 133.0,
+            "goalTravelTime": 1.017
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 142.75,
+            "goalSide": "Blue",
+            "goalSpeed": 3.896,
+            "goalTime": 143.45,
+            "goalTravelTime": 0.7
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 175.333,
+            "goalSide": "Red",
+            "goalSpeed": 5.481,
+            "goalTime": 175.417,
+            "goalTravelTime": 0.084
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 195.933,
+            "goalSide": "Red",
+            "goalSpeed": 4.297,
+            "goalTime": 196.533,
+            "goalTravelTime": 0.6
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 254.283,
+            "goalSide": "Red",
+            "goalSpeed": 3.204,
+            "goalTime": 255.567,
+            "goalTravelTime": 1.284
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 279.833,
+            "goalSide": "Red",
+            "goalSpeed": 1.47,
+            "goalTime": 281.95,
+            "goalTravelTime": 2.117
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 344.283,
+            "goalSide": "Blue",
+            "goalSpeed": 1.37,
+            "goalTime": 346.067,
+            "goalTravelTime": 1.784
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 406.617,
+            "goalSide": "Red",
+            "goalSpeed": 6.57,
+            "goalTime": 406.783,
+            "goalTravelTime": 0.166
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 418.167,
+            "goalSide": "Red",
+            "goalSpeed": 5.035,
+            "goalTime": 418.2,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 423.783,
+            "goalSide": "Red",
+            "goalSpeed": 1.619,
+            "goalTime": 427.3,
+            "goalTravelTime": 3.517
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 452.483,
+            "goalSide": "Red",
+            "goalSpeed": 1.46,
+            "goalTime": 455.0,
+            "goalTravelTime": 2.517
+        }
+    ],
+    "rawPositionsAtEnd": "318.4974163813754-24.338383299129788|16.90063498463406-76.49822945131567|348.2772827974979-16.919923178717795|504.33195187491--6.999124723426404|",
+    "score": {
+        "Blue": 4,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-02-15 10:41"
+}

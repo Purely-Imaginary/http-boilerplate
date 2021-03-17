@@ -1,0 +1,118 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 47.05,
+            "goalSide": "Red",
+            "goalSpeed": 6.705,
+            "goalTime": 47.15,
+            "goalTravelTime": 0.1
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 86.65,
+            "goalSide": "Blue",
+            "goalSpeed": 2.465,
+            "goalTime": 87.2,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 112.283,
+            "goalSide": "Red",
+            "goalSpeed": 3.034,
+            "goalTime": 113.267,
+            "goalTravelTime": 0.984
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 169.633,
+            "goalSide": "Red",
+            "goalSpeed": 2.028,
+            "goalTime": 171.55,
+            "goalTravelTime": 1.917
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 220.8,
+            "goalSide": "Blue",
+            "goalSpeed": 1.75,
+            "goalTime": 223.067,
+            "goalTravelTime": 2.267
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 282.35,
+            "goalSide": "Blue",
+            "goalSpeed": 5.222,
+            "goalTime": 282.817,
+            "goalTravelTime": 0.467
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 312.533,
+            "goalSide": "Red",
+            "goalSpeed": 2.408,
+            "goalTime": 314.033,
+            "goalTravelTime": 1.5
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 332.05,
+            "goalSide": "Blue",
+            "goalSpeed": 0.901,
+            "goalTime": 334.95,
+            "goalTravelTime": 2.9
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 409.633,
+            "goalSide": "Blue",
+            "goalSpeed": 5.202,
+            "goalTime": 410.167,
+            "goalTravelTime": 0.534
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 505.283,
+            "goalSide": "Blue",
+            "goalSpeed": 2.437,
+            "goalTime": 506.567,
+            "goalTravelTime": 1.284
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 552.983,
+            "goalSide": "Red",
+            "goalSpeed": 1.343,
+            "goalTime": 554.2,
+            "goalTravelTime": 1.217
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 592.983,
+            "goalSide": "Blue",
+            "goalSpeed": 3.117,
+            "goalTime": 593.85,
+            "goalTravelTime": 0.867
+        }
+    ],
+    "rawPositionsAtEnd": "301.07682899507745-104.91298751777747|305.7616788191417-57.62294704816098|206.61362573881726-114.80379017587089|496.45834542035277-76.85244805834436|",
+    "score": {
+        "Blue": 7,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Nelson Mandela",
+            "rybak"
+        ],
+        "Red": [
+            "Amman",
+            "ToPP"
+        ]
+    },
+    "time": "2021-03-10 10:53"
+}

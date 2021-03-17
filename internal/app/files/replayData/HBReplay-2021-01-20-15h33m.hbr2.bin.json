@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 18.383,
+            "goalSide": "Blue",
+            "goalSpeed": 4.301,
+            "goalTime": 18.75,
+            "goalTravelTime": 0.367
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 143.4,
+            "goalSide": "Red",
+            "goalSpeed": 3.416,
+            "goalTime": 144.617,
+            "goalTravelTime": 1.217
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 296.767,
+            "goalSide": "Red",
+            "goalSpeed": 4.029,
+            "goalTime": 297.567,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 390.933,
+            "goalSide": "Blue",
+            "goalSpeed": 3.686,
+            "goalTime": 391.433,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 406.467,
+            "goalSide": "Red",
+            "goalSpeed": 3.898,
+            "goalTime": 407.233,
+            "goalTravelTime": 0.766
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 444.183,
+            "goalSide": "Blue",
+            "goalSpeed": 7.573,
+            "goalTime": 444.45,
+            "goalTravelTime": 0.267
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 522.1,
+            "goalSide": "Blue",
+            "goalSpeed": 1.775,
+            "goalTime": 522.967,
+            "goalTravelTime": 0.867
+        }
+    ],
+    "rawPositionsAtEnd": "452.01157945847217--41.86621337854504|28.965059459175407-27.063042815181998|487.9515447717138--68.32114613785194|438.4370262220706--110.3780253190926|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "hubigz",
+            "Amman"
+        ]
+    },
+    "time": "2021-01-20 15:33"
+}

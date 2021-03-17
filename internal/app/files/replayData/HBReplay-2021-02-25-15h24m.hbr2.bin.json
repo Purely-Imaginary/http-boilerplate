@@ -1,0 +1,38 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 288.55,
+            "goalSide": "Blue",
+            "goalSpeed": 2.263,
+            "goalTime": 290.217,
+            "goalTravelTime": 1.667
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 385.583,
+            "goalSide": "Blue",
+            "goalSpeed": 5.68,
+            "goalTime": 385.833,
+            "goalTravelTime": 0.25
+        }
+    ],
+    "rawPositionsAtEnd": "331.91123813135016-127.04803666223975|-253.56298826369817-119.40883805594322|-243.10031313832036-220.22258984048992|-186.4142858596386-200.6305327422225|",
+    "score": {
+        "Blue": 2,
+        "Red": 0
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "rybak",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-02-25 15:24"
+}

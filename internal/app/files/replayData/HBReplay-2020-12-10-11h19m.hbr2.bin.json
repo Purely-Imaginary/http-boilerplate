@@ -1,0 +1,126 @@
+{
+    "gameTime": 596.383,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 138.1,
+            "goalSide": "Red",
+            "goalSpeed": 1.877,
+            "goalTime": 140.817,
+            "goalTravelTime": 2.717
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 155.8,
+            "goalSide": "Blue",
+            "goalSpeed": 3.263,
+            "goalTime": 156.583,
+            "goalTravelTime": 0.783
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 179.8,
+            "goalSide": "Red",
+            "goalSpeed": 4.747,
+            "goalTime": 180.45,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 259.85,
+            "goalSide": "Red",
+            "goalSpeed": 1.595,
+            "goalTime": 262.067,
+            "goalTravelTime": 2.217
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 274.45,
+            "goalSide": "Red",
+            "goalSpeed": 2.641,
+            "goalTime": 275.517,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 415.617,
+            "goalSide": "Red",
+            "goalSpeed": 5.941,
+            "goalTime": 415.733,
+            "goalTravelTime": 0.116
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 457.05,
+            "goalSide": "Red",
+            "goalSpeed": 1.719,
+            "goalTime": 459.317,
+            "goalTravelTime": 2.267
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 483.267,
+            "goalSide": "Blue",
+            "goalSpeed": 0.864,
+            "goalTime": 486.617,
+            "goalTravelTime": 3.35
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 546.017,
+            "goalSide": "Red",
+            "goalSpeed": 9.404,
+            "goalTime": 546.133,
+            "goalTravelTime": 0.116
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 558.117,
+            "goalSide": "Red",
+            "goalSpeed": 4.483,
+            "goalTime": 560.2,
+            "goalTravelTime": 2.083
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 567.6,
+            "goalSide": "Blue",
+            "goalSpeed": 6.038,
+            "goalTime": 567.717,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 586.333,
+            "goalSide": "Red",
+            "goalSpeed": 0.994,
+            "goalTime": 589.117,
+            "goalTravelTime": 2.784
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 591.583,
+            "goalSide": "Red",
+            "goalSpeed": 6.435,
+            "goalTime": 596.383,
+            "goalTravelTime": 4.8
+        }
+    ],
+    "rawPositionsAtEnd": "361.35704856458807--45.86589266738322|181.2347524764812-42.01903120704171|585.0-7.368545266371804|585.0-41.29832750426407|",
+    "score": {
+        "Blue": 3,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "hubigz",
+            "K-rol"
+        ]
+    },
+    "time": "2020-12-10 11:19"
+}

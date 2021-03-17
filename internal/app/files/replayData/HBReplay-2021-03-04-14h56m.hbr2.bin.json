@@ -1,0 +1,150 @@
+{
+    "gameTime": 555.283,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 26.783,
+            "goalSide": "Blue",
+            "goalSpeed": 2.208,
+            "goalTime": 28.633,
+            "goalTravelTime": 1.85
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 55.733,
+            "goalSide": "Red",
+            "goalSpeed": 4.058,
+            "goalTime": 56.117,
+            "goalTravelTime": 0.384
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 69.967,
+            "goalSide": "Red",
+            "goalSpeed": 2.992,
+            "goalTime": 71.25,
+            "goalTravelTime": 1.283
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 78.167,
+            "goalSide": "Red",
+            "goalSpeed": 4.511,
+            "goalTime": 78.833,
+            "goalTravelTime": 0.666
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 95.017,
+            "goalSide": "Red",
+            "goalSpeed": 5.729,
+            "goalTime": 95.367,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 112.2,
+            "goalSide": "Red",
+            "goalSpeed": 4.51,
+            "goalTime": 112.9,
+            "goalTravelTime": 0.7
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 124.25,
+            "goalSide": "Red",
+            "goalSpeed": 4.89,
+            "goalTime": 124.8,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 164.717,
+            "goalSide": "Blue",
+            "goalSpeed": 4.35,
+            "goalTime": 165.35,
+            "goalTravelTime": 0.633
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 269.717,
+            "goalSide": "Red",
+            "goalSpeed": 2.383,
+            "goalTime": 271.167,
+            "goalTravelTime": 1.45
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 306.367,
+            "goalSide": "Blue",
+            "goalSpeed": 2.397,
+            "goalTime": 308.2,
+            "goalTravelTime": 1.833
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 339.683,
+            "goalSide": "Red",
+            "goalSpeed": 5.95,
+            "goalTime": 339.75,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 346.333,
+            "goalSide": "Blue",
+            "goalSpeed": 1.284,
+            "goalTime": 348.467,
+            "goalTravelTime": 2.134
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 366.867,
+            "goalSide": "Blue",
+            "goalSpeed": 1.945,
+            "goalTime": 368.933,
+            "goalTravelTime": 2.066
+        },
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 394.117,
+            "goalSide": "Red",
+            "goalSpeed": 3.661,
+            "goalTime": 394.867,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 490.883,
+            "goalSide": "Blue",
+            "goalSpeed": 5.007,
+            "goalTime": 491.233,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 554.1,
+            "goalSide": "Red",
+            "goalSpeed": 1.306,
+            "goalTime": 555.283,
+            "goalTravelTime": 1.183
+        }
+    ],
+    "rawPositionsAtEnd": "458.3813386490873-107.33078774718959|482.1759160841228--23.38826907627911|348.4464136351213-86.80136445190948|",
+    "score": {
+        "Blue": 6,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "k-rol",
+            "rybak"
+        ]
+    },
+    "time": "2021-03-04 14:56"
+}

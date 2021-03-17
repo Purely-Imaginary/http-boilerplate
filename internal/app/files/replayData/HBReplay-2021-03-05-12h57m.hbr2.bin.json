@@ -1,0 +1,46 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 150.75,
+            "goalSide": "Blue",
+            "goalSpeed": 4.752,
+            "goalTime": 150.867,
+            "goalTravelTime": 0.117
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 223.133,
+            "goalSide": "Red",
+            "goalSpeed": 0.634,
+            "goalTime": 227.05,
+            "goalTravelTime": 3.917
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 247.75,
+            "goalSide": "Blue",
+            "goalSpeed": 0.723,
+            "goalTime": 251.117,
+            "goalTravelTime": 3.367
+        }
+    ],
+    "rawPositionsAtEnd": "-279.16971341197063-187.21051492066124|-420.8179934251308-192.95241895874523|-479.2689894080532--11.157995886036222|-226.64875400258694-217.8769134466739|",
+    "score": {
+        "Blue": 2,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "ToPP"
+        ],
+        "Red": [
+            "rybak",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2021-03-05 12:57"
+}

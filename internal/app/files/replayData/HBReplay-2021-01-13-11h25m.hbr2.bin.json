@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 34.683,
+            "goalSide": "Blue",
+            "goalSpeed": 2.848,
+            "goalTime": 35.867,
+            "goalTravelTime": 1.184
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 128.983,
+            "goalSide": "Blue",
+            "goalSpeed": 4.196,
+            "goalTime": 129.717,
+            "goalTravelTime": 0.734
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 326.933,
+            "goalSide": "Red",
+            "goalSpeed": 4.252,
+            "goalTime": 327.65,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 450.8,
+            "goalSide": "Blue",
+            "goalSpeed": 2.245,
+            "goalTime": 452.667,
+            "goalTravelTime": 1.867
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 515.767,
+            "goalSide": "Blue",
+            "goalSpeed": 6.524,
+            "goalTime": 515.917,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 542.717,
+            "goalSide": "Red",
+            "goalSpeed": 7.092,
+            "goalTime": 543.067,
+            "goalTravelTime": 0.35
+        }
+    ],
+    "rawPositionsAtEnd": "162.0624409711507--155.48741526721116|210.62617915813473--107.03275391314548|241.78896887100123--163.51477887298753|-243.95266133374162--164.38927121524722|337.0817431919096--75.75707254032335|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Nelson Mandela",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Amman",
+            "hubigz",
+            "ToPP"
+        ]
+    },
+    "time": "2021-01-13 11:25"
+}

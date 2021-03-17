@@ -1,0 +1,80 @@
+{
+    "gameTime": 719.75,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 122.8,
+            "goalSide": "Red",
+            "goalSpeed": 4.45,
+            "goalTime": 122.95,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 228.917,
+            "goalSide": "Blue",
+            "goalSpeed": 2.684,
+            "goalTime": 230.25,
+            "goalTravelTime": 1.333
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 322.35,
+            "goalSide": "Red",
+            "goalSpeed": 0.855,
+            "goalTime": 323.383,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 482.017,
+            "goalSide": "Red",
+            "goalSpeed": 3.26,
+            "goalTime": 482.967,
+            "goalTravelTime": 0.95
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 526.9,
+            "goalSide": "Blue",
+            "goalSpeed": 6.395,
+            "goalTime": 527.783,
+            "goalTravelTime": 0.883
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 547.617,
+            "goalSide": "Blue",
+            "goalSpeed": 2.221,
+            "goalTime": 548.267,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 716.617,
+            "goalSide": "Red",
+            "goalSpeed": 0.784,
+            "goalTime": 719.75,
+            "goalTravelTime": 3.133
+        }
+    ],
+    "rawPositionsAtEnd": "540.5054633797688--40.364218033464|68.00829597233195-12.581451523110028|524.2237996736451--68.64660622045788|331.78955259502595--99.95461482887737|488.88637763186864--50.1271152863555|474.7116449948721--21.767465211588316|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "K-rol",
+            "ToPP"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela",
+            "Amman"
+        ]
+    },
+    "time": "2021-01-29 11:41"
+}

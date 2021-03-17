@@ -1,0 +1,86 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 20.167,
+            "goalSide": "Blue",
+            "goalSpeed": 1.063,
+            "goalTime": 23.2,
+            "goalTravelTime": 3.033
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 101.917,
+            "goalSide": "Red",
+            "goalSpeed": 1.453,
+            "goalTime": 103.85,
+            "goalTravelTime": 1.933
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 149.85,
+            "goalSide": "Blue",
+            "goalSpeed": 3.755,
+            "goalTime": 150.517,
+            "goalTravelTime": 0.667
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 179.667,
+            "goalSide": "Red",
+            "goalSpeed": 3.615,
+            "goalTime": 180.5,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 202.833,
+            "goalSide": "Blue",
+            "goalSpeed": 3.455,
+            "goalTime": 203.6,
+            "goalTravelTime": 0.767
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 372.983,
+            "goalSide": "Blue",
+            "goalSpeed": 4.436,
+            "goalTime": 373.15,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 396.683,
+            "goalSide": "Red",
+            "goalSpeed": 1.505,
+            "goalTime": 397.567,
+            "goalTravelTime": 0.884
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 578.367,
+            "goalSide": "Blue",
+            "goalSpeed": 2.115,
+            "goalTime": 580.317,
+            "goalTravelTime": 1.95
+        }
+    ],
+    "rawPositionsAtEnd": "-4.737107623264006--117.47058411275756|421.5962820191611--98.84997453942609|274.5267281136108--131.93551151946025|82.40568375383266--128.42405742050622|",
+    "score": {
+        "Blue": 5,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2020-12-15 13:47"
+}

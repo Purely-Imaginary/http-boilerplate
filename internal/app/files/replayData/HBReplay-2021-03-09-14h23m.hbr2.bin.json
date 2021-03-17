@@ -1,0 +1,86 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 12.767,
+            "goalSide": "Blue",
+            "goalSpeed": 5.113,
+            "goalTime": 13.267,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 168.833,
+            "goalSide": "Blue",
+            "goalSpeed": 4.896,
+            "goalTime": 168.967,
+            "goalTravelTime": 0.134
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 180.683,
+            "goalSide": "Blue",
+            "goalSpeed": 3.372,
+            "goalTime": 182.067,
+            "goalTravelTime": 1.384
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 304.15,
+            "goalSide": "Blue",
+            "goalSpeed": 4.848,
+            "goalTime": 304.65,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 335.2,
+            "goalSide": "Red",
+            "goalSpeed": 3.623,
+            "goalTime": 335.817,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 489.933,
+            "goalSide": "Red",
+            "goalSpeed": 4.356,
+            "goalTime": 490.567,
+            "goalTravelTime": 0.634
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 496.833,
+            "goalSide": "Red",
+            "goalSpeed": 2.455,
+            "goalTime": 498.417,
+            "goalTravelTime": 1.584
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 557.267,
+            "goalSide": "Blue",
+            "goalSpeed": 1.448,
+            "goalTime": 559.733,
+            "goalTravelTime": 2.466
+        }
+    ],
+    "rawPositionsAtEnd": "128.28251008388602-186.96209593324855|292.35337542170583-221.4179682716832|323.9829605527675-139.22469861454525|370.38069026951246-167.0521502779639|",
+    "score": {
+        "Blue": 5,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Nelson Mandela",
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak"
+        ]
+    },
+    "time": "2021-03-09 14:23"
+}

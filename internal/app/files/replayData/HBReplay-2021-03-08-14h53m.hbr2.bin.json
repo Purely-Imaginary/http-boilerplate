@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 74.25,
+            "goalSide": "Blue",
+            "goalSpeed": 3.145,
+            "goalTime": 74.667,
+            "goalTravelTime": 0.417
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 79.133,
+            "goalSide": "Blue",
+            "goalSpeed": 0.777,
+            "goalTime": 82.45,
+            "goalTravelTime": 3.317
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 223.383,
+            "goalSide": "Blue",
+            "goalSpeed": 1.454,
+            "goalTime": 225.933,
+            "goalTravelTime": 2.55
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 308.467,
+            "goalSide": "Red",
+            "goalSpeed": 3.765,
+            "goalTime": 309.217,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 511.9,
+            "goalSide": "Blue",
+            "goalSpeed": 0.512,
+            "goalTime": 516.167,
+            "goalTravelTime": 4.267
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 563.283,
+            "goalSide": "Blue",
+            "goalSpeed": 1.846,
+            "goalTime": 565.033,
+            "goalTravelTime": 1.75
+        }
+    ],
+    "rawPositionsAtEnd": "421.41981460458027-88.05976243996912|190.12977514448514-60.86855113945349|301.5788805010333-168.96015949440775|487.61062289860683-131.95714719467247|",
+    "score": {
+        "Blue": 5,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "Amman",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-03-08 14:53"
+}

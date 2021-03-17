@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 8.933,
+            "goalSide": "Blue",
+            "goalSpeed": 2.682,
+            "goalTime": 10.367,
+            "goalTravelTime": 1.434
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 150.05,
+            "goalSide": "Red",
+            "goalSpeed": 1.12,
+            "goalTime": 152.65,
+            "goalTravelTime": 2.6
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 254.65,
+            "goalSide": "Blue",
+            "goalSpeed": 2.457,
+            "goalTime": 255.7,
+            "goalTravelTime": 1.05
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 330.2,
+            "goalSide": "Blue",
+            "goalSpeed": 1.413,
+            "goalTime": 331.467,
+            "goalTravelTime": 1.267
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 407.05,
+            "goalSide": "Blue",
+            "goalSpeed": 3.804,
+            "goalTime": 407.667,
+            "goalTravelTime": 0.617
+        }
+    ],
+    "rawPositionsAtEnd": "547.7117068447402--24.358908595336132|499.7103689296221-61.572776441793124|390.1096637632546-14.350118496707339|",
+    "score": {
+        "Blue": 4,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "ToPP"
+        ]
+    },
+    "time": "2021-01-19 11:32"
+}

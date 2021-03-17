@@ -1,0 +1,94 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 6.567,
+            "goalSide": "Blue",
+            "goalSpeed": 1.686,
+            "goalTime": 8.767,
+            "goalTravelTime": 2.2
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 141.533,
+            "goalSide": "Red",
+            "goalSpeed": 5.269,
+            "goalTime": 141.667,
+            "goalTravelTime": 0.134
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 254.567,
+            "goalSide": "Red",
+            "goalSpeed": 1.939,
+            "goalTime": 256.333,
+            "goalTravelTime": 1.766
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 259.633,
+            "goalSide": "Blue",
+            "goalSpeed": 7.198,
+            "goalTime": 260.217,
+            "goalTravelTime": 0.584
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 365.717,
+            "goalSide": "Blue",
+            "goalSpeed": 2.558,
+            "goalTime": 367.317,
+            "goalTravelTime": 1.6
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 403.35,
+            "goalSide": "Blue",
+            "goalSpeed": 1.63,
+            "goalTime": 405.717,
+            "goalTravelTime": 2.367
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 424.767,
+            "goalSide": "Red",
+            "goalSpeed": 1.108,
+            "goalTime": 427.45,
+            "goalTravelTime": 2.683
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 463.167,
+            "goalSide": "Blue",
+            "goalSpeed": 3.33,
+            "goalTime": 464.417,
+            "goalTravelTime": 1.25
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 592.633,
+            "goalSide": "Blue",
+            "goalSpeed": 1.447,
+            "goalTime": 593.9,
+            "goalTravelTime": 1.267
+        }
+    ],
+    "rawPositionsAtEnd": "79.45489432538143--2.3188823203670985|425.7390889713005-118.17571467200463|269.9960405062679--59.215681524624245|-99.83345059228046--223.45715422667163|",
+    "score": {
+        "Blue": 6,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "K-rol"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2021-02-01 13:38"
+}

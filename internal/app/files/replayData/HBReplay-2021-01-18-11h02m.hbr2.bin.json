@@ -1,0 +1,38 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 172.417,
+            "goalSide": "Blue",
+            "goalSpeed": 1.1,
+            "goalTime": 175.2,
+            "goalTravelTime": 2.783
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 251.883,
+            "goalSide": "Blue",
+            "goalSpeed": 2.766,
+            "goalTime": 252.933,
+            "goalTravelTime": 1.05
+        }
+    ],
+    "rawPositionsAtEnd": "-222.89541514139506-128.83881538865006|-470.61433214865195--5.9257245896063795|-483.7904635780778-52.30497249968842|",
+    "score": {
+        "Blue": 2,
+        "Red": 0
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "K-rol"
+        ],
+        "Red": [
+            "hubigz",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-01-18 11:02"
+}

@@ -1,0 +1,38 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 528.55,
+            "goalSide": "Blue",
+            "goalSpeed": 2.168,
+            "goalTime": 530.433,
+            "goalTravelTime": 1.883
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 577.567,
+            "goalSide": "Blue",
+            "goalSpeed": 1.544,
+            "goalTime": 580.0,
+            "goalTravelTime": 2.433
+        }
+    ],
+    "rawPositionsAtEnd": "322.79626771194035-19.891198403097825|495.80864049534335-23.503150952549323|339.61372097575946-194.05421525325278|417.95123730183127--11.059846627361722|",
+    "score": {
+        "Blue": 2,
+        "Red": 0
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Nelson Mandela",
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2021-02-17 13:48"
+}

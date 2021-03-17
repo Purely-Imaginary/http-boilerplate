@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 20.583,
+            "goalSide": "Red",
+            "goalSpeed": 4.599,
+            "goalTime": 20.65,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 170.3,
+            "goalSide": "Red",
+            "goalSpeed": 3.002,
+            "goalTime": 171.683,
+            "goalTravelTime": 1.383
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 188.617,
+            "goalSide": "Red",
+            "goalSpeed": 2.696,
+            "goalTime": 189.633,
+            "goalTravelTime": 1.016
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 367.267,
+            "goalSide": "Blue",
+            "goalSpeed": 6.381,
+            "goalTime": 367.35,
+            "goalTravelTime": 0.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 402.083,
+            "goalSide": "Blue",
+            "goalSpeed": 2.719,
+            "goalTime": 403.4,
+            "goalTravelTime": 1.317
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 437.033,
+            "goalSide": "Red",
+            "goalSpeed": 1.974,
+            "goalTime": 438.517,
+            "goalTravelTime": 1.484
+        }
+    ],
+    "rawPositionsAtEnd": "178.8392062046622-129.97294301680654|-484.9329109239026-88.16648463186935|-429.0093417617027--59.46579317932969|-281.1726851957427-68.71642605157216|-532.5226992950512-53.34406305022333|-356.849271026255--32.56395143169674|",
+    "score": {
+        "Blue": 2,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Amman",
+            "ToPP"
+        ],
+        "Red": [
+            "hubigz",
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-01-13 15:16"
+}

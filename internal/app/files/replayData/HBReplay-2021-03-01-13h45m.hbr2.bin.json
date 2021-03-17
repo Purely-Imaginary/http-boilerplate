@@ -1,0 +1,110 @@
+{
+    "gameTime": 589.75,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 42.083,
+            "goalSide": "Blue",
+            "goalSpeed": 1.973,
+            "goalTime": 44.05,
+            "goalTravelTime": 1.967
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 188.017,
+            "goalSide": "Blue",
+            "goalSpeed": 4.21,
+            "goalTime": 188.75,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 238.217,
+            "goalSide": "Blue",
+            "goalSpeed": 4.291,
+            "goalTime": 240.117,
+            "goalTravelTime": 1.9
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 282.7,
+            "goalSide": "Blue",
+            "goalSpeed": 3.95,
+            "goalTime": 283.333,
+            "goalTravelTime": 0.633
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 320.35,
+            "goalSide": "Blue",
+            "goalSpeed": 2.583,
+            "goalTime": 321.85,
+            "goalTravelTime": 1.5
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 337.233,
+            "goalSide": "Blue",
+            "goalSpeed": 5.726,
+            "goalTime": 337.467,
+            "goalTravelTime": 0.234
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 358.967,
+            "goalSide": "Blue",
+            "goalSpeed": 4.856,
+            "goalTime": 359.15,
+            "goalTravelTime": 0.183
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 376.617,
+            "goalSide": "Blue",
+            "goalSpeed": 1.594,
+            "goalTime": 379.05,
+            "goalTravelTime": 2.433
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 407.133,
+            "goalSide": "Blue",
+            "goalSpeed": 3.23,
+            "goalTime": 408.033,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "Avi",
+            "goalShotTime": 576.733,
+            "goalSide": "Red",
+            "goalSpeed": 0.615,
+            "goalTime": 581.233,
+            "goalTravelTime": 4.5
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 588.583,
+            "goalSide": "Blue",
+            "goalSpeed": 6.089,
+            "goalTime": 589.75,
+            "goalTravelTime": 1.167
+        }
+    ],
+    "rawPositionsAtEnd": "-585.0-64.05825271566482|-392.2423646516907-99.32332634669854|-365.1942533104564-148.43321564225792|-448.01606306225045-152.44252858120433|",
+    "score": {
+        "Blue": 10,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "Avi"
+        ]
+    },
+    "time": "2021-03-01 13:45"
+}

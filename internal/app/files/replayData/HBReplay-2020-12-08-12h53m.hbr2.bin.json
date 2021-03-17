@@ -1,0 +1,54 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 176.233,
+            "goalSide": "Red",
+            "goalSpeed": 3.088,
+            "goalTime": 177.217,
+            "goalTravelTime": 0.984
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 213.783,
+            "goalSide": "Blue",
+            "goalSpeed": 1.598,
+            "goalTime": 216.767,
+            "goalTravelTime": 2.984
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 257.283,
+            "goalSide": "Red",
+            "goalSpeed": 0.784,
+            "goalTime": 261.267,
+            "goalTravelTime": 3.984
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 560.617,
+            "goalSide": "Red",
+            "goalSpeed": 1.423,
+            "goalTime": 562.533,
+            "goalTravelTime": 1.916
+        }
+    ],
+    "rawPositionsAtEnd": "237.3809529918439-55.20578573135513|-87.17272369165198-200.70980833626552|77.05125219261397-129.13093027488753|-128.68196809241368--32.670836078417594|",
+    "score": {
+        "Blue": 1,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "hubigz",
+            "ToPP"
+        ]
+    },
+    "time": "2020-12-08 12:53"
+}

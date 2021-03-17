@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 246.633,
+            "goalSide": "Red",
+            "goalSpeed": 4.626,
+            "goalTime": 246.7,
+            "goalTravelTime": 0.067
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 267.3,
+            "goalSide": "Red",
+            "goalSpeed": 3.031,
+            "goalTime": 268.417,
+            "goalTravelTime": 1.117
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 275.05,
+            "goalSide": "Blue",
+            "goalSpeed": 9.6,
+            "goalTime": 277.117,
+            "goalTravelTime": 2.067
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 304.967,
+            "goalSide": "Red",
+            "goalSpeed": 5.302,
+            "goalTime": 305.3,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 369.617,
+            "goalSide": "Red",
+            "goalSpeed": 6.457,
+            "goalTime": 371.017,
+            "goalTravelTime": 1.4
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 401.117,
+            "goalSide": "Red",
+            "goalSpeed": 2.113,
+            "goalTime": 402.317,
+            "goalTravelTime": 1.2
+        }
+    ],
+    "rawPositionsAtEnd": "-194.5752083453196--48.22033504496889|-558.3413144874302--117.38775832347149|-228.53738640041553-39.96886143254066|9.423297603206596-9.193636771025277|",
+    "score": {
+        "Blue": 1,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "hubigz"
+        ],
+        "Red": [
+            "K-rol",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-01-08 12:55"
+}
