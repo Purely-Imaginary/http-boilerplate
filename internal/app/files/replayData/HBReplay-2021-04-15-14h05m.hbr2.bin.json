@@ -1,0 +1,78 @@
+{
+    "gameTime": 756.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 99.817,
+            "goalSide": "Red",
+            "goalSpeed": 5.483,
+            "goalTime": 100.167,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 184.467,
+            "goalSide": "Red",
+            "goalSpeed": 5.145,
+            "goalTime": 184.633,
+            "goalTravelTime": 0.166
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 226.167,
+            "goalSide": "Blue",
+            "goalSpeed": 2.794,
+            "goalTime": 227.667,
+            "goalTravelTime": 1.5
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 268.483,
+            "goalSide": "Red",
+            "goalSpeed": 4.342,
+            "goalTime": 268.983,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 276.3,
+            "goalSide": "Blue",
+            "goalSpeed": 2.384,
+            "goalTime": 277.383,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 583.483,
+            "goalSide": "Blue",
+            "goalSpeed": 2.636,
+            "goalTime": 584.9,
+            "goalTravelTime": 1.417
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 755.583,
+            "goalSide": "Blue",
+            "goalSpeed": 2.51,
+            "goalTime": 756.017,
+            "goalTravelTime": 0.434
+        }
+    ],
+    "rawPositionsAtEnd": "-364.0471779331351--22.796655896409387|-517.4174994096219-48.46188644092012|-418.5206269979856--7.485934562434909|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "Amman"
+        ]
+    },
+    "time": "2021-04-15 14:05"
+}

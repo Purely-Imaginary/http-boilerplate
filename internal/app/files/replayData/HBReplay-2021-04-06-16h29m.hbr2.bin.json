@@ -1,0 +1,126 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 21.383,
+            "goalSide": "Red",
+            "goalSpeed": 3.28,
+            "goalTime": 22.617,
+            "goalTravelTime": 1.234
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 27.933,
+            "goalSide": "Red",
+            "goalSpeed": 6.14,
+            "goalTime": 28.133,
+            "goalTravelTime": 0.2
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 47.75,
+            "goalSide": "Red",
+            "goalSpeed": 3.64,
+            "goalTime": 48.467,
+            "goalTravelTime": 0.717
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 54.983,
+            "goalSide": "Blue",
+            "goalSpeed": 2.402,
+            "goalTime": 56.35,
+            "goalTravelTime": 1.367
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 60.283,
+            "goalSide": "Red",
+            "goalSpeed": 2.992,
+            "goalTime": 61.483,
+            "goalTravelTime": 1.2
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 105.5,
+            "goalSide": "Blue",
+            "goalSpeed": 1.232,
+            "goalTime": 108.367,
+            "goalTravelTime": 2.867
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 208.85,
+            "goalSide": "Blue",
+            "goalSpeed": 3.056,
+            "goalTime": 209.5,
+            "goalTravelTime": 0.65
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 342.0,
+            "goalSide": "Red",
+            "goalSpeed": 1.929,
+            "goalTime": 342.5,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 369.3,
+            "goalSide": "Red",
+            "goalSpeed": 1.526,
+            "goalTime": 369.333,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 479.817,
+            "goalSide": "Blue",
+            "goalSpeed": 4.525,
+            "goalTime": 480.167,
+            "goalTravelTime": 0.35
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 499.317,
+            "goalSide": "Blue",
+            "goalSpeed": 5.238,
+            "goalTime": 499.683,
+            "goalTravelTime": 0.366
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 541.333,
+            "goalSide": "Red",
+            "goalSpeed": 4.048,
+            "goalTime": 542.217,
+            "goalTravelTime": 0.884
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 559.333,
+            "goalSide": "Red",
+            "goalSpeed": 1.44,
+            "goalTime": 561.933,
+            "goalTravelTime": 2.6
+        }
+    ],
+    "rawPositionsAtEnd": "-116.68455247303255-0.14157976830896807|-213.9069444300942-107.43721572516435|76.91163691801374--23.595949467775174|99.5294165087748--176.75899968516882|",
+    "score": {
+        "Blue": 5,
+        "Red": 8
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "rybak",
+            "hubigz"
+        ],
+        "Red": [
+            "Amman",
+            "K-rol"
+        ]
+    },
+    "time": "2021-04-06 16:29"
+}

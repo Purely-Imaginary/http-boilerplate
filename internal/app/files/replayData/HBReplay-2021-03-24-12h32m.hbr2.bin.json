@@ -1,0 +1,56 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 334.5,
+            "goalSide": "Red",
+            "goalSpeed": 3.556,
+            "goalTime": 338.3,
+            "goalTravelTime": 3.8
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 441.25,
+            "goalSide": "Red",
+            "goalSpeed": 1.037,
+            "goalTime": 444.4,
+            "goalTravelTime": 3.15
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 506.833,
+            "goalSide": "Red",
+            "goalSpeed": 5.262,
+            "goalTime": 512.533,
+            "goalTravelTime": 5.7
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 573.967,
+            "goalSide": "Red",
+            "goalSpeed": 0.664,
+            "goalTime": 577.783,
+            "goalTravelTime": 3.816
+        }
+    ],
+    "rawPositionsAtEnd": "-226.22598835922255--242.1216216336202|-192.17305234393822--108.22853166366808|-402.10926985861244--135.67363316011637|54.04965359836206--146.93866625605094|-252.91847114947856--121.20739585864008|-9.20219154838784--121.38860919079096|",
+    "score": {
+        "Blue": 0,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "hubigz",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-03-24 12:32"
+}

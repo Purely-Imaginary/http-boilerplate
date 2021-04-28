@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 54.517,
+            "goalSide": "Blue",
+            "goalSpeed": 4.95,
+            "goalTime": 54.683,
+            "goalTravelTime": 0.166
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 111.733,
+            "goalSide": "Blue",
+            "goalSpeed": 1.966,
+            "goalTime": 113.55,
+            "goalTravelTime": 1.817
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 174.6,
+            "goalSide": "Red",
+            "goalSpeed": 1.186,
+            "goalTime": 178.067,
+            "goalTravelTime": 3.467
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 239.133,
+            "goalSide": "Blue",
+            "goalSpeed": 7.148,
+            "goalTime": 239.217,
+            "goalTravelTime": 0.084
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 369.133,
+            "goalSide": "Blue",
+            "goalSpeed": 2.761,
+            "goalTime": 369.967,
+            "goalTravelTime": 0.834
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 506.167,
+            "goalSide": "Blue",
+            "goalSpeed": 1.961,
+            "goalTime": 508.183,
+            "goalTravelTime": 2.016
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 580.317,
+            "goalSide": "Red",
+            "goalSpeed": 2.605,
+            "goalTime": 581.317,
+            "goalTravelTime": 1.0
+        }
+    ],
+    "rawPositionsAtEnd": "-123.01118683140683--130.12760007247462|-209.55814312337833-117.52557963066876|-140.37419797794334--79.32830886500554|146.2915174746464--155.42449800585|",
+    "score": {
+        "Blue": 5,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "K-rol"
+        ]
+    },
+    "time": "2021-03-22 15:08"
+}

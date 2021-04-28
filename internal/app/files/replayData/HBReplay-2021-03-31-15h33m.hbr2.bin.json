@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 52.483,
+            "goalSide": "Blue",
+            "goalSpeed": 1.245,
+            "goalTime": 53.383,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 196.633,
+            "goalSide": "Blue",
+            "goalSpeed": 2.144,
+            "goalTime": 198.25,
+            "goalTravelTime": 1.617
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 235.817,
+            "goalSide": "Red",
+            "goalSpeed": 1.917,
+            "goalTime": 237.933,
+            "goalTravelTime": 2.116
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 410.7,
+            "goalSide": "Blue",
+            "goalSpeed": 4.122,
+            "goalTime": 411.733,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 536.383,
+            "goalSide": "Red",
+            "goalSpeed": 5.226,
+            "goalTime": 536.717,
+            "goalTravelTime": 0.334
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 551.517,
+            "goalSide": "Blue",
+            "goalSpeed": 2.435,
+            "goalTime": 553.15,
+            "goalTravelTime": 1.633
+        }
+    ],
+    "rawPositionsAtEnd": "480.0516209769838-31.667794316799096|485.53102230360554--14.209403831670668|137.11281227995647--69.47792162884832|275.0258417389175-105.99742959078289|447.1523364943792-255.0|266.9899413126654-74.85007039020131|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "hubigz",
+            "K-rol"
+        ],
+        "Red": [
+            "rybak",
+            "MaddoHatto",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-03-31 15:33"
+}

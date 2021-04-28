@@ -1,0 +1,38 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 158.267,
+            "goalSide": "Red",
+            "goalSpeed": 7.618,
+            "goalTime": 158.317,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 552.0,
+            "goalSide": "Red",
+            "goalSpeed": 3.806,
+            "goalTime": 552.5,
+            "goalTravelTime": 0.5
+        }
+    ],
+    "rawPositionsAtEnd": "154.0520847701534-123.98598857652034|315.95313923074355--82.63674165836902|-19.124889934322283--70.48281433108181|240.58201563511955-89.12065907133018|",
+    "score": {
+        "Blue": 0,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2021-04-23 15:22"
+}

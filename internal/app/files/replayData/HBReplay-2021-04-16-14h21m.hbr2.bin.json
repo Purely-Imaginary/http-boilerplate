@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 35.467,
+            "goalSide": "Red",
+            "goalSpeed": 0.998,
+            "goalTime": 37.667,
+            "goalTravelTime": 2.2
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 105.75,
+            "goalSide": "Red",
+            "goalSpeed": 2.669,
+            "goalTime": 107.283,
+            "goalTravelTime": 1.533
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 140.3,
+            "goalSide": "Red",
+            "goalSpeed": 2.531,
+            "goalTime": 141.933,
+            "goalTravelTime": 1.633
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 150.95,
+            "goalSide": "Red",
+            "goalSpeed": 1.822,
+            "goalTime": 151.483,
+            "goalTravelTime": 0.533
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 188.15,
+            "goalSide": "Red",
+            "goalSpeed": 4.577,
+            "goalTime": 188.783,
+            "goalTravelTime": 0.633
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 261.367,
+            "goalSide": "Red",
+            "goalSpeed": 1.775,
+            "goalTime": 263.617,
+            "goalTravelTime": 2.25
+        }
+    ],
+    "rawPositionsAtEnd": "-469.81374895016546-164.580729635572|-147.30367153310956-124.2397795829991|-514.0758065913728-100.63851042164299|-330.27390276811263-131.819071306203|",
+    "score": {
+        "Blue": 0,
+        "Red": 6
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Amman"
+        ]
+    },
+    "time": "2021-04-16 14:21"
+}

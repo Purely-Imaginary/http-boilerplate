@@ -1,0 +1,93 @@
+{
+    "gameTime": 611.9,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 108.483,
+            "goalSide": "Red",
+            "goalSpeed": 4.022,
+            "goalTime": 109.05,
+            "goalTravelTime": 0.567
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 134.733,
+            "goalSide": "Blue",
+            "goalSpeed": 4.585,
+            "goalTime": 135.35,
+            "goalTravelTime": 0.617
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 173.917,
+            "goalSide": "Red",
+            "goalSpeed": 4.25,
+            "goalTime": 174.333,
+            "goalTravelTime": 0.416
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 182.9,
+            "goalSide": "Red",
+            "goalSpeed": 0.327,
+            "goalTime": 186.017,
+            "goalTravelTime": 3.117
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 252.417,
+            "goalSide": "Blue",
+            "goalSpeed": 5.716,
+            "goalTime": 252.617,
+            "goalTravelTime": 0.2
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 457.333,
+            "goalSide": "Red",
+            "goalSpeed": 2.737,
+            "goalTime": 458.6,
+            "goalTravelTime": 1.267
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 534.817,
+            "goalSide": "Blue",
+            "goalSpeed": 4.769,
+            "goalTime": 535.333,
+            "goalTravelTime": 0.516
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 569.5,
+            "goalSide": "Blue",
+            "goalSpeed": 1.659,
+            "goalTime": 571.85,
+            "goalTravelTime": 2.35
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 611.833,
+            "goalSide": "Blue",
+            "goalSpeed": 3.852,
+            "goalTime": 611.9,
+            "goalTravelTime": 0.067
+        }
+    ],
+    "rawPositionsAtEnd": "-398.22577557307864-106.03660963354484|-515.1393450818166-26.675377558314356|-322.4847298912453-89.65889265026553|",
+    "score": {
+        "Blue": 5,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP"
+        ]
+    },
+    "time": "2021-04-12 13:56"
+}

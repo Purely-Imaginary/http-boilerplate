@@ -1,0 +1,80 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 135.2,
+            "goalSide": "Red",
+            "goalSpeed": 2.494,
+            "goalTime": 136.767,
+            "goalTravelTime": 1.567
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 220.7,
+            "goalSide": "Red",
+            "goalSpeed": 2.784,
+            "goalTime": 222.183,
+            "goalTravelTime": 1.483
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 241.667,
+            "goalSide": "Red",
+            "goalSpeed": 1.543,
+            "goalTime": 244.117,
+            "goalTravelTime": 2.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 283.183,
+            "goalSide": "Blue",
+            "goalSpeed": 3.829,
+            "goalTime": 283.85,
+            "goalTravelTime": 0.667
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 336.117,
+            "goalSide": "Red",
+            "goalSpeed": 1.232,
+            "goalTime": 336.25,
+            "goalTravelTime": 0.133
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 468.15,
+            "goalSide": "Blue",
+            "goalSpeed": 5.605,
+            "goalTime": 468.433,
+            "goalTravelTime": 0.283
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 527.95,
+            "goalSide": "Red",
+            "goalSpeed": 1.414,
+            "goalTime": 530.517,
+            "goalTravelTime": 2.567
+        }
+    ],
+    "rawPositionsAtEnd": "38.288695305762865--181.95613683646764|-216.2338768502699-29.829590919532254|-77.4074911061099--83.60146932512153|87.07140042311923-35.88772172920322|122.5913154056339-255.0|",
+    "score": {
+        "Blue": 2,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "K-rol",
+            "hubigz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "ToPP",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-04-14 11:01"
+}

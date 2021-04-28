@@ -1,0 +1,78 @@
+{
+    "gameTime": 615.517,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 27.7,
+            "goalSide": "Red",
+            "goalSpeed": 1.552,
+            "goalTime": 28.567,
+            "goalTravelTime": 0.867
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 157.483,
+            "goalSide": "Blue",
+            "goalSpeed": 4.57,
+            "goalTime": 157.983,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 245.167,
+            "goalSide": "Red",
+            "goalSpeed": 5.721,
+            "goalTime": 245.433,
+            "goalTravelTime": 0.266
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 336.167,
+            "goalSide": "Red",
+            "goalSpeed": 5.689,
+            "goalTime": 336.35,
+            "goalTravelTime": 0.183
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 396.417,
+            "goalSide": "Blue",
+            "goalSpeed": 4.944,
+            "goalTime": 397.517,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 408.517,
+            "goalSide": "Blue",
+            "goalSpeed": 0.802,
+            "goalTime": 412.017,
+            "goalTravelTime": 3.5
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 614.55,
+            "goalSide": "Red",
+            "goalSpeed": 3.538,
+            "goalTime": 615.517,
+            "goalTravelTime": 0.967
+        }
+    ],
+    "rawPositionsAtEnd": "446.19287402790064--46.381391610985254|539.202919261023-10.289186441380085|377.3865492925034-2.760120209140367|347.89916291016715-14.409845139975728|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "Amman",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-04-13 12:23"
+}

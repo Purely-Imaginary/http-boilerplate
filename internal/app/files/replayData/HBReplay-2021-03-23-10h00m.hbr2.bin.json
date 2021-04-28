@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 21.933,
+            "goalSide": "Blue",
+            "goalSpeed": 4.887,
+            "goalTime": 22.517,
+            "goalTravelTime": 0.584
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 63.35,
+            "goalSide": "Red",
+            "goalSpeed": 2.024,
+            "goalTime": 64.833,
+            "goalTravelTime": 1.483
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 204.117,
+            "goalSide": "Blue",
+            "goalSpeed": 0.296,
+            "goalTime": 209.5,
+            "goalTravelTime": 5.383
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 273.617,
+            "goalSide": "Blue",
+            "goalSpeed": 5.916,
+            "goalTime": 273.95,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 537.183,
+            "goalSide": "Blue",
+            "goalSpeed": 0.589,
+            "goalTime": 539.7,
+            "goalTravelTime": 2.517
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 596.183,
+            "goalSide": "Red",
+            "goalSpeed": 0.668,
+            "goalTime": 599.083,
+            "goalTravelTime": 2.9
+        }
+    ],
+    "rawPositionsAtEnd": "150.6715824704851-0.0|310.0000000137326--7.499261739005679|-67.98892678227733-7.850558926328936|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "K-rol"
+        ],
+        "Red": [
+            "ToPP",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-03-23 10:00"
+}

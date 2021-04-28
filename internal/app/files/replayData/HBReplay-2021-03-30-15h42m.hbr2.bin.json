@@ -1,0 +1,86 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 132.717,
+            "goalSide": "Red",
+            "goalSpeed": 6.955,
+            "goalTime": 133.217,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 157.633,
+            "goalSide": "Red",
+            "goalSpeed": 4.544,
+            "goalTime": 158.083,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 206.95,
+            "goalSide": "Red",
+            "goalSpeed": 2.862,
+            "goalTime": 208.017,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 226.933,
+            "goalSide": "Red",
+            "goalSpeed": 3.224,
+            "goalTime": 228.167,
+            "goalTravelTime": 1.234
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 326.15,
+            "goalSide": "Blue",
+            "goalSpeed": 1.689,
+            "goalTime": 328.35,
+            "goalTravelTime": 2.2
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 354.283,
+            "goalSide": "Red",
+            "goalSpeed": 4.266,
+            "goalTime": 354.483,
+            "goalTravelTime": 0.2
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 502.2,
+            "goalSide": "Red",
+            "goalSpeed": 5.142,
+            "goalTime": 504.85,
+            "goalTravelTime": 2.65
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 582.167,
+            "goalSide": "Red",
+            "goalSpeed": 5.551,
+            "goalTime": 582.467,
+            "goalTravelTime": 0.3
+        }
+    ],
+    "rawPositionsAtEnd": "-232.73318117269898-174.31624705950117|70.41242398586601-134.4221760377284|-347.1065255505461-208.3977285128|-129.63977007426547-41.487526708507765|",
+    "score": {
+        "Blue": 1,
+        "Red": 7
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Panda",
+            "Amman"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak"
+        ]
+    },
+    "time": "2021-03-30 15:42"
+}

@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.717,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 159.667,
+            "goalSide": "Blue",
+            "goalSpeed": 1.212,
+            "goalTime": 161.833,
+            "goalTravelTime": 2.166
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 214.867,
+            "goalSide": "Blue",
+            "goalSpeed": 3.866,
+            "goalTime": 215.45,
+            "goalTravelTime": 0.583
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 286.033,
+            "goalSide": "Red",
+            "goalSpeed": 1.802,
+            "goalTime": 287.817,
+            "goalTravelTime": 1.784
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 473.017,
+            "goalSide": "Red",
+            "goalSpeed": 2.149,
+            "goalTime": 474.567,
+            "goalTravelTime": 1.55
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 488.95,
+            "goalSide": "Blue",
+            "goalSpeed": 5.192,
+            "goalTime": 489.4,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 524.95,
+            "goalSide": "Red",
+            "goalSpeed": 0.694,
+            "goalTime": 526.367,
+            "goalTravelTime": 1.417
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 598.05,
+            "goalSide": "Blue",
+            "goalSpeed": 1.208,
+            "goalTime": 600.717,
+            "goalTravelTime": 2.667
+        }
+    ],
+    "rawPositionsAtEnd": "-366.41353354272314--15.849895528069789|-297.99811741742093--173.32045274866653|-585.0--47.71213275667992|-313.0002966307947--200.0183389098398|",
+    "score": {
+        "Blue": 4,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "hubigz"
+        ]
+    },
+    "time": "2021-04-22 11:14"
+}

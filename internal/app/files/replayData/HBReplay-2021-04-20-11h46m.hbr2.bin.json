@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 57.567,
+            "goalSide": "Blue",
+            "goalSpeed": 2.192,
+            "goalTime": 59.85,
+            "goalTravelTime": 2.283
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 168.817,
+            "goalSide": "Blue",
+            "goalSpeed": 3.852,
+            "goalTime": 169.617,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 275.567,
+            "goalSide": "Red",
+            "goalSpeed": 7.913,
+            "goalTime": 275.833,
+            "goalTravelTime": 0.266
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 361.4,
+            "goalSide": "Blue",
+            "goalSpeed": 3.339,
+            "goalTime": 362.483,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 461.867,
+            "goalSide": "Red",
+            "goalSpeed": 0.674,
+            "goalTime": 465.967,
+            "goalTravelTime": 4.1
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 521.5,
+            "goalSide": "Blue",
+            "goalSpeed": 1.18,
+            "goalTime": 524.7,
+            "goalTravelTime": 3.2
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 560.9,
+            "goalSide": "Blue",
+            "goalSpeed": 2.904,
+            "goalTime": 562.333,
+            "goalTravelTime": 1.433
+        }
+    ],
+    "rawPositionsAtEnd": "54.61472111507313-247.73485729090058|-200.55612566515347-98.58158959312821|-174.25589001784545-80.82951067364769|-262.8418512520426-17.744446813307754|",
+    "score": {
+        "Blue": 5,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "ToPP"
+        ],
+        "Red": [
+            "K-rol",
+            "Amman"
+        ]
+    },
+    "time": "2021-04-20 11:46"
+}

@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 19.117,
+            "goalSide": "Red",
+            "goalSpeed": 0.956,
+            "goalTime": 21.667,
+            "goalTravelTime": 2.55
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 235.85,
+            "goalSide": "Blue",
+            "goalSpeed": 4.125,
+            "goalTime": 236.533,
+            "goalTravelTime": 0.683
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 312.75,
+            "goalSide": "Red",
+            "goalSpeed": 4.648,
+            "goalTime": 313.417,
+            "goalTravelTime": 0.667
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 466.617,
+            "goalSide": "Blue",
+            "goalSpeed": 1.454,
+            "goalTime": 467.367,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 586.683,
+            "goalSide": "Blue",
+            "goalSpeed": 2.96,
+            "goalTime": 587.733,
+            "goalTravelTime": 1.05
+        }
+    ],
+    "rawPositionsAtEnd": "-194.55523139340218-70.84059209863057|-152.9808066852269-70.45477839105986|-364.18164682843656--18.43281437504642|-49.16205242959124-255.0|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "hubigz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak"
+        ]
+    },
+    "time": "2021-04-21 11:46"
+}

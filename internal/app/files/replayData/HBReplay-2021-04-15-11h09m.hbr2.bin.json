@@ -1,0 +1,62 @@
+{
+    "gameTime": 665.367,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 231.517,
+            "goalSide": "Red",
+            "goalSpeed": 0.576,
+            "goalTime": 234.967,
+            "goalTravelTime": 3.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 369.283,
+            "goalSide": "Red",
+            "goalSpeed": 3.026,
+            "goalTime": 370.7,
+            "goalTravelTime": 1.417
+        },
+        {
+            "goalScorerName": "Drageon",
+            "goalShotTime": 467.833,
+            "goalSide": "Blue",
+            "goalSpeed": 1.632,
+            "goalTime": 469.867,
+            "goalTravelTime": 2.034
+        },
+        {
+            "goalScorerName": "Drageon",
+            "goalShotTime": 553.567,
+            "goalSide": "Blue",
+            "goalSpeed": 3.527,
+            "goalTime": 553.833,
+            "goalTravelTime": 0.266
+        },
+        {
+            "goalScorerName": "Drageon",
+            "goalShotTime": 661.9,
+            "goalSide": "Blue",
+            "goalSpeed": 5.633,
+            "goalTime": 665.367,
+            "goalTravelTime": 3.467
+        }
+    ],
+    "rawPositionsAtEnd": "-505.50245243056827-26.501363224217673|-585.0--20.520464632806107|-522.621727593484-0.10799412418682286|-536.1772169496888-29.734576451540196|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Drageon"
+        ],
+        "Red": [
+            "K-rol",
+            "rybak"
+        ]
+    },
+    "time": "2021-04-15 11:09"
+}

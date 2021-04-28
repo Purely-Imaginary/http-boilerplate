@@ -1,0 +1,118 @@
+{
+    "gameTime": 575.683,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 73.817,
+            "goalSide": "Blue",
+            "goalSpeed": 1.568,
+            "goalTime": 76.283,
+            "goalTravelTime": 2.466
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 127.283,
+            "goalSide": "Blue",
+            "goalSpeed": 6.187,
+            "goalTime": 128.25,
+            "goalTravelTime": 0.967
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 157.75,
+            "goalSide": "Blue",
+            "goalSpeed": 6.816,
+            "goalTime": 157.9,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 184.583,
+            "goalSide": "Red",
+            "goalSpeed": 5.201,
+            "goalTime": 185.033,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 253.583,
+            "goalSide": "Blue",
+            "goalSpeed": 4.546,
+            "goalTime": 254.117,
+            "goalTravelTime": 0.534
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 277.85,
+            "goalSide": "Blue",
+            "goalSpeed": 1.027,
+            "goalTime": 281.033,
+            "goalTravelTime": 3.183
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 385.417,
+            "goalSide": "Blue",
+            "goalSpeed": 5.234,
+            "goalTime": 385.733,
+            "goalTravelTime": 0.316
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 406.717,
+            "goalSide": "Blue",
+            "goalSpeed": 3.365,
+            "goalTime": 407.883,
+            "goalTravelTime": 1.166
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 502.55,
+            "goalSide": "Red",
+            "goalSpeed": 4.376,
+            "goalTime": 503.083,
+            "goalTravelTime": 0.533
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 522.117,
+            "goalSide": "Blue",
+            "goalSpeed": 0.264,
+            "goalTime": 527.467,
+            "goalTravelTime": 5.35
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 541.383,
+            "goalSide": "Blue",
+            "goalSpeed": 1.586,
+            "goalTime": 543.683,
+            "goalTravelTime": 2.3
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 572.35,
+            "goalSide": "Blue",
+            "goalSpeed": 1.002,
+            "goalTime": 575.683,
+            "goalTravelTime": 3.333
+        }
+    ],
+    "rawPositionsAtEnd": "-65.77060122153776-141.96999371980908|-103.95164782990844-134.63677565260346|-7.827670369004989--92.7774453359811|-74.76335256162757-90.2214027997473|",
+    "score": {
+        "Blue": 10,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "MaddoHatto"
+        ],
+        "Red": [
+            "ToPP",
+            "K-rol"
+        ]
+    },
+    "time": "2021-03-23 14:19"
+}

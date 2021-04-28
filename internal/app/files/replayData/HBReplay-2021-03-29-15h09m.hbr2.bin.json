@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 120.483,
+            "goalSide": "Red",
+            "goalSpeed": 1.117,
+            "goalTime": 123.117,
+            "goalTravelTime": 2.634
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 228.183,
+            "goalSide": "Red",
+            "goalSpeed": 0.389,
+            "goalTime": 230.183,
+            "goalTravelTime": 2.0
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 297.567,
+            "goalSide": "Blue",
+            "goalSpeed": 3.148,
+            "goalTime": 298.5,
+            "goalTravelTime": 0.933
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 301.85,
+            "goalSide": "Red",
+            "goalSpeed": 1.849,
+            "goalTime": 303.433,
+            "goalTravelTime": 1.583
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 364.667,
+            "goalSide": "Blue",
+            "goalSpeed": 1.659,
+            "goalTime": 367.55,
+            "goalTravelTime": 2.883
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 394.817,
+            "goalSide": "Blue",
+            "goalSpeed": 2.618,
+            "goalTime": 396.35,
+            "goalTravelTime": 1.533
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 455.3,
+            "goalSide": "Red",
+            "goalSpeed": 3.104,
+            "goalTime": 456.217,
+            "goalTravelTime": 0.917
+        }
+    ],
+    "rawPositionsAtEnd": "-211.05768695018932--35.71734532238044|-506.84588137063105--43.18478354865748|-418.6276535087551--97.04724144349592|-410.34787253994176--137.21210243880648|",
+    "score": {
+        "Blue": 3,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "K-rol"
+        ],
+        "Red": [
+            "ToPP",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2021-03-29 15:09"
+}

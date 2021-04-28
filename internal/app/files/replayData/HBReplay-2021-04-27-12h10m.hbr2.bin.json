@@ -1,0 +1,126 @@
+{
+    "gameTime": 423.283,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 3.217,
+            "goalSide": "Red",
+            "goalSpeed": 3.812,
+            "goalTime": 4.117,
+            "goalTravelTime": 0.9
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 119.767,
+            "goalSide": "Red",
+            "goalSpeed": 2.807,
+            "goalTime": 120.683,
+            "goalTravelTime": 0.916
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 122.167,
+            "goalSide": "Red",
+            "goalSpeed": 1.618,
+            "goalTime": 124.533,
+            "goalTravelTime": 2.366
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 138.683,
+            "goalSide": "Red",
+            "goalSpeed": 0.992,
+            "goalTime": 141.9,
+            "goalTravelTime": 3.217
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 186.85,
+            "goalSide": "Red",
+            "goalSpeed": 5.059,
+            "goalTime": 187.3,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 242.917,
+            "goalSide": "Red",
+            "goalSpeed": 4.481,
+            "goalTime": 243.05,
+            "goalTravelTime": 0.133
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 251.85,
+            "goalSide": "Blue",
+            "goalSpeed": 1.773,
+            "goalTime": 252.733,
+            "goalTravelTime": 0.883
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 322.517,
+            "goalSide": "Blue",
+            "goalSpeed": 1.962,
+            "goalTime": 324.55,
+            "goalTravelTime": 2.033
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 328.033,
+            "goalSide": "Red",
+            "goalSpeed": 4.277,
+            "goalTime": 328.767,
+            "goalTravelTime": 0.734
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 406.35,
+            "goalSide": "Blue",
+            "goalSpeed": 4.355,
+            "goalTime": 406.8,
+            "goalTravelTime": 0.45
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 412.35,
+            "goalSide": "Red",
+            "goalSpeed": 5.409,
+            "goalTime": 412.617,
+            "goalTravelTime": 0.267
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 416.7,
+            "goalSide": "Red",
+            "goalSpeed": 4.128,
+            "goalTime": 417.433,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 421.383,
+            "goalSide": "Red",
+            "goalSpeed": 1.836,
+            "goalTime": 423.283,
+            "goalTravelTime": 1.9
+        }
+    ],
+    "rawPositionsAtEnd": "521.9733669487975-37.12310580422528|376.99479449291096--89.9542122274522|322.6041669092084--8.75082125274821|252.00546041724039-36.33958624374691|",
+    "score": {
+        "Blue": 3,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "hubigz"
+        ],
+        "Red": [
+            "K-rol",
+            "Nelson Mandela"
+        ]
+    },
+    "time": "2021-04-27 12:10"
+}

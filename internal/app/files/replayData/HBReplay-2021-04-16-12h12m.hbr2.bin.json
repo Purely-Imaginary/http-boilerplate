@@ -1,0 +1,62 @@
+{
+    "gameTime": 613.683,
+    "goalsData": [
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 320.133,
+            "goalSide": "Red",
+            "goalSpeed": 1.852,
+            "goalTime": 321.8,
+            "goalTravelTime": 1.667
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 337.533,
+            "goalSide": "Blue",
+            "goalSpeed": 5.496,
+            "goalTime": 337.7,
+            "goalTravelTime": 0.167
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 487.5,
+            "goalSide": "Blue",
+            "goalSpeed": 2.989,
+            "goalTime": 488.717,
+            "goalTravelTime": 1.217
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 533.067,
+            "goalSide": "Red",
+            "goalSpeed": 5.495,
+            "goalTime": 533.283,
+            "goalTravelTime": 0.216
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 612.2,
+            "goalSide": "Red",
+            "goalSpeed": 2.288,
+            "goalTime": 613.683,
+            "goalTravelTime": 1.483
+        }
+    ],
+    "rawPositionsAtEnd": "307.9390546770181-105.50236536486527|400.9359392281733-246.64294382716733|337.74194273038205-99.66956194756129|394.2876930309377-84.35372444202383|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "hubigz"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "K-rol"
+        ]
+    },
+    "time": "2021-04-16 12:12"
+}
