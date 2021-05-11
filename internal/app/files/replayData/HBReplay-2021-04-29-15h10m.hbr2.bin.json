@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 267.967,
+            "goalSide": "Blue",
+            "goalSpeed": 6.242,
+            "goalTime": 268.017,
+            "goalTravelTime": 0.05
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 302.167,
+            "goalSide": "Red",
+            "goalSpeed": 0.512,
+            "goalTime": 304.683,
+            "goalTravelTime": 2.516
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 315.233,
+            "goalSide": "Blue",
+            "goalSpeed": 4.654,
+            "goalTime": 316.15,
+            "goalTravelTime": 0.917
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 473.933,
+            "goalSide": "Blue",
+            "goalSpeed": 3.064,
+            "goalTime": 475.267,
+            "goalTravelTime": 1.334
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 510.8,
+            "goalSide": "Red",
+            "goalSpeed": 2.414,
+            "goalTime": 512.55,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 564.883,
+            "goalSide": "Blue",
+            "goalSpeed": 1.002,
+            "goalTime": 568.15,
+            "goalTravelTime": 3.267
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 593.083,
+            "goalSide": "Blue",
+            "goalSpeed": 0.603,
+            "goalTime": 597.067,
+            "goalTravelTime": 3.984
+        }
+    ],
+    "rawPositionsAtEnd": "53.17294791515337-36.01256650051457|-20.43919800485476--2.612244982982257|-165.65860499616142--28.158704171718497|118.92135470191708-196.42135620314207|",
+    "score": {
+        "Blue": 5,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "ToPP"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak"
+        ]
+    },
+    "time": "2021-04-29 15:10"
+}

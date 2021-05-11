@@ -1,0 +1,112 @@
+{
+    "gameTime": 447.6,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 25.8,
+            "goalSide": "Red",
+            "goalSpeed": 2.745,
+            "goalTime": 26.917,
+            "goalTravelTime": 1.117
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 56.45,
+            "goalSide": "Red",
+            "goalSpeed": 4.522,
+            "goalTime": 57.0,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 94.483,
+            "goalSide": "Red",
+            "goalSpeed": 4.856,
+            "goalTime": 95.0,
+            "goalTravelTime": 0.517
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 138.817,
+            "goalSide": "Red",
+            "goalSpeed": 2.63,
+            "goalTime": 140.2,
+            "goalTravelTime": 1.383
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 146.117,
+            "goalSide": "Red",
+            "goalSpeed": 4.32,
+            "goalTime": 146.55,
+            "goalTravelTime": 0.433
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 282.667,
+            "goalSide": "Red",
+            "goalSpeed": 5.019,
+            "goalTime": 283.533,
+            "goalTravelTime": 0.866
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 340.367,
+            "goalSide": "Red",
+            "goalSpeed": 4.169,
+            "goalTime": 341.183,
+            "goalTravelTime": 0.816
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 372.467,
+            "goalSide": "Red",
+            "goalSpeed": 3.22,
+            "goalTime": 374.95,
+            "goalTravelTime": 2.483
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 404.467,
+            "goalSide": "Red",
+            "goalSpeed": 4.837,
+            "goalTime": 404.967,
+            "goalTravelTime": 0.5
+        },
+        {
+            "goalScorerName": "Avi",
+            "goalShotTime": 411.45,
+            "goalSide": "Blue",
+            "goalSpeed": 5.03,
+            "goalTime": 414.15,
+            "goalTravelTime": 2.7
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 444.133,
+            "goalSide": "Red",
+            "goalSpeed": 6.666,
+            "goalTime": 447.6,
+            "goalTravelTime": 3.467
+        }
+    ],
+    "rawPositionsAtEnd": "564.834987492278--112.74150039931284|274.37725254604675-146.0698849672698|-92.55132523947555--255.0|525.5317566340261--48.79446836002843|585.0--143.01714688784392|305.29395226138956--39.3500630226086|",
+    "score": {
+        "Blue": 1,
+        "Red": 10
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "watykanczyk",
+            "Avi",
+            "kamie\u01442115"
+        ],
+        "Red": [
+            "Amman",
+            "ToPP",
+            "hubigz"
+        ]
+    },
+    "time": "2021-04-30 10:54"
+}

@@ -1,0 +1,62 @@
+{
+    "gameTime": 799.233,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 229.7,
+            "goalSide": "Red",
+            "goalSpeed": 1.437,
+            "goalTime": 232.25,
+            "goalTravelTime": 2.55
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 307.567,
+            "goalSide": "Blue",
+            "goalSpeed": 0.886,
+            "goalTime": 311.067,
+            "goalTravelTime": 3.5
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 336.95,
+            "goalSide": "Blue",
+            "goalSpeed": 1.993,
+            "goalTime": 338.667,
+            "goalTravelTime": 1.717
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 479.383,
+            "goalSide": "Red",
+            "goalSpeed": 4.307,
+            "goalTime": 479.783,
+            "goalTravelTime": 0.4
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 798.983,
+            "goalSide": "Red",
+            "goalSpeed": 5.909,
+            "goalTime": 799.233,
+            "goalTravelTime": 0.25
+        }
+    ],
+    "rawPositionsAtEnd": "513.7265020775653--35.20963586708588|346.9961983174073-55.63810529825418|393.20818105583237--68.8798174888871|",
+    "score": {
+        "Blue": 2,
+        "Red": 3
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak"
+        ],
+        "Red": [
+            "Amman",
+            "hubigz"
+        ]
+    },
+    "time": "2021-05-10 11:07"
+}

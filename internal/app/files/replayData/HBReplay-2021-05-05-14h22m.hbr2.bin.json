@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 295.133,
+            "goalSide": "Red",
+            "goalSpeed": 6.269,
+            "goalTime": 295.217,
+            "goalTravelTime": 0.084
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 306.0,
+            "goalSide": "Red",
+            "goalSpeed": 0.706,
+            "goalTime": 309.833,
+            "goalTravelTime": 3.833
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 323.3,
+            "goalSide": "Red",
+            "goalSpeed": 1.991,
+            "goalTime": 324.05,
+            "goalTravelTime": 0.75
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 336.0,
+            "goalSide": "Red",
+            "goalSpeed": 2.493,
+            "goalTime": 337.067,
+            "goalTravelTime": 1.067
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 354.383,
+            "goalSide": "Red",
+            "goalSpeed": 1.089,
+            "goalTime": 357.367,
+            "goalTravelTime": 2.984
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 455.583,
+            "goalSide": "Red",
+            "goalSpeed": 1.799,
+            "goalTime": 457.25,
+            "goalTravelTime": 1.667
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 596.867,
+            "goalSide": "Red",
+            "goalSpeed": 4.82,
+            "goalTime": 597.367,
+            "goalTravelTime": 0.5
+        }
+    ],
+    "rawPositionsAtEnd": "-500.18509058761117--73.09978354260183|-292.5000000117222-22.50000169986454|-403.10326562998256--93.10660163871779|-154.20993879535348--180.37210053586173|",
+    "score": {
+        "Blue": 0,
+        "Red": 7
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "logical-luke",
+            "hubigz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Amman"
+        ]
+    },
+    "time": "2021-05-05 14:22"
+}

@@ -1,0 +1,64 @@
+{
+    "gameTime": 987.617,
+    "goalsData": [
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 135.283,
+            "goalSide": "Blue",
+            "goalSpeed": 2.53,
+            "goalTime": 135.85,
+            "goalTravelTime": 0.567
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 171.433,
+            "goalSide": "Blue",
+            "goalSpeed": 4.453,
+            "goalTime": 171.733,
+            "goalTravelTime": 0.3
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 217.767,
+            "goalSide": "Red",
+            "goalSpeed": 5.459,
+            "goalTime": 219.817,
+            "goalTravelTime": 2.05
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 516.8,
+            "goalSide": "Red",
+            "goalSpeed": 1.718,
+            "goalTime": 517.833,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 987.3,
+            "goalSide": "Blue",
+            "goalSpeed": 5.422,
+            "goalTime": 987.617,
+            "goalTravelTime": 0.317
+        }
+    ],
+    "rawPositionsAtEnd": "-521.4174994130162--37.06977886980127|-143.51368701403274--84.1847046124045|-483.3949599904943--42.90015658856753|-518.8213567835558-146.59732783041133|-428.9906688689591-45.268354249476744|-499.7755685498555-173.34068180689147|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "hubigz",
+            "Amman",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "rybak",
+            "ToPP"
+        ]
+    },
+    "time": "2021-05-10 13:25"
+}

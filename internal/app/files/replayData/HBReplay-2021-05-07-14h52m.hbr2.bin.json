@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 43.217,
+            "goalSide": "Red",
+            "goalSpeed": 5.206,
+            "goalTime": 43.55,
+            "goalTravelTime": 0.333
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 125.117,
+            "goalSide": "Red",
+            "goalSpeed": 2.859,
+            "goalTime": 126.433,
+            "goalTravelTime": 1.316
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 323.783,
+            "goalSide": "Red",
+            "goalSpeed": 2.173,
+            "goalTime": 325.067,
+            "goalTravelTime": 1.284
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 547.85,
+            "goalSide": "Red",
+            "goalSpeed": 3.611,
+            "goalTime": 548.4,
+            "goalTravelTime": 0.55
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 556.533,
+            "goalSide": "Blue",
+            "goalSpeed": 4.682,
+            "goalTime": 556.833,
+            "goalTravelTime": 0.3
+        }
+    ],
+    "rawPositionsAtEnd": "-38.05179061910537-61.725721976621465|59.88794490164694-139.32873656445193|-42.67201744594281--38.13381111566782|-28.530833155734058-110.47853164018008|",
+    "score": {
+        "Blue": 1,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "hubigz"
+        ],
+        "Red": [
+            "rybak",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2021-05-07 14:52"
+}

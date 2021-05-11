@@ -1,0 +1,62 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 84.117,
+            "goalSide": "Blue",
+            "goalSpeed": 3.535,
+            "goalTime": 84.6,
+            "goalTravelTime": 0.483
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 93.9,
+            "goalSide": "Red",
+            "goalSpeed": 4.074,
+            "goalTime": 94.733,
+            "goalTravelTime": 0.833
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 343.1,
+            "goalSide": "Blue",
+            "goalSpeed": 1.853,
+            "goalTime": 344.583,
+            "goalTravelTime": 1.483
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 409.05,
+            "goalSide": "Blue",
+            "goalSpeed": 1.172,
+            "goalTime": 410.383,
+            "goalTravelTime": 1.333
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 481.083,
+            "goalSide": "Red",
+            "goalSpeed": 5.158,
+            "goalTime": 481.183,
+            "goalTravelTime": 0.1
+        }
+    ],
+    "rawPositionsAtEnd": "-40.112398109929686--119.85032437543884|-67.56326722490925--66.51944121928172|200.97110840432546--211.7522923864777|-22.82988145391282--35.853333991407474|",
+    "score": {
+        "Blue": 3,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "Amman"
+        ],
+        "Red": [
+            "Nelson Mandela",
+            "ToPP"
+        ]
+    },
+    "time": "2021-05-10 15:05"
+}

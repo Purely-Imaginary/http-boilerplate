@@ -1,0 +1,94 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 25.167,
+            "goalSide": "Blue",
+            "goalSpeed": 6.286,
+            "goalTime": 25.383,
+            "goalTravelTime": 0.216
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 42.75,
+            "goalSide": "Blue",
+            "goalSpeed": 1.886,
+            "goalTime": 44.233,
+            "goalTravelTime": 1.483
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 201.817,
+            "goalSide": "Blue",
+            "goalSpeed": 1.585,
+            "goalTime": 203.983,
+            "goalTravelTime": 2.166
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 394.0,
+            "goalSide": "Blue",
+            "goalSpeed": 5.821,
+            "goalTime": 394.217,
+            "goalTravelTime": 0.217
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 488.7,
+            "goalSide": "Blue",
+            "goalSpeed": 4.494,
+            "goalTime": 489.267,
+            "goalTravelTime": 0.567
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 527.867,
+            "goalSide": "Blue",
+            "goalSpeed": 2.752,
+            "goalTime": 528.6,
+            "goalTravelTime": 0.733
+        },
+        {
+            "goalScorerName": "Nelson Mandela",
+            "goalShotTime": 531.433,
+            "goalSide": "Blue",
+            "goalSpeed": 2.459,
+            "goalTime": 533.1,
+            "goalTravelTime": 1.667
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 541.567,
+            "goalSide": "Blue",
+            "goalSpeed": 1.5,
+            "goalTime": 543.95,
+            "goalTravelTime": 2.383
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 575.067,
+            "goalSide": "Blue",
+            "goalSpeed": 1.983,
+            "goalTime": 576.467,
+            "goalTravelTime": 1.4
+        }
+    ],
+    "rawPositionsAtEnd": "-514.1411559934611-42.819963127990285|-172.68987168995562-133.47905250637967|-413.8111560835118--67.25770842219308|-386.8226821045172--14.570931599433743|",
+    "score": {
+        "Blue": 9,
+        "Red": 0
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "ToPP",
+            "Nelson Mandela"
+        ],
+        "Red": [
+            "Amman",
+            "hubigz"
+        ]
+    },
+    "time": "2021-05-05 10:27"
+}

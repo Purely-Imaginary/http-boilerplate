@@ -1,0 +1,78 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 13.583,
+            "goalSide": "Red",
+            "goalSpeed": 3.257,
+            "goalTime": 14.583,
+            "goalTravelTime": 1.0
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 93.933,
+            "goalSide": "Red",
+            "goalSpeed": 3.956,
+            "goalTime": 95.117,
+            "goalTravelTime": 1.184
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 343.85,
+            "goalSide": "Red",
+            "goalSpeed": 1.84,
+            "goalTime": 346.05,
+            "goalTravelTime": 2.2
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 454.917,
+            "goalSide": "Blue",
+            "goalSpeed": 0.924,
+            "goalTime": 458.283,
+            "goalTravelTime": 3.366
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 469.25,
+            "goalSide": "Red",
+            "goalSpeed": 1.554,
+            "goalTime": 470.75,
+            "goalTravelTime": 1.5
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 528.517,
+            "goalSide": "Blue",
+            "goalSpeed": 2.593,
+            "goalTime": 530.133,
+            "goalTravelTime": 1.616
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 599.15,
+            "goalSide": "Red",
+            "goalSpeed": 4.794,
+            "goalTime": 599.317,
+            "goalTravelTime": 0.167
+        }
+    ],
+    "rawPositionsAtEnd": "-88.41935620164979-51.915853858501315|-95.00391911311652-0.0|-485.53872675033386-29.638299544073238|-129.6522078949145-134.93470902629144|",
+    "score": {
+        "Blue": 2,
+        "Red": 5
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "Amman",
+            "ToPP"
+        ],
+        "Red": [
+            "rybak",
+            "MaddoHatto"
+        ]
+    },
+    "time": "2021-05-05 15:12"
+}

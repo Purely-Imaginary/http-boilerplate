@@ -1,0 +1,70 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 104.717,
+            "goalSide": "Red",
+            "goalSpeed": 5.358,
+            "goalTime": 104.783,
+            "goalTravelTime": 0.066
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 124.4,
+            "goalSide": "Blue",
+            "goalSpeed": 7.596,
+            "goalTime": 124.8,
+            "goalTravelTime": 0.4
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 220.25,
+            "goalSide": "Red",
+            "goalSpeed": 6.824,
+            "goalTime": 220.283,
+            "goalTravelTime": 0.033
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 377.033,
+            "goalSide": "Red",
+            "goalSpeed": 0.346,
+            "goalTime": 381.783,
+            "goalTravelTime": 4.75
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 419.417,
+            "goalSide": "Blue",
+            "goalSpeed": 4.167,
+            "goalTime": 419.933,
+            "goalTravelTime": 0.516
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 522.533,
+            "goalSide": "Red",
+            "goalSpeed": 3.888,
+            "goalTime": 523.5,
+            "goalTravelTime": 0.967
+        }
+    ],
+    "rawPositionsAtEnd": "239.67976565253048--81.73192314913354|454.1151326595035--165.97779132550497|250.43408845662057-46.51547218180432|77.41859218156114--182.19226004848935|",
+    "score": {
+        "Blue": 2,
+        "Red": 4
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "K-rol",
+            "hubigz"
+        ],
+        "Red": [
+            "MaddoHatto",
+            "Amman"
+        ]
+    },
+    "time": "2021-04-28 15:40"
+}

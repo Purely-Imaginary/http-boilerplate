@@ -1,0 +1,110 @@
+{
+    "gameTime": 329.133,
+    "goalsData": [
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 7.967,
+            "goalSide": "Blue",
+            "goalSpeed": 2.384,
+            "goalTime": 9.717,
+            "goalTravelTime": 1.75
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 26.0,
+            "goalSide": "Blue",
+            "goalSpeed": 2.748,
+            "goalTime": 27.267,
+            "goalTravelTime": 1.267
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 125.533,
+            "goalSide": "Blue",
+            "goalSpeed": 0.986,
+            "goalTime": 128.483,
+            "goalTravelTime": 2.95
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 161.867,
+            "goalSide": "Blue",
+            "goalSpeed": 3.187,
+            "goalTime": 162.9,
+            "goalTravelTime": 1.033
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 167.55,
+            "goalSide": "Blue",
+            "goalSpeed": 3.525,
+            "goalTime": 168.633,
+            "goalTravelTime": 1.083
+        },
+        {
+            "goalScorerName": "K-rol",
+            "goalShotTime": 183.083,
+            "goalSide": "Red",
+            "goalSpeed": 6.987,
+            "goalTime": 183.233,
+            "goalTravelTime": 0.15
+        },
+        {
+            "goalScorerName": "MaddoHatto",
+            "goalShotTime": 202.233,
+            "goalSide": "Blue",
+            "goalSpeed": 6.183,
+            "goalTime": 202.367,
+            "goalTravelTime": 0.134
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 230.933,
+            "goalSide": "Blue",
+            "goalSpeed": 0.385,
+            "goalTime": 233.2,
+            "goalTravelTime": 2.267
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 291.983,
+            "goalSide": "Blue",
+            "goalSpeed": 3.048,
+            "goalTime": 293.083,
+            "goalTravelTime": 1.1
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 322.067,
+            "goalSide": "Blue",
+            "goalSpeed": 3.841,
+            "goalTime": 322.867,
+            "goalTravelTime": 0.8
+        },
+        {
+            "goalScorerName": "hubigz",
+            "goalShotTime": 328.433,
+            "goalSide": "Blue",
+            "goalSpeed": 4.335,
+            "goalTime": 329.133,
+            "goalTravelTime": 0.7
+        }
+    ],
+    "rawPositionsAtEnd": "-446.05309341801103-12.643952276142059|-310.12296972803364--56.43887263018206|-295.52698491302266-100.49316600027832|-347.72130093878445--53.540885092588695|",
+    "score": {
+        "Blue": 10,
+        "Red": 1
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "hubigz"
+        ],
+        "Red": [
+            "ToPP",
+            "K-rol"
+        ]
+    },
+    "time": "2021-04-28 13:26"
+}

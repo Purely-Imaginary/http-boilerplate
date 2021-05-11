@@ -1,0 +1,72 @@
+{
+    "gameTime": 600.017,
+    "goalsData": [
+        {
+            "goalScorerName": "k-rol",
+            "goalShotTime": 167.95,
+            "goalSide": "Red",
+            "goalSpeed": 1.479,
+            "goalTime": 168.733,
+            "goalTravelTime": 0.783
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 234.067,
+            "goalSide": "Blue",
+            "goalSpeed": 2.464,
+            "goalTime": 235.8,
+            "goalTravelTime": 1.733
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 331.283,
+            "goalSide": "Blue",
+            "goalSpeed": 4.075,
+            "goalTime": 332.117,
+            "goalTravelTime": 0.834
+        },
+        {
+            "goalScorerName": "rybak",
+            "goalShotTime": 414.183,
+            "goalSide": "Blue",
+            "goalSpeed": 3.225,
+            "goalTime": 415.117,
+            "goalTravelTime": 0.934
+        },
+        {
+            "goalScorerName": "ToPP",
+            "goalShotTime": 439.967,
+            "goalSide": "Blue",
+            "goalSpeed": 1.98,
+            "goalTime": 441.533,
+            "goalTravelTime": 1.566
+        },
+        {
+            "goalScorerName": "Amman",
+            "goalShotTime": 485.867,
+            "goalSide": "Red",
+            "goalSpeed": 1.771,
+            "goalTime": 487.633,
+            "goalTravelTime": 1.766
+        }
+    ],
+    "rawPositionsAtEnd": "258.99417744331606-160.33736837080937|420.52739318614687-136.68180043942743|441.1873033571897-160.6535566933412|339.67241019042916-111.16651849855229|279.51288653489667-255.0|",
+    "score": {
+        "Blue": 4,
+        "Red": 2
+    },
+    "startingGameTime": 0,
+    "teams": {
+        "Blue": [
+            "MaddoHatto",
+            "rybak",
+            "ToPP"
+        ],
+        "Red": [
+            "Amman",
+            "Nelson Mandela",
+            "k-rol"
+        ]
+    },
+    "time": "2021-04-30 11:40"
+}
